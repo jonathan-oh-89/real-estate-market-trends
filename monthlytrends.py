@@ -16,7 +16,7 @@ df = pd.merge(unemployment, redfin,  how='inner', left_on=['geographyid','date']
 
 df[['monthsofsupply','mediansaleprice','unemploymentrate']] = df[['monthsofsupply','mediansaleprice','unemploymentrate']].astype(float)
 
-df = df.to_csv('files/monthlytrends.csv')
+df = df.to_csv('files/monthlytrends.csv', index=False)
 
 
 
