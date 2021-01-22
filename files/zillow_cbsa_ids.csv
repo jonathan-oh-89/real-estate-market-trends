@@ -1,0 +1,916 @@
+zillow_id,cbsa_id,cbsa_name
+394327,11260,Anchorage
+394580,21820,Fairbanks
+394730,27940,Juneau
+394743,28540,Ketchikan
+394311,10700,Albertville
+394333,11500,Anniston-Oxford-Jacksonville
+394351,12220,Auburn-Opelika
+394388,13820,Birmingham-Hoover
+394511,18980,Cullman
+394519,19300,Daphne-Fairhope-Foley
+394523,19460,Decatur
+394537,20020,Dothan
+394571,21460,Enterprise
+394598,22520,Florence-Muscle Shoals
+394620,23460,Gadsden
+394698,26620,Huntsville
+394870,33660,Mobile
+394875,33860,Montgomery
+753911,37120,Ozark
+395073,42460,Scottsboro
+395083,42820,Selma
+395145,45180,Talladega-Sylacauga
+395165,45980,Troy
+395171,46220,Tuscaloosa
+395184,46740,Valley
+394337,11660,Arkadelphia
+394366,12900,Batesville
+394397,14180,Blytheville
+394435,15780,Camden
+394560,20980,El Dorado
+394590,22220,Fayetteville-Springdale-Rogers
+394601,22620,Forrest City
+394609,22900,Fort Smith
+394667,25460,Harrison
+394676,25760,Helena-West Helena
+394689,26300,Hot Springs
+394728,27860,Jonesboro
+394798,30780,Little Rock-North Little Rock-Conway
+394818,31620,Magnolia
+753902,31680,Malvern
+394891,34260,Mountain Home
+394961,37500,Paragould
+394980,38220,Pine Bluff
+395042,40780,Russellville
+395077,42620,Searcy
+394595,22380,Flagstaff
+394765,29420,Lake Havasu City-Kingman
+394918,35700,Nogales
+394967,37740,Payson
+394976,38060,Phoenix-Mesa-Scottsdale
+395002,39150,Prescott
+395046,40940,Safford
+395095,43320,Show Low
+395098,43420,Sierra Vista-Douglas
+395167,46060,Tucson
+395247,49740,Yuma
+394357,12540,Bakersfield
+394464,17020,Chico
+394472,17340,Clearlake
+394508,18860,Crescent City
+394559,20940,El Centro
+394577,21700,Eureka-Arcata-Fortuna
+394619,23420,Fresno
+394662,25260,Hanford-Corcoran
+753899,31080,Los Angeles-Long Beach-Anaheim
+394814,31460,Madera
+394851,32900,Merced
+394871,33700,Modesto
+394900,34900,Napa
+395016,39780,Red Bluff
+395018,39820,Redding
+395025,40140,Riverside-San Bernardino-Ontario
+395045,40900,Sacramento--Roseville--Arden-Arcade
+395050,41500,Salinas
+395056,41740,San Diego-Carlsbad
+395057,41860,San Francisco-Oakland-Hayward
+395059,41940,San Jose-Sunnyvale-Santa Clara
+395061,42020,San Luis Obispo-Paso Robles-Arroyo Grande
+395065,42100,Santa Cruz-Watsonville
+753917,42200,Santa Maria-Santa Barbara
+395068,42220,Santa Rosa
+753920,43760,Sonora
+395134,44700,Stockton-Lodi
+395141,45000,Susanville
+395166,46020,Truckee-Grass Valley
+395175,46380,Ukiah
+395183,46700,Vallejo-Fairfield
+394952,37100,Oxnard-Thousand Oaks-Ventura
+395195,47300,Visalia-Porterville
+395246,49700,Yuba City
+394405,14500,Boulder
+753871,14720,Breckenridge
+394437,15860,Canon City
+394484,17820,Colorado Springs
+753874,18780,Craig
+394530,19740,Denver-Aurora-Lakewood
+394547,20420,Durango
+394556,20780,Edwards
+394602,22660,Fort Collins
+394606,22820,Fort Morgan
+753881,24060,Glenwood Springs
+394639,24300,Grand Junction
+394645,24540,Greeley
+394876,33940,Montrose
+395007,39380,Pueblo
+753921,44460,Steamboat Springs
+395130,44540,Sterling
+394415,14860,Bridgeport-Stamford-Norwalk
+394669,25540,Hartford-West Hartford-East Hartford
+394908,35300,New Haven
+394924,35980,Norwich-New London-Westerly
+395162,45860,Torrington
+395209,47900,Washington-Arlington-Alexandria
+394539,20100,Dover
+395051,41540,Salisbury
+394335,11580,Arcadia
+394440,15980,Cape Coral-Fort Myers
+394476,17500,Clewiston
+753875,18880,Crestview-Fort Walton Beach-Destin
+394528,19660,Deltona-Daytona Beach-Ormond Beach
+394622,23540,Gainesville
+394685,26140,Homosassa Springs
+394714,27260,Jacksonville
+394744,28580,Key West
+394764,29380,Lake City
+394766,29460,Lakeland-Winter Haven
+394856,33100,Miami-Fort Lauderdale-West Palm Beach
+394901,34940,Naples-Immokalee-Marco Island
+753906,35840,North Port-Sarasota-Bradenton
+394927,36100,Ocala
+394934,36380,Okeechobee
+394943,36740,Orlando-Kissimmee-Sanford
+394955,37260,Palatka
+394957,37340,Palm Bay-Melbourne-Titusville
+394960,37460,Panama City
+394971,37860,Pensacola-Ferry Pass-Brent
+394995,38940,Port St. Lucie
+395009,39460,Punta Gorda
+395080,42700,Sebring
+395146,45220,Tallahassee
+395148,45300,Tampa-St. Petersburg-Clearwater
+395153,45540,The Villages
+395079,42680,Sebastian-Vero Beach
+395214,48100,Wauchula
+394306,10500,Albany
+394324,11140,Americus
+394346,12020,Athens-Clarke County
+394347,12060,Atlanta-Sandy Springs-Roswell
+394352,12260,Augusta-Richmond County
+394356,12460,Bainbridge
+394423,15260,Brunswick
+394432,15660,Calhoun
+394448,16340,Cedartown
+394488,17980,Columbus
+394498,18380,Cordele
+394500,18460,Cornelia
+394515,19140,Dalton
+394538,20060,Douglas
+394540,20140,Dublin
+394594,22340,Fitzgerald
+394623,23580,Gainesville
+394682,25980,Hinesville
+753893,27600,Jefferson
+394725,27700,Jesup
+394762,29300,LaGrange
+394813,31420,Macon-Bibb County
+394861,33300,Milledgeville
+394883,34220,Moultrie
+395038,40660,Rome
+395070,42340,Savannah
+395122,41220,St. Marys
+395126,44340,Statesboro
+395138,44900,Summerville
+395154,45580,Thomaston
+395155,45620,Thomasville
+395158,45700,Tifton
+395159,45740,Toccoa
+395182,46660,Valdosta
+395191,47080,Vidalia
+395202,47580,Warner Robins
+395216,48180,Waycross
+394680,25900,Hilo
+394731,27980,Kahului-Wailuku-Lahaina
+394736,28180,Kapaa
+753924,46520,Urban Honolulu
+394325,11180,Ames
+394401,14340,Boone
+394427,15460,Burlington
+394447,16300,Cedar Rapids
+394477,17540,Clinton
+394531,19780,Des Moines-West Des Moines
+394542,20220,Dubuque
+753880,21840,Fairfield
+394605,22800,Fort Madison-Keokuk
+394707,26980,Iowa City
+394833,32260,Marshalltown
+394838,32380,Mason City
+394895,34700,Muscatine
+394916,35500,Newton
+394945,36820,Oskaloosa
+394947,36900,Ottumwa
+395102,43580,Sioux City
+395111,43980,Spencer
+395112,44020,Spirit Lake
+395135,44740,Storm Lake
+395210,47940,Waterloo-Cedar Falls
+394391,13940,Blackfoot
+394399,14260,Boise City
+394426,15420,Burley
+394480,17660,Coeur d'Alene
+753884,25200,Hailey
+394703,26820,Idaho Falls
+394787,30300,Lewiston
+394881,34140,Moscow
+394892,34300,Mountain Home
+394988,38540,Pocatello
+395020,39940,Rexburg
+753916,41760,Sandpoint
+395173,46300,Twin Falls
+753869,14010,Bloomington
+394438,15900,Canton
+394442,16060,Carbondale-Marion
+394454,16580,Champaign-Urbana
+394456,16660,Charleston-Mattoon
+394463,16980,Chicago-Naperville-Elgin
+394516,19180,Danville
+394520,19340,Davenport-Moline-Rock Island
+394524,19500,Decatur
+394535,19940,Dixon
+394557,20820,Effingham
+394616,23300,Freeport
+394625,23660,Galesburg
+394715,27300,Jacksonville
+394734,28100,Kankakee
+394795,30660,Lincoln
+394812,31380,Macomb
+394888,34500,Mount Vernon
+394946,36837,Ottawa-Peru
+394972,37900,Peoria
+394992,38700,Pontiac
+395010,39500,Quincy
+395029,40300,Rochelle
+395033,40420,Rockford
+395114,44100,Springfield
+395131,44580,Sterling
+395150,45380,Taylorville
+394331,11420,Angola
+394349,12140,Auburn
+394375,13260,Bedford
+394393,14020,Bloomington
+394489,18020,Columbus
+394494,18220,Connersville
+394507,18820,Crawfordsville
+394525,19540,Decatur
+394565,21140,Elkhart-Goshen
+394579,21780,Evansville
+394612,23060,Fort Wayne
+394613,23140,Frankfort
+394649,24700,Greensburg
+394696,26540,Huntington
+394705,26900,Indianapolis-Carmel-Anderson
+394721,27540,Jasper
+394739,28340,Kendallville
+394755,29020,Kokomo
+753895,29200,Lafayette-West Lafayette
+394801,30900,Logansport
+394815,31500,Madison
+394826,31980,Marion
+394857,33140,Michigan City-La Porte
+394893,34620,Muncie
+394906,35220,New Castle
+394921,35860,North Vernon
+394973,37940,Peru
+394987,38500,Plymouth
+395021,39980,Richmond
+395087,42980,Seymour
+395107,43780,South Bend-Mishawaka
+395151,45460,Terre Haute
+395192,47180,Vincennes
+395196,47340,Wabash
+395205,47700,Warsaw
+395207,47780,Washington
+753864,49060,Arkansas City-Winfield
+394342,11860,Atchison
+394481,17700,Coffeyville
+394536,19980,Dodge City
+394569,21380,Emporia
+394627,23780,Garden City
+394643,24460,Great Bend
+394673,25700,Hays
+394701,26740,Hutchinson
+753894,27920,Junction City
+394778,29940,Lawrence
+394793,30580,Liberal
+394821,31740,Manhattan
+394846,32700,McPherson
+753909,36840,Ottawa
+394965,37660,Parsons
+394981,38260,Pittsburg
+395049,41460,Salina
+395161,45820,Topeka
+395224,48620,Wichita
+753865,12680,Bardstown
+394406,14540,Bowling Green
+394436,15820,Campbellsville
+394517,19220,Danville
+394563,21060,Elizabethtown-Fort Knox
+394614,23180,Frankfort
+394632,23980,Glasgow
+394792,30460,Lexington-Fayette
+394802,30940,London
+394807,31140,Louisville/Jefferson County
+394817,31580,Madisonville
+394840,32460,Mayfield
+394841,32500,Maysville
+394858,33180,Middlesborough
+394887,34460,Mount Sterling
+394894,34660,Murray
+394949,36980,Owensboro
+394953,37140,Paducah
+395023,40080,Richmond-Berea
+395105,43700,Somerset
+394314,10780,Alexandria
+394364,12820,Bastrop
+394367,12940,Baton Rouge
+394398,14220,Bogalusa
+394522,19760,DeRidder
+394608,22860,Fort Polk South
+394661,25220,Hammond
+394691,26380,Houma-Thibodaux
+394761,29180,Lafayette
+394763,29340,Lake Charles
+394872,33740,Monroe
+394878,34020,Morgan City
+394904,35060,Natchitoches
+394910,35380,New Orleans-Metairie
+394941,36660,Opelousas
+395043,40820,Ruston
+395096,43340,Shreveport-Bossier City
+394361,12700,Barnstable Town
+394404,14460,Boston-Cambridge-Nashua
+753883,73300,Greenfield Town
+394983,38340,Pittsfield
+395115,44140,Springfield
+753925,47240,Vineyard Haven
+395238,49340,Worcester
+394358,12580,Baltimore-Columbia-Towson
+753872,15680,California-Lexington Park
+394433,15700,Cambridge
+394513,19060,Cumberland
+394554,20660,Easton
+394660,25180,Hagerstown-Martinsburg
+394353,70600,Augusta
+394359,12620,Bangor
+394788,30340,Lewiston-Auburn
+394997,38860,Portland-South Portland
+394302,10300,Adrian
+394319,10940,Alma
+394320,10980,Alpena
+394332,11460,Ann Arbor
+394368,12980,Battle Creek
+394369,13020,Bay City
+394384,13660,Big Rapids
+394431,15620,Cadillac
+394482,17740,Coldwater
+394532,19820,Detroit-Warren-Dearborn
+394573,21540,Escanaba
+394596,22420,Flint
+394640,24340,Grand Rapids-Wyoming
+753889,25880,Hillsdale
+753890,26090,Holland
+394690,26340,Houghton
+753891,26960,Ionia
+394708,27020,Iron Mountain
+394710,27100,Jackson
+394732,28020,Kalamazoo-Portage
+394770,29620,Lansing-East Lansing
+753901,31220,Ludington
+394829,32100,Marquette
+394859,33220,Midland
+394873,33780,Monroe
+394885,34380,Mount Pleasant
+394896,34740,Muskegon
+394917,35660,Niles-Benton Harbor
+394950,37020,Owosso
+395047,40980,Saginaw
+395069,42300,Sault Ste. Marie
+395136,44780,Sturgis
+395163,45900,Traverse City
+394310,10660,Albert Lea
+394315,10820,Alexandria
+394354,12380,Austin
+394379,13420,Bemidji
+394410,14660,Brainerd
+394543,20260,Duluth
+394586,22060,Faribault-Northfield
+394591,22260,Fergus Falls
+394702,26780,Hutchinson
+394823,31860,Mankato-North Mankato
+394830,32140,Marshall
+394865,33460,Minneapolis-St. Paul-Bloomington
+394912,35580,New Ulm
+394948,36940,Owatonna
+395017,39860,Red Wing
+395030,40340,Rochester
+395118,41060,St. Cloud
+395228,48820,Willmar
+395234,49100,Winona
+395239,49380,Worthington
+394411,14700,Branson
+394441,16020,Cape Girardeau
+394485,17860,Columbia
+394587,22100,Farmington
+394604,22780,Fort Leonard Wood
+394663,25300,Hannibal
+394723,27620,Jefferson City
+394729,27900,Joplin
+394735,28140,Kansas City
+394740,28380,Kennett
+394751,28860,Kirksville
+394781,30060,Lebanon
+394831,32180,Marshall
+394837,32340,Maryville
+394854,33020,Mexico
+394869,33620,Moberly
+394993,38740,Poplar Bluff
+395037,40620,Rolla
+395081,42740,Sedalia
+395099,43460,Sikeston
+395116,44180,Springfield
+395120,41140,St. Joseph
+395121,41180,St. Louis
+395204,47660,Warrensburg
+395219,48460,West Plains
+394417,15020,Brookhaven
+394470,17260,Clarksdale
+394473,17380,Cleveland
+394490,18060,Columbus
+394499,18420,Corinth
+394650,24740,Greenville
+394654,24900,Greenwood
+394656,24980,Grenada
+394658,25060,Gulfport-Biloxi-Pascagoula
+394671,25620,Hattiesburg
+394706,26940,Indianola
+394711,27140,Jackson
+394776,29860,Laurel
+394844,32620,McComb
+394852,32940,Meridian
+394903,35020,Natchez
+394951,37060,Oxford
+394977,38100,Picayune
+395124,44260,Starkville
+395170,46180,Tupelo
+395189,46980,Vicksburg
+394386,13740,Billings
+394407,14580,Bozeman
+394430,15580,Butte-Silver Bow
+394644,24500,Great Falls
+394675,25740,Helena
+394733,28060,Kalispell
+394867,33540,Missoula
+394309,10620,Albemarle
+394338,11700,Asheville
+394402,14380,Boone
+394414,14820,Brevard
+394428,15500,Burlington
+394458,16740,Charlotte-Concord-Gastonia
+753877,19000,Cullowhee
+394546,20380,Dunn
+394549,20500,Durham-Chapel Hill
+394562,21020,Elizabeth City
+394589,22180,Fayetteville
+394600,22580,Forest City
+394635,24140,Goldsboro
+394648,24660,Greensboro-High Point
+394651,24780,Greenville
+394677,25780,Henderson
+394679,25860,Hickory-Lenoir-Morganton
+394716,27340,Jacksonville
+394745,28620,Kill Devil Hills
+394750,28820,Kinston
+394777,29900,Laurinburg
+394810,31300,Lumberton
+753904,32000,Marion
+394877,33980,Morehead City
+394884,34340,Mount Airy
+394905,35100,New Bern
+394922,35900,North Wilkesboro
+753910,37080,Oxford
+753912,38240,Pinehurst-Southern Pines
+395012,39580,Raleigh
+395027,40260,Roanoke Rapids
+395034,40460,Rockingham
+395036,40580,Rocky Mount
+395063,41820,Sanford
+395090,43140,Shelby
+395208,47820,Washington
+395229,48900,Wilmington
+395231,48980,Wilson
+395235,49180,Winston-Salem
+394390,13900,Bismarck
+394533,19860,Dickinson
+394585,22020,Fargo
+394637,24220,Grand Forks
+394718,27420,Jamestown
+394866,33500,Minot
+395198,47420,Wahpeton
+395227,48780,Williston
+394371,13100,Beatrice
+394491,18100,Columbus
+394617,23340,Fremont
+394638,24260,Grand Island
+394670,25580,Hastings
+394737,28260,Kearney
+394791,30420,Lexington
+394796,30700,Lincoln
+394919,35740,Norfolk
+394920,35820,North Platte
+394938,36540,Omaha-Council Bluffs
+395072,42420,Scottsbluff
+394383,13620,Berlin
+394468,72500,Claremont
+394493,18180,Concord
+394738,28300,Keene
+394759,29060,Laconia
+394820,31700,Manchester
+394348,12100,Atlantic City-Hammonton
+394928,36140,Ocean City
+395164,45940,Trenton
+395193,47220,Vineland-Bridgeton
+394305,10460,Alamogordo
+394312,10740,Albuquerque
+394478,17580,Clovis
+394529,19700,Deming
+394574,21580,Espanola
+394588,22140,Farmington
+394626,23700,Gallup
+394642,24380,Grants
+394683,26020,Hobbs
+394773,29740,Las Cruces
+394774,29780,Las Vegas
+394805,31060,Los Alamos
+394996,38780,Portales
+395040,40740,Roswell
+395066,42140,Santa Fe
+395100,43500,Silver City
+395149,45340,Taos
+394444,16180,Carson City
+394566,21220,Elko
+394584,21980,Fallon
+394592,22280,Fernley
+394628,23820,Gardnerville Ranchos
+394775,29820,Las Vegas-Henderson-Paradise
+394954,37220,Pahrump
+395019,39900,Reno
+753927,49080,Winnemucca
+394308,10580,Albany-Schenectady-Troy
+394326,11220,Amsterdam
+394350,12180,Auburn
+394365,12860,Batavia
+394387,13780,Binghamton
+394425,15380,Buffalo-Cheektowaga-Niagara Falls
+394501,18500,Corning
+394504,18660,Cortland
+394568,21300,Elmira
+394633,24020,Glens Falls
+394634,24100,Gloversville
+394693,26460,Hudson
+394709,27060,Ithaca
+394719,27460,Jamestown-Dunkirk-Fredonia
+394748,28740,Kingston
+394819,31660,Malone
+394913,35620,New York-Newark-Jersey City
+394932,36300,Ogdensburg-Massena
+394936,36460,Olean
+394939,36580,Oneonta
+394986,38460,Plattsburgh
+395031,40380,Rochester
+395084,42900,Seneca Falls
+395143,45060,Syracuse
+395179,46540,Utica-Rome
+395213,48060,Watertown-Fort Drum
+394304,10420,Akron
+394339,11740,Ashland
+394340,11780,Ashtabula
+394343,11900,Athens
+394377,13340,Bellefontaine
+394424,15340,Bucyrus
+394434,15740,Cambridge
+394439,15940,Canton-Massillon
+394449,16380,Celina
+394465,17060,Chillicothe
+394466,17140,Cincinnati
+394475,17460,Cleveland-Elyria
+394492,18140,Columbus
+394506,18740,Coshocton
+394521,19430,Dayton
+394526,19580,Defiance
+394593,22300,Findlay
+394618,23380,Fremont
+394652,24820,Greenville
+753892,27160,Jackson
+394794,30620,Lima
+394824,31900,Mansfield
+753903,31930,Marietta
+394827,32020,Marion
+394889,34540,Mount Vernon
+394911,35420,New Philadelphia-Dover
+394923,35940,Norwalk
+753913,38840,Port Clinton
+394999,39020,Portsmouth
+753915,41400,Salem
+395062,41780,Sandusky
+395097,43380,Sidney
+395117,44220,Springfield
+395157,45660,Tiffin
+395160,45780,Toledo
+395178,46500,Urbana
+395185,46780,Van Wert
+395201,47540,Wapakoneta
+395206,47920,Washington Court House
+395230,48940,Wilmington
+395237,49300,Wooster
+395245,49660,Youngstown-Warren-Boardman
+395248,49780,Zanesville
+394300,10220,Ada
+394322,11060,Altus
+394336,11620,Ardmore
+394363,12780,Bartlesville
+394545,20340,Duncan
+394548,20460,Durant
+394564,21120,Elk City
+394570,21420,Enid
+394659,25100,Guymon
+394780,30020,Lawton
+394842,32540,McAlester
+394855,33060,Miami
+394897,34780,Muskogee
+394935,36420,Oklahoma City
+394990,38620,Ponca City
+395088,43060,Shawnee
+395133,44660,Stillwater
+395144,45140,Tahlequah
+395169,46140,Tulsa
+753926,48220,Weatherford
+395236,49260,Woodward
+394307,10540,Albany
+394341,11820,Astoria
+394380,13460,Bend-Redmond
+394418,15060,Brookings
+394496,18300,Coos Bay
+394505,18700,Corvallis
+394576,21660,Eugene
+394641,24420,Grants Pass
+753887,25840,Hermiston-Pendleton
+394687,26220,Hood River
+394752,28900,Klamath Falls
+394758,29260,La Grande
+394848,32780,Medford
+753905,35440,Newport
+394940,36620,Ontario
+394998,38900,Portland-Vancouver-Hillsboro
+395004,39260,Prineville
+395039,40700,Roseburg
+395048,41420,Salem
+753923,45520,The Dalles
+394318,10900,Allentown-Bethlehem-Easton
+394321,11020,Altoona
+394395,14100,Bloomsburg-Berwick
+394409,14620,Bradford
+394453,16540,Chambersburg-Waynesboro
+394541,20180,DuBois
+394553,20700,East Stroudsburg
+394572,21500,Erie
+394630,23900,Gettysburg
+394666,25420,Harrisburg-Carlisle
+394695,26500,Huntingdon
+394704,26860,Indiana
+394727,27780,Johnstown
+394768,29540,Lancaster
+394783,30140,Lebanon
+394785,30260,Lewisburg
+394789,30380,Lewistown
+394799,30820,Lock Haven
+394847,32740,Meadville
+394907,35260,New Castle
+394933,36340,Oil City
+394974,37980,Philadelphia-Camden-Wilmington
+394982,38300,Pittsburgh
+395000,39060,Pottsville
+395015,39740,Reading
+395071,42380,Sayre
+395075,42540,Scranton--Wilkes-Barre--Hazleton
+395082,42780,Selinsgrove
+395106,43740,Somerset
+395125,44300,State College
+395140,44980,Sunbury
+395203,47620,Warren
+395225,48700,Williamsport
+395244,49620,York-Hanover
+395005,39300,Providence-Warwick
+394381,13500,Bennettsville
+394457,16700,Charleston-North Charleston
+394486,17900,Columbia
+394597,22500,Florence
+394621,23500,Gaffney
+394629,23860,Georgetown
+394653,24860,Greenville-Anderson-Mauldin
+394655,24940,Greenwood
+394681,25940,Hilton Head Island-Bluffton-Beaufort
+394898,34820,Myrtle Beach-Conway-North Myrtle Beach
+394914,35140,Newberry
+394942,36700,Orangeburg
+395085,42860,Seneca
+395109,43900,Spartanburg
+395139,44940,Sumter
+394297,10100,Aberdeen
+394419,15100,Brookings
+394700,26700,Huron
+394868,33580,Mitchell
+394979,38180,Pierre
+395013,39660,Rapid City
+395103,43620,Sioux Falls
+395110,43940,Spearfish
+395186,46820,Vermillion
+395211,47980,Watertown
+395241,49460,Yankton
+394344,11940,Athens
+394460,16860,Chattanooga
+394471,17300,Clarksville
+394474,17420,Cleveland
+394495,18260,Cookeville
+394509,18900,Crossville
+753878,19420,Dayton
+394550,20540,Dyersburg
+394647,24620,Greeneville
+394712,27180,Jackson
+394726,27740,Johnson City
+394747,28700,Kingsport-Bristol-Bristol
+394753,28940,Knoxville
+394779,29980,Lawrenceburg
+394786,30280,Lewisburg
+394835,32280,Martin
+394845,32660,McMinnville
+394849,32820,Memphis
+394880,34100,Morristown
+394902,34980,Nashville-Davidson--Murfreesboro--Franklin
+394915,35460,Newport
+394962,37540,Paris
+395086,42940,Sevierville
+395091,43180,Shelbyville
+395168,46100,Tullahoma-Manchester
+395176,46460,Union City
+394299,10180,Abilene
+394316,10860,Alice
+394323,11100,Amarillo
+394330,11380,Andrews
+394345,11980,Athens
+394355,12420,Austin-Round Rock
+394370,13060,Bay City
+394372,13140,Beaumont-Port Arthur
+394376,13300,Beeville
+394385,13700,Big Spring
+394403,14420,Borger
+394413,14780,Brenham
+394421,15180,Brownsville-Harlingen
+394422,15220,Brownwood
+394483,17780,College Station-Bryan
+394502,18580,Corpus Christi
+394503,18620,Corsicana
+394514,19100,Dallas-Fort Worth-Arlington
+394527,19620,Del Rio
+394544,20300,Dumas
+394551,20580,Eagle Pass
+394558,20900,El Campo
+394561,21340,El Paso
+394615,23240,Fredericksburg
+394624,23620,Gainesville
+394678,25820,Hereford
+394692,26420,Houston-The Woodlands-Sugar Land
+394699,26660,Huntsville
+394717,27380,Jacksonville
+394742,28500,Kerrville
+394746,28660,Killeen-Temple
+394749,28780,Kingsville
+394767,29500,Lamesa
+394772,29700,Laredo
+394784,30220,Levelland
+394803,30980,Longview
+394808,31180,Lubbock
+394809,31260,Lufkin
+394832,32220,Marshall
+394843,32580,McAllen-Edinburg-Mission
+394860,33260,Midland
+394864,33420,Mineral Wells
+394886,34420,Mount Pleasant
+394899,34860,Nacogdoches
+394930,36220,Odessa
+394956,37300,Palestine
+394959,37420,Pampa
+394963,37580,Paris
+394968,37780,Pecos
+394984,38380,Plainview
+753914,38920,Port Lavaca
+395014,39700,Raymondville
+395024,40100,Rio Grande City
+395054,41660,San Angelo
+395055,41700,San Antonio-New Braunfels
+395094,43300,Sherman-Denison
+395104,43660,Snyder
+395129,44500,Stephenville
+395137,44860,Sulphur Springs
+395142,45020,Sweetwater
+395152,45500,Texarkana
+395174,46340,Tyler
+395181,46620,Uvalde
+395188,46900,Vernon
+395190,47020,Victoria
+395197,47380,Waco
+395223,48660,Wichita Falls
+753929,49820,Zapata
+394446,16260,Cedar City
+394674,25720,Heber
+394800,30860,Logan
+394931,36260,Ogden-Clearfield
+395003,39220,Price
+395006,39340,Provo-Orem
+395053,41620,Salt Lake City
+395119,41100,St. George
+753922,44920,Summit Park
+395187,46860,Vernal
+753866,13720,Big Stone Gap
+394392,13980,Blacksburg-Christiansburg-Radford
+394459,16820,Charlottesville
+394518,19260,Danville
+394668,25500,Harrisonburg
+394811,31340,Lynchburg
+394836,32300,Martinsville
+395022,40060,Richmond
+395028,40220,Roanoke
+395128,44420,Staunton-Waynesboro
+395194,47260,Virginia Beach-Norfolk-Newport News
+395232,49020,Winchester
+394362,12740,Barre
+394382,13540,Bennington
+394429,15540,Burlington-South Burlington
+395044,40860,Rutland
+394298,10140,Aberdeen
+394378,13380,Bellingham
+394412,14740,Bremerton-Silverdale
+394452,16500,Centralia
+394567,21260,Ellensburg
+394741,28420,Kennewick-Richland
+394804,31020,Longview
+394882,34180,Moses Lake
+394890,34580,Mount Vernon-Anacortes
+394925,36020,Oak Harbor
+394937,36500,Olympia-Tumwater
+753908,36830,Othello
+394994,38820,Port Angeles
+395008,39420,Pullman
+395078,42660,Seattle-Tacoma-Bellevue
+395092,43220,Shelton
+395113,44060,Spokane-Spokane Valley
+395199,47460,Walla Walla
+395218,48300,Wenatchee
+395240,49420,Yakima
+394334,11540,Appleton
+394360,12660,Baraboo
+394373,13180,Beaver Dam
+394555,20740,Eau Claire
+394599,22540,Fond du Lac
+394646,24580,Green Bay
+394720,27500,Janesville-Beloit
+394756,29100,La Crosse-Onalaska
+394816,31540,Madison
+394822,31820,Manitowoc
+394825,31940,Marinette
+394850,32860,Menomonie
+394853,32980,Merrill
+394862,33340,Milwaukee-Waukesha-West Allis
+394944,36780,Oshkosh-Neenah
+394985,38420,Platteville
+395011,39540,Racine
+753918,43020,Shawano
+395089,43100,Sheboygan
+395132,44620,Stevens Point
+395212,48020,Watertown-Fort Atkinson
+395215,48140,Wausau
+395222,48580,Whitewater-Elkhorn
+753928,49220,Wisconsin Rapids-Marshfield
+394374,13220,Beckley
+394396,14140,Bluefield
+394455,16620,Charleston
+394469,17220,Clarksburg
+753879,21180,Elkins
+394582,21900,Fairmont
+394697,26580,Huntington-Ashland
+753898,30880,Logan
+394879,34060,Morgantown
+394964,37620,Parkersburg-Vienna
+394989,38580,Point Pleasant
+395217,48260,Weirton-Steubenville
+395221,48540,Wheeling
+394445,16220,Casper
+394462,16940,Cheyenne
+394578,21740,Evanston
+394631,23940,Gillette
+394713,27220,Jackson
+394771,29660,Laramie
+395026,40180,Riverton
+395032,40540,Rock Springs
+395093,43260,Sheridan
+102001,99999,United States

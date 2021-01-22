@@ -1,0 +1,2001 @@
+geographyid,datatype,variable,region,year,value
+35620,population,2010 Total Population,"New York, NY",2010,18910697.0
+31080,population,2010 Total Population,"Los Angeles, CA",2010,12838632.0
+16980,population,2010 Total Population,"Chicago, IL",2010,9464504.0
+19100,population,2010 Total Population,"Dallas, TX",2010,6385659.0
+26420,population,2010 Total Population,"Houston, TX",2010,5942430.0
+47900,population,2010 Total Population,"Washington, DC",2010,5661166.0
+37980,population,2010 Total Population,"Philadelphia, PA",2010,5968851.0
+33100,population,2010 Total Population,"Miami, FL",2010,5568860.0
+12060,population,2010 Total Population,"Atlanta, GA",2010,5296336.0
+38060,population,2010 Total Population,"Phoenix, AZ",2010,4202584.0
+14460,population,2010 Total Population,"Boston, MA",2010,4555700.0
+41860,population,2010 Total Population,"San Francisco, CA",2010,4341178.0
+40140,population,2010 Total Population,"Riverside, CA",2010,4232685.0
+19820,population,2010 Total Population,"Detroit, MI",2010,4290294.0
+42660,population,2010 Total Population,"Seattle, WA",2010,3447552.0
+33460,population,2010 Total Population,"Minneapolis, MN",2010,3337354.0
+41740,population,2010 Total Population,"San Diego, CA",2010,3098168.0
+45300,population,2010 Total Population,"Tampa, FL",2010,2784984.0
+19740,population,2010 Total Population,"Denver, CO",2010,2549905.0
+41180,population,2010 Total Population,"St. Louis, MO",2010,2788707.0
+12580,population,2010 Total Population,"Baltimore, MD",2010,2712814.0
+16740,population,2010 Total Population,"Charlotte, NC",2010,2251745.0
+36740,population,2010 Total Population,"Orlando, FL",2010,2137575.0
+41700,population,2010 Total Population,"San Antonio, TX",2010,2150297.0
+38900,population,2010 Total Population,"Portland, OR",2010,2230731.0
+40900,population,2010 Total Population,"Sacramento, CA",2010,2151481.0
+38300,population,2010 Total Population,"Pittsburgh, PA",2010,2355289.0
+12420,population,2010 Total Population,"Austin, TX",2010,1724974.0
+29820,population,2010 Total Population,"Las Vegas, NV",2010,1957517.0
+17140,population,2010 Total Population,"Cincinnati, OH",2010,2139074.0
+28140,population,2010 Total Population,"Kansas City, MO",2010,2012398.0
+18140,population,2010 Total Population,"Columbus, OH",2010,1904549.0
+26900,population,2010 Total Population,"Indianapolis, IN",2010,1890649.0
+17460,population,2010 Total Population,"Cleveland, OH",2010,2076010.0
+34980,population,2010 Total Population,"Nashville, TN",2010,1651111.0
+41940,population,2010 Total Population,"San Jose, CA",2010,1840190.0
+47260,population,2010 Total Population,"Virginia Beach, VA",2010,1714072.0
+39300,population,2010 Total Population,"Providence, RI",2010,1600512.0
+27260,population,2010 Total Population,"Jacksonville, FL",2010,1347584.0
+33340,population,2010 Total Population,"Milwaukee, WI",2010,1556528.0
+36420,population,2010 Total Population,"Oklahoma City, OK",2010,1255802.0
+39580,population,2010 Total Population,"Raleigh, NC",2010,1135768.0
+32820,population,2010 Total Population,"Memphis, TN",2010,1316937.0
+40060,population,2010 Total Population,"Richmond, VA",2010,1188713.0
+31140,population,2010 Total Population,"Louisville, KY",2010,1203939.0
+35380,population,2010 Total Population,"New Orleans, LA",2010,1193951.0
+41620,population,2010 Total Population,"Salt Lake City, UT",2010,1091314.0
+25540,population,2010 Total Population,"Hartford, CT",2010,1212589.0
+15380,population,2010 Total Population,"Buffalo, NY",2010,1135135.0
+13820,population,2010 Total Population,"Birmingham, AL",2010,1061831.0
+35620,population,2011 Total Population,"New York, NY",2011,18971026.0
+31080,population,2011 Total Population,"Los Angeles, CA",2011,12897952.0
+16980,population,2011 Total Population,"Chicago, IL",2011,9477120.0
+19100,population,2011 Total Population,"Dallas, TX",2011,6479891.0
+26420,population,2011 Total Population,"Houston, TX",2011,6040651.0
+47900,population,2011 Total Population,"Washington, DC",2011,5716656.0
+37980,population,2011 Total Population,"Philadelphia, PA",2011,5985149.0
+33100,population,2011 Total Population,"Miami, FL",2011,5591923.0
+12060,population,2011 Total Population,"Atlanta, GA",2011,5337327.0
+38060,population,2011 Total Population,"Phoenix, AZ",2011,4248911.0
+14460,population,2011 Total Population,"Boston, MA",2011,4576097.0
+41860,population,2011 Total Population,"San Francisco, CA",2011,4374774.0
+40140,population,2011 Total Population,"Riverside, CA",2011,4277756.0
+19820,population,2011 Total Population,"Detroit, MI",2011,4268416.0
+42660,population,2011 Total Population,"Seattle, WA",2011,3484428.0
+33460,population,2011 Total Population,"Minneapolis, MN",2011,3355629.0
+41740,population,2011 Total Population,"San Diego, CA",2011,3117849.0
+45300,population,2011 Total Population,"Tampa, FL",2011,2803209.0
+19740,population,2011 Total Population,"Denver, CO",2011,2579967.0
+41180,population,2011 Total Population,"St. Louis, MO",2011,2791065.0
+12580,population,2011 Total Population,"Baltimore, MD",2011,2724124.0
+16740,population,2011 Total Population,"Charlotte, NC",2011,2283047.0
+36740,population,2011 Total Population,"Orlando, FL",2011,2157774.0
+41700,population,2011 Total Population,"San Antonio, TX",2011,2186950.0
+38900,population,2011 Total Population,"Portland, OR",2011,2250428.0
+40900,population,2011 Total Population,"Sacramento, CA",2011,2166749.0
+38300,population,2011 Total Population,"Pittsburgh, PA",2011,2351156.0
+12420,population,2011 Total Population,"Austin, TX",2011,1764095.0
+29820,population,2011 Total Population,"Las Vegas, NV",2011,1982772.0
+17140,population,2011 Total Population,"Cincinnati, OH",2011,2143681.0
+28140,population,2011 Total Population,"Kansas City, MO",2011,2024757.0
+18140,population,2011 Total Population,"Columbus, OH",2011,1917073.0
+26900,population,2011 Total Population,"Indianapolis, IN",2011,1902642.0
+17460,population,2011 Total Population,"Cleveland, OH",2011,2069681.0
+34980,population,2011 Total Population,"Nashville, TN",2011,1673133.0
+41940,population,2011 Total Population,"San Jose, CA",2011,1855810.0
+47260,population,2011 Total Population,"Virginia Beach, VA",2011,1716961.0
+39300,population,2011 Total Population,"Providence, RI",2011,1600077.0
+27260,population,2011 Total Population,"Jacksonville, FL",2011,1358108.0
+33340,population,2011 Total Population,"Milwaukee, WI",2011,1557833.0
+36420,population,2011 Total Population,"Oklahoma City, OK",2011,1270107.0
+39580,population,2011 Total Population,"Raleigh, NC",2011,1159339.0
+32820,population,2011 Total Population,"Memphis, TN",2011,1320081.0
+40060,population,2011 Total Population,"Richmond, VA",2011,1199619.0
+31140,population,2011 Total Population,"Louisville, KY",2011,1208809.0
+35380,population,2011 Total Population,"New Orleans, LA",2011,1207655.0
+41620,population,2011 Total Population,"Salt Lake City, UT",2011,1106343.0
+25540,population,2011 Total Population,"Hartford, CT",2011,1213532.0
+15380,population,2011 Total Population,"Buffalo, NY",2011,1131773.0
+13820,population,2011 Total Population,"Birmingham, AL",2011,1065219.0
+35620,population,2012 Total Population,"New York, NY",2012,19026219.0
+31080,population,2012 Total Population,"Los Angeles, CA",2012,12952374.0
+16980,population,2012 Total Population,"Chicago, IL",2012,9502188.0
+19100,population,2012 Total Population,"Dallas, TX",2012,6562645.0
+26420,population,2012 Total Population,"Houston, TX",2012,6131857.0
+47900,population,2012 Total Population,"Washington, DC",2012,5769832.0
+37980,population,2012 Total Population,"Philadelphia, PA",2012,6005779.0
+33100,population,2012 Total Population,"Miami, FL",2012,5622389.0
+12060,population,2012 Total Population,"Atlanta, GA",2012,5377159.0
+38060,population,2012 Total Population,"Phoenix, AZ",2012,4295491.0
+14460,population,2012 Total Population,"Boston, MA",2012,4600717.0
+41860,population,2012 Total Population,"San Francisco, CA",2012,4407251.0
+40140,population,2012 Total Population,"Riverside, CA",2012,4310435.0
+19820,population,2012 Total Population,"Detroit, MI",2012,4257371.0
+42660,population,2012 Total Population,"Seattle, WA",2012,3524261.0
+33460,population,2012 Total Population,"Minneapolis, MN",2012,3378253.0
+41740,population,2012 Total Population,"San Diego, CA",2012,3135344.0
+45300,population,2012 Total Population,"Tampa, FL",2012,2823907.0
+19740,population,2012 Total Population,"Denver, CO",2012,2611517.0
+41180,population,2012 Total Population,"St. Louis, MO",2012,2797437.0
+12580,population,2012 Total Population,"Baltimore, MD",2012,2736822.0
+16740,population,2012 Total Population,"Charlotte, NC",2012,2309140.0
+36740,population,2012 Total Population,"Orlando, FL",2012,2181262.0
+41700,population,2012 Total Population,"San Antonio, TX",2012,2222030.0
+38900,population,2012 Total Population,"Portland, OR",2012,2269460.0
+40900,population,2012 Total Population,"Sacramento, CA",2012,2180265.0
+38300,population,2012 Total Population,"Pittsburgh, PA",2012,2352711.0
+12420,population,2012 Total Population,"Austin, TX",2012,1798592.0
+29820,population,2012 Total Population,"Las Vegas, NV",2012,2003841.0
+17140,population,2012 Total Population,"Cincinnati, OH",2012,2150721.0
+28140,population,2012 Total Population,"Kansas City, MO",2012,2035624.0
+18140,population,2012 Total Population,"Columbus, OH",2012,1929573.0
+26900,population,2012 Total Population,"Indianapolis, IN",2012,1914568.0
+17460,population,2012 Total Population,"Cleveland, OH",2012,2068426.0
+34980,population,2012 Total Population,"Nashville, TN",2012,1694489.0
+41940,population,2012 Total Population,"San Jose, CA",2012,1870795.0
+47260,population,2012 Total Population,"Virginia Beach, VA",2012,1726007.0
+39300,population,2012 Total Population,"Providence, RI",2012,1601283.0
+27260,population,2012 Total Population,"Jacksonville, FL",2012,1370174.0
+33340,population,2012 Total Population,"Milwaukee, WI",2012,1560656.0
+36420,population,2012 Total Population,"Oklahoma City, OK",2012,1286008.0
+39580,population,2012 Total Population,"Raleigh, NC",2012,1179366.0
+32820,population,2012 Total Population,"Memphis, TN",2012,1324337.0
+40060,population,2012 Total Population,"Richmond, VA",2012,1210322.0
+31140,population,2012 Total Population,"Louisville, KY",2012,1213756.0
+35380,population,2012 Total Population,"New Orleans, LA",2012,1223350.0
+41620,population,2012 Total Population,"Salt Lake City, UT",2012,1122407.0
+25540,population,2012 Total Population,"Hartford, CT",2012,1215494.0
+15380,population,2012 Total Population,"Buffalo, NY",2012,1130958.0
+13820,population,2012 Total Population,"Birmingham, AL",2012,1070254.0
+35620,population,2013 Total Population,"New York, NY",2013,19116643.0
+31080,population,2013 Total Population,"Los Angeles, CA",2013,13011300.0
+16980,population,2013 Total Population,"Chicago, IL",2013,9526462.0
+19100,population,2013 Total Population,"Dallas, TX",2013,6648277.0
+26420,population,2013 Total Population,"Houston, TX",2013,6225791.0
+47900,population,2013 Total Population,"Washington, DC",2013,5831888.0
+37980,population,2013 Total Population,"Philadelphia, PA",2013,6027619.0
+33100,population,2013 Total Population,"Miami, FL",2013,5669493.0
+12060,population,2013 Total Population,"Atlanta, GA",2013,5418948.0
+38060,population,2013 Total Population,"Phoenix, AZ",2013,4341066.0
+14460,population,2013 Total Population,"Boston, MA",2013,4632875.0
+41860,population,2013 Total Population,"San Francisco, CA",2013,4437925.0
+40140,population,2013 Total Population,"Riverside, CA",2013,4336871.0
+19820,population,2013 Total Population,"Detroit, MI",2013,4259246.0
+42660,population,2013 Total Population,"Seattle, WA",2013,3559565.0
+33460,population,2013 Total Population,"Minneapolis, MN",2013,3406191.0
+41740,population,2013 Total Population,"San Diego, CA",2013,3156389.0
+45300,population,2013 Total Population,"Tampa, FL",2013,2847726.0
+19740,population,2013 Total Population,"Denver, CO",2013,2644816.0
+41180,population,2013 Total Population,"St. Louis, MO",2013,2803911.0
+12580,population,2013 Total Population,"Baltimore, MD",2013,2752637.0
+16740,population,2013 Total Population,"Charlotte, NC",2013,2332244.0
+36740,population,2013 Total Population,"Orlando, FL",2013,2212332.0
+41700,population,2013 Total Population,"San Antonio, TX",2013,2257048.0
+38900,population,2013 Total Population,"Portland, OR",2013,2287017.0
+40900,population,2013 Total Population,"Sacramento, CA",2013,2194391.0
+38300,population,2013 Total Population,"Pittsburgh, PA",2013,2358219.0
+12420,population,2013 Total Population,"Austin, TX",2013,1835680.0
+29820,population,2013 Total Population,"Las Vegas, NV",2013,2022837.0
+17140,population,2013 Total Population,"Cincinnati, OH",2013,2159158.0
+28140,population,2013 Total Population,"Kansas City, MO",2013,2044807.0
+18140,population,2013 Total Population,"Columbus, OH",2013,1945591.0
+26900,population,2013 Total Population,"Indianapolis, IN",2013,1928331.0
+17460,population,2013 Total Population,"Cleveland, OH",2013,2069939.0
+34980,population,2013 Total Population,"Nashville, TN",2013,1715791.0
+41940,population,2013 Total Population,"San Jose, CA",2013,1886740.0
+47260,population,2013 Total Population,"Virginia Beach, VA",2013,1741115.0
+39300,population,2013 Total Population,"Providence, RI",2013,1605529.0
+27260,population,2013 Total Population,"Jacksonville, FL",2013,1383747.0
+33340,population,2013 Total Population,"Milwaukee, WI",2013,1562895.0
+36420,population,2013 Total Population,"Oklahoma City, OK",2013,1302994.0
+39580,population,2013 Total Population,"Raleigh, NC",2013,1198293.0
+32820,population,2013 Total Population,"Memphis, TN",2013,1330862.0
+40060,population,2013 Total Population,"Richmond, VA",2013,1221435.0
+31140,population,2013 Total Population,"Louisville, KY",2013,1218973.0
+35380,population,2013 Total Population,"New Orleans, LA",2013,1240377.0
+41620,population,2013 Total Population,"Salt Lake City, UT",2013,1136925.0
+25540,population,2013 Total Population,"Hartford, CT",2013,1218501.0
+15380,population,2013 Total Population,"Buffalo, NY",2013,1132045.0
+13820,population,2013 Total Population,"Birmingham, AL",2013,1075593.0
+35620,population,2014 Total Population,"New York, NY",2014,19216099.0
+31080,population,2014 Total Population,"Los Angeles, CA",2014,13081571.0
+16980,population,2014 Total Population,"Chicago, IL",2014,9545390.0
+19100,population,2014 Total Population,"Dallas, TX",2014,6734866.0
+26420,population,2014 Total Population,"Houston, TX",2014,6332930.0
+47900,population,2014 Total Population,"Washington, DC",2014,5895883.0
+37980,population,2014 Total Population,"Philadelphia, PA",2014,6049527.0
+33100,population,2014 Total Population,"Miami, FL",2014,5722449.0
+12060,population,2014 Total Population,"Atlanta, GA",2014,5470453.0
+38060,population,2014 Total Population,"Phoenix, AZ",2014,4400960.0
+14460,population,2014 Total Population,"Boston, MA",2014,4673209.0
+41860,population,2014 Total Population,"San Francisco, CA",2014,4464739.0
+40140,population,2014 Total Population,"Riverside, CA",2014,4356675.0
+19820,population,2014 Total Population,"Detroit, MI",2014,4266612.0
+42660,population,2014 Total Population,"Seattle, WA",2014,3598305.0
+33460,population,2014 Total Population,"Minneapolis, MN",2014,3440402.0
+41740,population,2014 Total Population,"San Diego, CA",2014,3176205.0
+45300,population,2014 Total Population,"Tampa, FL",2014,2872262.0
+19740,population,2014 Total Population,"Denver, CO",2014,2680893.0
+41180,population,2014 Total Population,"St. Louis, MO",2014,2810713.0
+12580,population,2014 Total Population,"Baltimore, MD",2014,2770754.0
+16740,population,2014 Total Population,"Charlotte, NC",2014,2359642.0
+36740,population,2014 Total Population,"Orlando, FL",2014,2250237.0
+41700,population,2014 Total Population,"San Antonio, TX",2014,2292280.0
+38900,population,2014 Total Population,"Portland, OR",2014,2307113.0
+40900,population,2014 Total Population,"Sacramento, CA",2014,2207660.0
+38300,population,2014 Total Population,"Pittsburgh, PA",2014,2364224.0
+12420,population,2014 Total Population,"Austin, TX",2014,1875235.0
+29820,population,2014 Total Population,"Las Vegas, NV",2014,2047486.0
+17140,population,2014 Total Population,"Cincinnati, OH",2014,2169837.0
+28140,population,2014 Total Population,"Kansas City, MO",2014,2054465.0
+18140,population,2014 Total Population,"Columbus, OH",2014,1964425.0
+26900,population,2014 Total Population,"Indianapolis, IN",2014,1945417.0
+17460,population,2014 Total Population,"Cleveland, OH",2014,2070867.0
+34980,population,2014 Total Population,"Nashville, TN",2014,1738049.0
+41940,population,2014 Total Population,"San Jose, CA",2014,1904365.0
+47260,population,2014 Total Population,"Virginia Beach, VA",2014,1761237.0
+39300,population,2014 Total Population,"Providence, RI",2014,1611137.0
+27260,population,2014 Total Population,"Jacksonville, FL",2014,1399346.0
+33340,population,2014 Total Population,"Milwaukee, WI",2014,1563729.0
+36420,population,2014 Total Population,"Oklahoma City, OK",2014,1323877.0
+39580,population,2014 Total Population,"Raleigh, NC",2014,1217142.0
+32820,population,2014 Total Population,"Memphis, TN",2014,1339029.0
+40060,population,2014 Total Population,"Richmond, VA",2014,1231906.0
+31140,population,2014 Total Population,"Louisville, KY",2014,1225866.0
+35380,population,2014 Total Population,"New Orleans, LA",2014,1253712.0
+41620,population,2014 Total Population,"Salt Lake City, UT",2014,1150647.0
+25540,population,2014 Total Population,"Hartford, CT",2014,1220250.0
+15380,population,2014 Total Population,"Buffalo, NY",2014,1133956.0
+13820,population,2014 Total Population,"Birmingham, AL",2014,1082069.0
+35620,population,2015 Total Population,"New York, NY",2015,19336883.0
+31080,population,2015 Total Population,"Los Angeles, CA",2015,13166349.0
+16980,population,2015 Total Population,"Chicago, IL",2015,9562081.0
+19100,population,2015 Total Population,"Dallas, TX",2015,6848906.0
+26420,population,2015 Total Population,"Houston, TX",2015,6470220.0
+47900,population,2015 Total Population,"Washington, DC",2015,5970424.0
+37980,population,2015 Total Population,"Philadelphia, PA",2015,6068809.0
+33100,population,2015 Total Population,"Miami, FL",2015,5796880.0
+12060,population,2015 Total Population,"Atlanta, GA",2015,5535727.0
+38060,population,2015 Total Population,"Phoenix, AZ",2015,4472431.0
+14460,population,2015 Total Population,"Boston, MA",2015,4708650.0
+41860,population,2015 Total Population,"San Francisco, CA",2015,4502594.0
+40140,population,2015 Total Population,"Riverside, CA",2015,4387566.0
+19820,population,2015 Total Population,"Detroit, MI",2015,4277530.0
+42660,population,2015 Total Population,"Seattle, WA",2015,3647867.0
+33460,population,2015 Total Population,"Minneapolis, MN",2015,3477311.0
+41740,population,2015 Total Population,"San Diego, CA",2015,3198096.0
+45300,population,2015 Total Population,"Tampa, FL",2015,2906753.0
+19740,population,2015 Total Population,"Denver, CO",2015,2722551.0
+41180,population,2015 Total Population,"St. Louis, MO",2015,2814513.0
+12580,population,2015 Total Population,"Baltimore, MD",2015,2787634.0
+16740,population,2015 Total Population,"Charlotte, NC",2015,2397243.0
+36740,population,2015 Total Population,"Orlando, FL",2015,2299819.0
+41700,population,2015 Total Population,"San Antonio, TX",2015,2333225.0
+38900,population,2015 Total Population,"Portland, OR",2015,2331469.0
+40900,population,2015 Total Population,"Sacramento, CA",2015,2224378.0
+38300,population,2015 Total Population,"Pittsburgh, PA",2015,2369457.0
+12420,population,2015 Total Population,"Austin, TX",2015,1924653.0
+29820,population,2015 Total Population,"Las Vegas, NV",2015,2075747.0
+17140,population,2015 Total Population,"Cincinnati, OH",2015,2181711.0
+28140,population,2015 Total Population,"Kansas City, MO",2015,2068330.0
+18140,population,2015 Total Population,"Columbus, OH",2015,1989502.0
+26900,population,2015 Total Population,"Indianapolis, IN",2015,1966005.0
+17460,population,2015 Total Population,"Cleveland, OH",2015,2073302.0
+34980,population,2015 Total Population,"Nashville, TN",2015,1765465.0
+41940,population,2015 Total Population,"San Jose, CA",2015,1926149.0
+47260,population,2015 Total Population,"Virginia Beach, VA",2015,1773689.0
+39300,population,2015 Total Population,"Providence, RI",2015,1616904.0
+27260,population,2015 Total Population,"Jacksonville, FL",2015,1419224.0
+33340,population,2015 Total Population,"Milwaukee, WI",2015,1563032.0
+36420,population,2015 Total Population,"Oklahoma City, OK",2015,1347112.0
+39580,population,2015 Total Population,"Raleigh, NC",2015,1240716.0
+32820,population,2015 Total Population,"Memphis, TN",2015,1348331.0
+40060,population,2015 Total Population,"Richmond, VA",2015,1243579.0
+31140,population,2015 Total Population,"Louisville, KY",2015,1233720.0
+35380,population,2015 Total Population,"New Orleans, LA",2015,1265176.0
+41620,population,2015 Total Population,"Salt Lake City, UT",2015,1162878.0
+25540,population,2015 Total Population,"Hartford, CT",2015,1221875.0
+15380,population,2015 Total Population,"Buffalo, NY",2015,1134884.0
+13820,population,2015 Total Population,"Birmingham, AL",2015,1087964.0
+35620,population,2016 Total Population,"New York, NY",2016,19464020.0
+31080,population,2016 Total Population,"Los Angeles, CA",2016,13288522.0
+16980,population,2016 Total Population,"Chicago, IL",2016,9585939.0
+19100,population,2016 Total Population,"Dallas, TX",2016,7005902.0
+26420,population,2016 Total Population,"Houston, TX",2016,6656346.0
+47900,population,2016 Total Population,"Washington, DC",2016,6049570.0
+37980,population,2016 Total Population,"Philadelphia, PA",2016,6091804.0
+33100,population,2016 Total Population,"Miami, FL",2016,5893568.0
+12060,population,2016 Total Population,"Atlanta, GA",2016,5642659.0
+38060,population,2016 Total Population,"Phoenix, AZ",2016,4580816.0
+14460,population,2016 Total Population,"Boston, MA",2016,4754233.0
+41860,population,2016 Total Population,"San Francisco, CA",2016,4572184.0
+40140,population,2016 Total Population,"Riverside, CA",2016,4445428.0
+19820,population,2016 Total Population,"Detroit, MI",2016,4293208.0
+42660,population,2016 Total Population,"Seattle, WA",2016,3711708.0
+33460,population,2016 Total Population,"Minneapolis, MN",2016,3522151.0
+41740,population,2016 Total Population,"San Diego, CA",2016,3248908.0
+45300,population,2016 Total Population,"Tampa, FL",2016,2962446.0
+19740,population,2016 Total Population,"Denver, CO",2016,2784174.0
+41180,population,2016 Total Population,"St. Louis, MO",2016,2821667.0
+12580,population,2016 Total Population,"Baltimore, MD",2016,2804310.0
+16740,population,2016 Total Population,"Charlotte, NC",2016,2450322.0
+36740,population,2016 Total Population,"Orlando, FL",2016,2370162.0
+41700,population,2016 Total Population,"San Antonio, TX",2016,2380607.0
+38900,population,2016 Total Population,"Portland, OR",2016,2368867.0
+40900,population,2016 Total Population,"Sacramento, CA",2016,2253862.0
+38300,population,2016 Total Population,"Pittsburgh, PA",2016,2367779.0
+12420,population,2016 Total Population,"Austin, TX",2016,1991319.0
+29820,population,2016 Total Population,"Las Vegas, NV",2016,2117954.0
+17140,population,2016 Total Population,"Cincinnati, OH",2016,2196617.0
+28140,population,2016 Total Population,"Kansas City, MO",2016,2090173.0
+18140,population,2016 Total Population,"Columbus, OH",2016,2024042.0
+26900,population,2016 Total Population,"Indianapolis, IN",2016,1992702.0
+17460,population,2016 Total Population,"Cleveland, OH",2016,2071717.0
+34980,population,2016 Total Population,"Nashville, TN",2016,1805456.0
+41940,population,2016 Total Population,"San Jose, CA",2016,1957839.0
+47260,population,2016 Total Population,"Virginia Beach, VA",2016,1784429.0
+39300,population,2016 Total Population,"Providence, RI",2016,1621603.0
+27260,population,2016 Total Population,"Jacksonville, FL",2016,1447747.0
+33340,population,2016 Total Population,"Milwaukee, WI",2016,1564282.0
+36420,population,2016 Total Population,"Oklahoma City, OK",2016,1374554.0
+39580,population,2016 Total Population,"Raleigh, NC",2016,1272224.0
+32820,population,2016 Total Population,"Memphis, TN",2016,1356164.0
+40060,population,2016 Total Population,"Richmond, VA",2016,1254987.0
+31140,population,2016 Total Population,"Louisville, KY",2016,1246001.0
+35380,population,2016 Total Population,"New Orleans, LA",2016,1268753.0
+41620,population,2016 Total Population,"Salt Lake City, UT",2016,1177527.0
+25540,population,2016 Total Population,"Hartford, CT",2016,1220609.0
+15380,population,2016 Total Population,"Buffalo, NY",2016,1134428.0
+13820,population,2016 Total Population,"Birmingham, AL",2016,1094691.0
+35620,population,2017 Total Population,"New York, NY",2017,19541014.0
+31080,population,2017 Total Population,"Los Angeles, CA",2017,13399927.0
+16980,population,2017 Total Population,"Chicago, IL",2017,9599291.0
+19100,population,2017 Total Population,"Dallas, TX",2017,7197611.0
+26420,population,2017 Total Population,"Houston, TX",2017,6848988.0
+47900,population,2017 Total Population,"Washington, DC",2017,6122955.0
+37980,population,2017 Total Population,"Philadelphia, PA",2017,6113606.0
+33100,population,2017 Total Population,"Miami, FL",2017,5988720.0
+12060,population,2017 Total Population,"Atlanta, GA",2017,5753640.0
+38060,population,2017 Total Population,"Phoenix, AZ",2017,4691214.0
+14460,population,2017 Total Population,"Boston, MA",2017,4803094.0
+41860,population,2017 Total Population,"San Francisco, CA",2017,4632521.0
+40140,population,2017 Total Population,"Riverside, CA",2017,4509911.0
+19820,population,2017 Total Population,"Detroit, MI",2017,4314090.0
+42660,population,2017 Total Population,"Seattle, WA",2017,3786910.0
+33460,population,2017 Total Population,"Minneapolis, MN",2017,3563260.0
+41740,population,2017 Total Population,"San Diego, CA",2017,3294048.0
+45300,population,2017 Total Population,"Tampa, FL",2017,3023142.0
+19740,population,2017 Total Population,"Denver, CO",2017,2848570.0
+41180,population,2017 Total Population,"St. Louis, MO",2017,2831202.0
+12580,population,2017 Total Population,"Baltimore, MD",2017,2819134.0
+16740,population,2017 Total Population,"Charlotte, NC",2017,2508416.0
+36740,population,2017 Total Population,"Orlando, FL",2017,2440545.0
+41700,population,2017 Total Population,"San Antonio, TX",2017,2440145.0
+38900,population,2017 Total Population,"Portland, OR",2017,2411004.0
+40900,population,2017 Total Population,"Sacramento, CA",2017,2288296.0
+38300,population,2017 Total Population,"Pittsburgh, PA",2017,2363927.0
+12420,population,2017 Total Population,"Austin, TX",2017,2070956.0
+29820,population,2017 Total Population,"Las Vegas, NV",2017,2151423.0
+17140,population,2017 Total Population,"Cincinnati, OH",2017,2211161.0
+28140,population,2017 Total Population,"Kansas City, MO",2017,2115783.0
+18140,population,2017 Total Population,"Columbus, OH",2017,2055844.0
+26900,population,2017 Total Population,"Indianapolis, IN",2017,2018075.0
+17460,population,2017 Total Population,"Cleveland, OH",2017,2070377.0
+34980,population,2017 Total Population,"Nashville, TN",2017,1854106.0
+41940,population,2017 Total Population,"San Jose, CA",2017,1982509.0
+47260,population,2017 Total Population,"Virginia Beach, VA",2017,1795548.0
+39300,population,2017 Total Population,"Providence, RI",2017,1626251.0
+27260,population,2017 Total Population,"Jacksonville, FL",2017,1481591.0
+33340,population,2017 Total Population,"Milwaukee, WI",2017,1567317.0
+36420,population,2017 Total Population,"Oklahoma City, OK",2017,1396767.0
+39580,population,2017 Total Population,"Raleigh, NC",2017,1309649.0
+32820,population,2017 Total Population,"Memphis, TN",2017,1361313.0
+40060,population,2017 Total Population,"Richmond, VA",2017,1266651.0
+31140,population,2017 Total Population,"Louisville, KY",2017,1258201.0
+35380,population,2017 Total Population,"New Orleans, LA",2017,1275604.0
+41620,population,2017 Total Population,"Salt Lake City, UT",2017,1198486.0
+25540,population,2017 Total Population,"Hartford, CT",2017,1218131.0
+15380,population,2017 Total Population,"Buffalo, NY",2017,1133836.0
+13820,population,2017 Total Population,"Birmingham, AL",2017,1101458.0
+35620,population,2018 Total Population,"New York, NY",2018,19604041.0
+31080,population,2018 Total Population,"Los Angeles, CA",2018,13473157.0
+16980,population,2018 Total Population,"Chicago, IL",2018,9590446.0
+19100,population,2018 Total Population,"Dallas, TX",2018,7418272.0
+26420,population,2018 Total Population,"Houston, TX",2018,7022554.0
+47900,population,2018 Total Population,"Washington, DC",2018,6186200.0
+37980,population,2018 Total Population,"Philadelphia, PA",2018,6141316.0
+33100,population,2018 Total Population,"Miami, FL",2018,6065202.0
+12060,population,2018 Total Population,"Atlanta, GA",2018,5867961.0
+38060,population,2018 Total Population,"Phoenix, AZ",2018,4795786.0
+14460,population,2018 Total Population,"Boston, MA",2018,4850147.0
+41860,population,2018 Total Population,"San Francisco, CA",2018,4669702.0
+40140,population,2018 Total Population,"Riverside, CA",2018,4576590.0
+19820,population,2018 Total Population,"Detroit, MI",2018,4337074.0
+42660,population,2018 Total Population,"Seattle, WA",2018,3870333.0
+33460,population,2018 Total Population,"Minneapolis, MN",2018,3603315.0
+41740,population,2018 Total Population,"San Diego, CA",2018,3328301.0
+45300,population,2018 Total Population,"Tampa, FL",2018,3089323.0
+19740,population,2018 Total Population,"Denver, CO",2018,2910547.0
+41180,population,2018 Total Population,"St. Louis, MO",2018,2840946.0
+12580,population,2018 Total Population,"Baltimore, MD",2018,2831088.0
+16740,population,2018 Total Population,"Charlotte, NC",2018,2571916.0
+36740,population,2018 Total Population,"Orlando, FL",2018,2510772.0
+41700,population,2018 Total Population,"San Antonio, TX",2018,2495719.0
+38900,population,2018 Total Population,"Portland, OR",2018,2459764.0
+40900,population,2018 Total Population,"Sacramento, CA",2018,2322342.0
+38300,population,2018 Total Population,"Pittsburgh, PA",2018,2355277.0
+12420,population,2018 Total Population,"Austin, TX",2018,2155383.0
+29820,population,2018 Total Population,"Las Vegas, NV",2018,2197488.0
+17140,population,2018 Total Population,"Cincinnati, OH",2018,2224909.0
+28140,population,2018 Total Population,"Kansas City, MO",2018,2143953.0
+18140,population,2018 Total Population,"Columbus, OH",2018,2083956.0
+26900,population,2018 Total Population,"Indianapolis, IN",2018,2042349.0
+17460,population,2018 Total Population,"Cleveland, OH",2018,2068101.0
+34980,population,2018 Total Population,"Nashville, TN",2018,1907240.0
+41940,population,2018 Total Population,"San Jose, CA",2018,1995995.0
+47260,population,2018 Total Population,"Virginia Beach, VA",2018,1801110.0
+39300,population,2018 Total Population,"Providence, RI",2018,1633501.0
+27260,population,2018 Total Population,"Jacksonville, FL",2018,1520762.0
+33340,population,2018 Total Population,"Milwaukee, WI",2018,1570395.0
+36420,population,2018 Total Population,"Oklahoma City, OK",2018,1411865.0
+39580,population,2018 Total Population,"Raleigh, NC",2018,1349539.0
+32820,population,2018 Total Population,"Memphis, TN",2018,1363526.0
+40060,population,2018 Total Population,"Richmond, VA",2018,1279734.0
+31140,population,2018 Total Population,"Louisville, KY",2018,1269602.0
+35380,population,2018 Total Population,"New Orleans, LA",2018,1277572.0
+41620,population,2018 Total Population,"Salt Lake City, UT",2018,1222188.0
+25540,population,2018 Total Population,"Hartford, CT",2018,1218010.0
+15380,population,2018 Total Population,"Buffalo, NY",2018,1135130.0
+13820,population,2018 Total Population,"Birmingham, AL",2018,1107039.0
+35620,population,2019 Total Population,"New York, NY",2019,19585261.0
+31080,population,2019 Total Population,"Los Angeles, CA",2019,13462017.0
+16980,population,2019 Total Population,"Chicago, IL",2019,9579026.0
+19100,population,2019 Total Population,"Dallas, TX",2019,7611435.0
+26420,population,2019 Total Population,"Houston, TX",2019,7142866.0
+47900,population,2019 Total Population,"Washington, DC",2019,6240780.0
+37980,population,2019 Total Population,"Philadelphia, PA",2019,6164201.0
+33100,population,2019 Total Population,"Miami, FL",2019,6105149.0
+12060,population,2019 Total Population,"Atlanta, GA",2019,5958572.0
+38060,population,2019 Total Population,"Phoenix, AZ",2019,4868682.0
+14460,population,2019 Total Population,"Boston, MA",2019,4886714.0
+41860,population,2019 Total Population,"San Francisco, CA",2019,4666061.0
+40140,population,2019 Total Population,"Riverside, CA",2019,4620650.0
+19820,population,2019 Total Population,"Detroit, MI",2019,4352191.0
+42660,population,2019 Total Population,"Seattle, WA",2019,3948366.0
+33460,population,2019 Total Population,"Minneapolis, MN",2019,3638692.0
+41740,population,2019 Total Population,"San Diego, CA",2019,3326269.0
+45300,population,2019 Total Population,"Tampa, FL",2019,3145341.0
+19740,population,2019 Total Population,"Denver, CO",2019,2951709.0
+41180,population,2019 Total Population,"St. Louis, MO",2019,2850510.0
+12580,population,2019 Total Population,"Baltimore, MD",2019,2837328.0
+16740,population,2019 Total Population,"Charlotte, NC",2019,2628433.0
+36740,population,2019 Total Population,"Orlando, FL",2019,2570371.0
+41700,population,2019 Total Population,"San Antonio, TX",2019,2541498.0
+38900,population,2019 Total Population,"Portland, OR",2019,2499209.0
+40900,population,2019 Total Population,"Sacramento, CA",2019,2346275.0
+38300,population,2019 Total Population,"Pittsburgh, PA",2019,2349882.0
+12420,population,2019 Total Population,"Austin, TX",2019,2230364.0
+29820,population,2019 Total Population,"Las Vegas, NV",2019,2237333.0
+17140,population,2019 Total Population,"Cincinnati, OH",2019,2237125.0
+28140,population,2019 Total Population,"Kansas City, MO",2019,2168138.0
+18140,population,2019 Total Population,"Columbus, OH",2019,2107173.0
+26900,population,2019 Total Population,"Indianapolis, IN",2019,2064640.0
+17460,population,2019 Total Population,"Cleveland, OH",2019,2071029.0
+34980,population,2019 Total Population,"Nashville, TN",2019,1956451.0
+41940,population,2019 Total Population,"San Jose, CA",2019,1991951.0
+47260,population,2019 Total Population,"Virginia Beach, VA",2019,1803532.0
+39300,population,2019 Total Population,"Providence, RI",2019,1640072.0
+27260,population,2019 Total Population,"Jacksonville, FL",2019,1558770.0
+33340,population,2019 Total Population,"Milwaukee, WI",2019,1576971.0
+36420,population,2019 Total Population,"Oklahoma City, OK",2019,1418022.0
+39580,population,2019 Total Population,"Raleigh, NC",2019,1384294.0
+32820,population,2019 Total Population,"Memphis, TN",2019,1364761.0
+40060,population,2019 Total Population,"Richmond, VA",2019,1294223.0
+31140,population,2019 Total Population,"Louisville, KY",2019,1278171.0
+35380,population,2019 Total Population,"New Orleans, LA",2019,1282411.0
+41620,population,2019 Total Population,"Salt Lake City, UT",2019,1250117.0
+25540,population,2019 Total Population,"Hartford, CT",2019,1221269.0
+15380,population,2019 Total Population,"Buffalo, NY",2019,1139212.0
+13820,population,2019 Total Population,"Birmingham, AL",2019,1111376.0
+35620,population,2020 Total Population,"New York, NY",2020,19560212.0
+31080,population,2020 Total Population,"Los Angeles, CA",2020,13403861.0
+16980,population,2020 Total Population,"Chicago, IL",2020,9578424.0
+19100,population,2020 Total Population,"Dallas, TX",2020,7779502.0
+26420,population,2020 Total Population,"Houston, TX",2020,7233951.0
+47900,population,2020 Total Population,"Washington, DC",2020,6298330.0
+37980,population,2020 Total Population,"Philadelphia, PA",2020,6191755.0
+33100,population,2020 Total Population,"Miami, FL",2020,6140484.0
+12060,population,2020 Total Population,"Atlanta, GA",2020,6049686.0
+38060,population,2020 Total Population,"Phoenix, AZ",2020,4932833.0
+14460,population,2020 Total Population,"Boston, MA",2020,4924594.0
+41860,population,2020 Total Population,"San Francisco, CA",2020,4652663.0
+40140,population,2020 Total Population,"Riverside, CA",2020,4649818.0
+19820,population,2020 Total Population,"Detroit, MI",2020,4361870.0
+42660,population,2020 Total Population,"Seattle, WA",2020,4023384.0
+33460,population,2020 Total Population,"Minneapolis, MN",2020,3678099.0
+41740,population,2020 Total Population,"San Diego, CA",2020,3318139.0
+45300,population,2020 Total Population,"Tampa, FL",2020,3207422.0
+19740,population,2020 Total Population,"Denver, CO",2020,2988896.0
+41180,population,2020 Total Population,"St. Louis, MO",2020,2861504.0
+12580,population,2020 Total Population,"Baltimore, MD",2020,2840181.0
+16740,population,2020 Total Population,"Charlotte, NC",2020,2685444.0
+36740,population,2020 Total Population,"Orlando, FL",2020,2638858.0
+41700,population,2020 Total Population,"San Antonio, TX",2020,2570955.0
+38900,population,2020 Total Population,"Portland, OR",2020,2533321.0
+40900,population,2020 Total Population,"Sacramento, CA",2020,2364919.0
+38300,population,2020 Total Population,"Pittsburgh, PA",2020,2348354.0
+12420,population,2020 Total Population,"Austin, TX",2020,2296794.0
+29820,population,2020 Total Population,"Las Vegas, NV",2020,2286325.0
+17140,population,2020 Total Population,"Cincinnati, OH",2020,2249913.0
+28140,population,2020 Total Population,"Kansas City, MO",2020,2191128.0
+18140,population,2020 Total Population,"Columbus, OH",2020,2126001.0
+26900,population,2020 Total Population,"Indianapolis, IN",2020,2089486.0
+17460,population,2020 Total Population,"Cleveland, OH",2020,2077121.0
+34980,population,2020 Total Population,"Nashville, TN",2020,2001742.0
+41940,population,2020 Total Population,"San Jose, CA",2020,1984930.0
+47260,population,2020 Total Population,"Virginia Beach, VA",2020,1802762.0
+39300,population,2020 Total Population,"Providence, RI",2020,1647299.0
+27260,population,2020 Total Population,"Jacksonville, FL",2020,1597368.0
+33340,population,2020 Total Population,"Milwaukee, WI",2020,1586914.0
+36420,population,2020 Total Population,"Oklahoma City, OK",2020,1421338.0
+39580,population,2020 Total Population,"Raleigh, NC",2020,1417213.0
+32820,population,2020 Total Population,"Memphis, TN",2020,1367448.0
+40060,population,2020 Total Population,"Richmond, VA",2020,1310587.0
+31140,population,2020 Total Population,"Louisville, KY",2020,1283286.0
+35380,population,2020 Total Population,"New Orleans, LA",2020,1282913.0
+41620,population,2020 Total Population,"Salt Lake City, UT",2020,1277854.0
+25540,population,2020 Total Population,"Hartford, CT",2020,1226241.0
+15380,population,2020 Total Population,"Buffalo, NY",2020,1145128.0
+13820,population,2020 Total Population,"Birmingham, AL",2020,1115241.0
+35620,propertytypes,Single Family (detached),"New York, NY",2020,0.3593
+31080,propertytypes,Single Family (detached),"Los Angeles, CA",2020,0.49340000000000006
+16980,propertytypes,Single Family (detached),"Chicago, IL",2020,0.5247999999999999
+19100,propertytypes,Single Family (detached),"Dallas, TX",2020,0.635
+26420,propertytypes,Single Family (detached),"Houston, TX",2020,0.6267
+47900,propertytypes,Single Family (detached),"Washington, DC",2020,0.46399999999999997
+37980,propertytypes,Single Family (detached),"Philadelphia, PA",2020,0.4429
+33100,propertytypes,Single Family (detached),"Miami, FL",2020,0.4183
+12060,propertytypes,Single Family (detached),"Atlanta, GA",2020,0.6694
+38060,propertytypes,Single Family (detached),"Phoenix, AZ",2020,0.6537000000000001
+14460,propertytypes,Single Family (detached),"Boston, MA",2020,0.4777
+41860,propertytypes,Single Family (detached),"San Francisco, CA",2020,0.4989
+40140,propertytypes,Single Family (detached),"Riverside, CA",2020,0.6938
+19820,propertytypes,Single Family (detached),"Detroit, MI",2020,0.7028
+42660,propertytypes,Single Family (detached),"Seattle, WA",2020,0.5851
+33460,propertytypes,Single Family (detached),"Minneapolis, MN",2020,0.6126
+41740,propertytypes,Single Family (detached),"San Diego, CA",2020,0.512
+45300,propertytypes,Single Family (detached),"Tampa, FL",2020,0.5544
+19740,propertytypes,Single Family (detached),"Denver, CO",2020,0.5924
+41180,propertytypes,Single Family (detached),"St. Louis, MO",2020,0.7009000000000001
+12580,propertytypes,Single Family (detached),"Baltimore, MD",2020,0.45049999999999996
+16740,propertytypes,Single Family (detached),"Charlotte, NC",2020,0.6766
+36740,propertytypes,Single Family (detached),"Orlando, FL",2020,0.589
+41700,propertytypes,Single Family (detached),"San Antonio, TX",2020,0.6754000000000001
+38900,propertytypes,Single Family (detached),"Portland, OR",2020,0.6184000000000001
+40900,propertytypes,Single Family (detached),"Sacramento, CA",2020,0.6840999999999999
+38300,propertytypes,Single Family (detached),"Pittsburgh, PA",2020,0.675
+12420,propertytypes,Single Family (detached),"Austin, TX",2020,0.5948
+29820,propertytypes,Single Family (detached),"Las Vegas, NV",2020,0.5892000000000001
+17140,propertytypes,Single Family (detached),"Cincinnati, OH",2020,0.6578
+28140,propertytypes,Single Family (detached),"Kansas City, MO",2020,0.6998000000000001
+18140,propertytypes,Single Family (detached),"Columbus, OH",2020,0.6222
+26900,propertytypes,Single Family (detached),"Indianapolis, IN",2020,0.6900000000000001
+17460,propertytypes,Single Family (detached),"Cleveland, OH",2020,0.6517000000000001
+34980,propertytypes,Single Family (detached),"Nashville, TN",2020,0.6531999999999999
+41940,propertytypes,Single Family (detached),"San Jose, CA",2020,0.5325
+47260,propertytypes,Single Family (detached),"Virginia Beach, VA",2020,0.6063000000000001
+39300,propertytypes,Single Family (detached),"Providence, RI",2020,0.5452
+27260,propertytypes,Single Family (detached),"Jacksonville, FL",2020,0.6364
+33340,propertytypes,Single Family (detached),"Milwaukee, WI",2020,0.5485
+36420,propertytypes,Single Family (detached),"Oklahoma City, OK",2020,0.7211
+39580,propertytypes,Single Family (detached),"Raleigh, NC",2020,0.622
+32820,propertytypes,Single Family (detached),"Memphis, TN",2020,0.6931999999999999
+40060,propertytypes,Single Family (detached),"Richmond, VA",2020,0.6948000000000001
+31140,propertytypes,Single Family (detached),"Louisville, KY",2020,0.6942
+35380,propertytypes,Single Family (detached),"New Orleans, LA",2020,0.6142000000000001
+41620,propertytypes,Single Family (detached),"Salt Lake City, UT",2020,0.6409
+25540,propertytypes,Single Family (detached),"Hartford, CT",2020,0.5948
+15380,propertytypes,Single Family (detached),"Buffalo, NY",2020,0.6069
+13820,propertytypes,Single Family (detached),"Birmingham, AL",2020,0.698
+35620,propertytypes,Single Family (attached),"New York, NY",2020,0.06570000000000001
+31080,propertytypes,Single Family (attached),"Los Angeles, CA",2020,0.0782
+16980,propertytypes,Single Family (attached),"Chicago, IL",2020,0.0732
+19100,propertytypes,Single Family (attached),"Dallas, TX",2020,0.0285
+26420,propertytypes,Single Family (attached),"Houston, TX",2020,0.032400000000000005
+47900,propertytypes,Single Family (attached),"Washington, DC",2020,0.1959
+37980,propertytypes,Single Family (attached),"Philadelphia, PA",2020,0.2973
+33100,propertytypes,Single Family (attached),"Miami, FL",2020,0.0953
+12060,propertytypes,Single Family (attached),"Atlanta, GA",2020,0.052199999999999996
+38060,propertytypes,Single Family (attached),"Phoenix, AZ",2020,0.0493
+14460,propertytypes,Single Family (attached),"Boston, MA",2020,0.0609
+41860,propertytypes,Single Family (attached),"San Francisco, CA",2020,0.091
+40140,propertytypes,Single Family (attached),"Riverside, CA",2020,0.048
+19820,propertytypes,Single Family (attached),"Detroit, MI",2020,0.0647
+42660,propertytypes,Single Family (attached),"Seattle, WA",2020,0.046
+33460,propertytypes,Single Family (attached),"Minneapolis, MN",2020,0.1057
+41740,propertytypes,Single Family (attached),"San Diego, CA",2020,0.0962
+45300,propertytypes,Single Family (attached),"Tampa, FL",2020,0.055700000000000006
+19740,propertytypes,Single Family (attached),"Denver, CO",2020,0.0812
+41180,propertytypes,Single Family (attached),"St. Louis, MO",2020,0.037700000000000004
+12580,propertytypes,Single Family (attached),"Baltimore, MD",2020,0.2895
+16740,propertytypes,Single Family (attached),"Charlotte, NC",2020,0.049
+36740,propertytypes,Single Family (attached),"Orlando, FL",2020,0.0654
+41700,propertytypes,Single Family (attached),"San Antonio, TX",2020,0.0204
+38900,propertytypes,Single Family (attached),"Portland, OR",2020,0.0524
+40900,propertytypes,Single Family (attached),"Sacramento, CA",2020,0.0538
+38300,propertytypes,Single Family (attached),"Pittsburgh, PA",2020,0.0833
+12420,propertytypes,Single Family (attached),"Austin, TX",2020,0.0356
+29820,propertytypes,Single Family (attached),"Las Vegas, NV",2020,0.048499999999999995
+17140,propertytypes,Single Family (attached),"Cincinnati, OH",2020,0.0455
+28140,propertytypes,Single Family (attached),"Kansas City, MO",2020,0.0631
+18140,propertytypes,Single Family (attached),"Columbus, OH",2020,0.0698
+26900,propertytypes,Single Family (attached),"Indianapolis, IN",2020,0.0601
+17460,propertytypes,Single Family (attached),"Cleveland, OH",2020,0.054000000000000006
+34980,propertytypes,Single Family (attached),"Nashville, TN",2020,0.0493
+41940,propertytypes,Single Family (attached),"San Jose, CA",2020,0.10490000000000001
+47260,propertytypes,Single Family (attached),"Virginia Beach, VA",2020,0.11220000000000001
+39300,propertytypes,Single Family (attached),"Providence, RI",2020,0.033
+27260,propertytypes,Single Family (attached),"Jacksonville, FL",2020,0.0467
+33340,propertytypes,Single Family (attached),"Milwaukee, WI",2020,0.0581
+36420,propertytypes,Single Family (attached),"Oklahoma City, OK",2020,0.024300000000000002
+39580,propertytypes,Single Family (attached),"Raleigh, NC",2020,0.0891
+32820,propertytypes,Single Family (attached),"Memphis, TN",2020,0.032
+40060,propertytypes,Single Family (attached),"Richmond, VA",2020,0.0663
+31140,propertytypes,Single Family (attached),"Louisville, KY",2020,0.0364
+35380,propertytypes,Single Family (attached),"New Orleans, LA",2020,0.053899999999999997
+41620,propertytypes,Single Family (attached),"Salt Lake City, UT",2020,0.067
+25540,propertytypes,Single Family (attached),"Hartford, CT",2020,0.0541
+15380,propertytypes,Single Family (attached),"Buffalo, NY",2020,0.0262
+13820,propertytypes,Single Family (attached),"Birmingham, AL",2020,0.026600000000000002
+35620,propertytypes,Duplex,"New York, NY",2020,0.10980000000000001
+31080,propertytypes,Duplex,"Los Angeles, CA",2020,0.0242
+16980,propertytypes,Duplex,"Chicago, IL",2020,0.0665
+19100,propertytypes,Duplex,"Dallas, TX",2020,0.0128
+26420,propertytypes,Duplex,"Houston, TX",2020,0.0111
+47900,propertytypes,Duplex,"Washington, DC",2020,0.0094
+37980,propertytypes,Duplex,"Philadelphia, PA",2020,0.044000000000000004
+33100,propertytypes,Duplex,"Miami, FL",2020,0.023100000000000002
+12060,propertytypes,Duplex,"Atlanta, GA",2020,0.013200000000000002
+38060,propertytypes,Duplex,"Phoenix, AZ",2020,0.0101
+14460,propertytypes,Duplex,"Boston, MA",2020,0.1024
+41860,propertytypes,Duplex,"San Francisco, CA",2020,0.044500000000000005
+40140,propertytypes,Duplex,"Riverside, CA",2020,0.015600000000000001
+19820,propertytypes,Duplex,"Detroit, MI",2020,0.024100000000000003
+42660,propertytypes,Duplex,"Seattle, WA",2020,0.0212
+33460,propertytypes,Duplex,"Minneapolis, MN",2020,0.023799999999999998
+41740,propertytypes,Duplex,"San Diego, CA",2020,0.0172
+45300,propertytypes,Duplex,"Tampa, FL",2020,0.0225
+19740,propertytypes,Duplex,"Denver, CO",2020,0.0126
+41180,propertytypes,Duplex,"St. Louis, MO",2020,0.0394
+12580,propertytypes,Duplex,"Baltimore, MD",2020,0.0201
+16740,propertytypes,Duplex,"Charlotte, NC",2020,0.013999999999999999
+36740,propertytypes,Duplex,"Orlando, FL",2020,0.013999999999999999
+41700,propertytypes,Duplex,"San Antonio, TX",2020,0.015500000000000002
+38900,propertytypes,Duplex,"Portland, OR",2020,0.027200000000000002
+40900,propertytypes,Duplex,"Sacramento, CA",2020,0.0147
+38300,propertytypes,Duplex,"Pittsburgh, PA",2020,0.042800000000000005
+12420,propertytypes,Duplex,"Austin, TX",2020,0.0255
+29820,propertytypes,Duplex,"Las Vegas, NV",2020,0.010700000000000001
+17140,propertytypes,Duplex,"Cincinnati, OH",2020,0.0376
+28140,propertytypes,Duplex,"Kansas City, MO",2020,0.0195
+18140,propertytypes,Duplex,"Columbus, OH",2020,0.028999999999999998
+26900,propertytypes,Duplex,"Indianapolis, IN",2020,0.0172
+17460,propertytypes,Duplex,"Cleveland, OH",2020,0.0677
+34980,propertytypes,Duplex,"Nashville, TN",2020,0.033
+41940,propertytypes,Duplex,"San Jose, CA",2020,0.0167
+47260,propertytypes,Duplex,"Virginia Beach, VA",2020,0.023100000000000002
+39300,propertytypes,Duplex,"Providence, RI",2020,0.1057
+27260,propertytypes,Duplex,"Jacksonville, FL",2020,0.0149
+33340,propertytypes,Duplex,"Milwaukee, WI",2020,0.1149
+36420,propertytypes,Duplex,"Oklahoma City, OK",2020,0.0183
+39580,propertytypes,Duplex,"Raleigh, NC",2020,0.0129
+32820,propertytypes,Duplex,"Memphis, TN",2020,0.0211
+40060,propertytypes,Duplex,"Richmond, VA",2020,0.017
+31140,propertytypes,Duplex,"Louisville, KY",2020,0.0204
+35380,propertytypes,Duplex,"New Orleans, LA",2020,0.08320000000000001
+41620,propertytypes,Duplex,"Salt Lake City, UT",2020,0.031000000000000003
+25540,propertytypes,Duplex,"Hartford, CT",2020,0.07
+15380,propertytypes,Duplex,"Buffalo, NY",2020,0.16649999999999998
+13820,propertytypes,Duplex,"Birmingham, AL",2020,0.014199999999999999
+35620,propertytypes,Triplex and Quadplex,"New York, NY",2020,0.0771
+31080,propertytypes,Triplex and Quadplex,"Los Angeles, CA",2020,0.0602
+16980,propertytypes,Triplex and Quadplex,"Chicago, IL",2020,0.0745
+19100,propertytypes,Triplex and Quadplex,"Dallas, TX",2020,0.0327
+26420,propertytypes,Triplex and Quadplex,"Houston, TX",2020,0.0246
+47900,propertytypes,Triplex and Quadplex,"Washington, DC",2020,0.022400000000000003
+37980,propertytypes,Triplex and Quadplex,"Philadelphia, PA",2020,0.041299999999999996
+33100,propertytypes,Triplex and Quadplex,"Miami, FL",2020,0.0472
+12060,propertytypes,Triplex and Quadplex,"Atlanta, GA",2020,0.025
+38060,propertytypes,Triplex and Quadplex,"Phoenix, AZ",2020,0.036000000000000004
+14460,propertytypes,Triplex and Quadplex,"Boston, MA",2020,0.1059
+41860,propertytypes,Triplex and Quadplex,"San Francisco, CA",2020,0.0683
+40140,propertytypes,Triplex and Quadplex,"Riverside, CA",2020,0.0409
+19820,propertytypes,Triplex and Quadplex,"Detroit, MI",2020,0.0281
+42660,propertytypes,Triplex and Quadplex,"Seattle, WA",2020,0.039
+33460,propertytypes,Triplex and Quadplex,"Minneapolis, MN",2020,0.02
+41740,propertytypes,Triplex and Quadplex,"San Diego, CA",2020,0.0487
+45300,propertytypes,Triplex and Quadplex,"Tampa, FL",2020,0.0386
+19740,propertytypes,Triplex and Quadplex,"Denver, CO",2020,0.0278
+41180,propertytypes,Triplex and Quadplex,"St. Louis, MO",2020,0.0546
+12580,propertytypes,Triplex and Quadplex,"Baltimore, MD",2020,0.0273
+16740,propertytypes,Triplex and Quadplex,"Charlotte, NC",2020,0.0229
+36740,propertytypes,Triplex and Quadplex,"Orlando, FL",2020,0.0366
+41700,propertytypes,Triplex and Quadplex,"San Antonio, TX",2020,0.035
+38900,propertytypes,Triplex and Quadplex,"Portland, OR",2020,0.0437
+40900,propertytypes,Triplex and Quadplex,"Sacramento, CA",2020,0.047400000000000005
+38300,propertytypes,Triplex and Quadplex,"Pittsburgh, PA",2020,0.0353
+12420,propertytypes,Triplex and Quadplex,"Austin, TX",2020,0.029700000000000004
+29820,propertytypes,Triplex and Quadplex,"Las Vegas, NV",2020,0.0687
+17140,propertytypes,Triplex and Quadplex,"Cincinnati, OH",2020,0.0495
+28140,propertytypes,Triplex and Quadplex,"Kansas City, MO",2020,0.0395
+18140,propertytypes,Triplex and Quadplex,"Columbus, OH",2020,0.0674
+26900,propertytypes,Triplex and Quadplex,"Indianapolis, IN",2020,0.039700000000000006
+17460,propertytypes,Triplex and Quadplex,"Cleveland, OH",2020,0.0325
+34980,propertytypes,Triplex and Quadplex,"Nashville, TN",2020,0.0255
+41940,propertytypes,Triplex and Quadplex,"San Jose, CA",2020,0.0535
+47260,propertytypes,Triplex and Quadplex,"Virginia Beach, VA",2020,0.0479
+39300,propertytypes,Triplex and Quadplex,"Providence, RI",2020,0.1362
+27260,propertytypes,Triplex and Quadplex,"Jacksonville, FL",2020,0.0376
+33340,propertytypes,Triplex and Quadplex,"Milwaukee, WI",2020,0.052300000000000006
+36420,propertytypes,Triplex and Quadplex,"Oklahoma City, OK",2020,0.0318
+39580,propertytypes,Triplex and Quadplex,"Raleigh, NC",2020,0.0252
+32820,propertytypes,Triplex and Quadplex,"Memphis, TN",2020,0.04820000000000001
+40060,propertytypes,Triplex and Quadplex,"Richmond, VA",2020,0.0327
+31140,propertytypes,Triplex and Quadplex,"Louisville, KY",2020,0.0596
+35380,propertytypes,Triplex and Quadplex,"New Orleans, LA",2020,0.05940000000000001
+41620,propertytypes,Triplex and Quadplex,"Salt Lake City, UT",2020,0.038700000000000005
+25540,propertytypes,Triplex and Quadplex,"Hartford, CT",2020,0.0848
+15380,propertytypes,Triplex and Quadplex,"Buffalo, NY",2020,0.059000000000000004
+13820,propertytypes,Triplex and Quadplex,"Birmingham, AL",2020,0.026000000000000002
+35620,propertytypes,5-9 Unit Multifamily,"New York, NY",2020,0.0538
+31080,propertytypes,5-9 Unit Multifamily,"Los Angeles, CA",2020,0.0756
+16980,propertytypes,5-9 Unit Multifamily,"Chicago, IL",2020,0.076
+19100,propertytypes,5-9 Unit Multifamily,"Dallas, TX",2020,0.0631
+26420,propertytypes,5-9 Unit Multifamily,"Houston, TX",2020,0.0483
+47900,propertytypes,5-9 Unit Multifamily,"Washington, DC",2020,0.0496
+37980,propertytypes,5-9 Unit Multifamily,"Philadelphia, PA",2020,0.0367
+33100,propertytypes,5-9 Unit Multifamily,"Miami, FL",2020,0.0567
+12060,propertytypes,5-9 Unit Multifamily,"Atlanta, GA",2020,0.054000000000000006
+38060,propertytypes,5-9 Unit Multifamily,"Phoenix, AZ",2020,0.048
+14460,propertytypes,5-9 Unit Multifamily,"Boston, MA",2020,0.0582
+41860,propertytypes,5-9 Unit Multifamily,"San Francisco, CA",2020,0.06480000000000001
+40140,propertytypes,5-9 Unit Multifamily,"Riverside, CA",2020,0.0433
+19820,propertytypes,5-9 Unit Multifamily,"Detroit, MI",2020,0.0507
+42660,propertytypes,5-9 Unit Multifamily,"Seattle, WA",2020,0.0556
+33460,propertytypes,5-9 Unit Multifamily,"Minneapolis, MN",2020,0.0223
+41740,propertytypes,5-9 Unit Multifamily,"San Diego, CA",2020,0.07769999999999999
+45300,propertytypes,5-9 Unit Multifamily,"Tampa, FL",2020,0.053099999999999994
+19740,propertytypes,5-9 Unit Multifamily,"Denver, CO",2020,0.0475
+41180,propertytypes,5-9 Unit Multifamily,"St. Louis, MO",2020,0.0458
+12580,propertytypes,5-9 Unit Multifamily,"Baltimore, MD",2020,0.04820000000000001
+16740,propertytypes,5-9 Unit Multifamily,"Charlotte, NC",2020,0.0458
+36740,propertytypes,5-9 Unit Multifamily,"Orlando, FL",2020,0.0621
+41700,propertytypes,5-9 Unit Multifamily,"San Antonio, TX",2020,0.055999999999999994
+38900,propertytypes,5-9 Unit Multifamily,"Portland, OR",2020,0.052300000000000006
+40900,propertytypes,5-9 Unit Multifamily,"Sacramento, CA",2020,0.0565
+38300,propertytypes,5-9 Unit Multifamily,"Pittsburgh, PA",2020,0.0338
+12420,propertytypes,5-9 Unit Multifamily,"Austin, TX",2020,0.0426
+29820,propertytypes,5-9 Unit Multifamily,"Las Vegas, NV",2020,0.09140000000000001
+17140,propertytypes,5-9 Unit Multifamily,"Cincinnati, OH",2020,0.0575
+28140,propertytypes,5-9 Unit Multifamily,"Kansas City, MO",2020,0.054000000000000006
+18140,propertytypes,5-9 Unit Multifamily,"Columbus, OH",2020,0.0799
+26900,propertytypes,5-9 Unit Multifamily,"Indianapolis, IN",2020,0.0652
+17460,propertytypes,5-9 Unit Multifamily,"Cleveland, OH",2020,0.038700000000000005
+34980,propertytypes,5-9 Unit Multifamily,"Nashville, TN",2020,0.052300000000000006
+41940,propertytypes,5-9 Unit Multifamily,"San Jose, CA",2020,0.0501
+47260,propertytypes,5-9 Unit Multifamily,"Virginia Beach, VA",2020,0.0741
+39300,propertytypes,5-9 Unit Multifamily,"Providence, RI",2020,0.0588
+27260,propertytypes,5-9 Unit Multifamily,"Jacksonville, FL",2020,0.0518
+33340,propertytypes,5-9 Unit Multifamily,"Milwaukee, WI",2020,0.062000000000000006
+36420,propertytypes,5-9 Unit Multifamily,"Oklahoma City, OK",2020,0.0558
+39580,propertytypes,5-9 Unit Multifamily,"Raleigh, NC",2020,0.0451
+32820,propertytypes,5-9 Unit Multifamily,"Memphis, TN",2020,0.07730000000000001
+40060,propertytypes,5-9 Unit Multifamily,"Richmond, VA",2020,0.0541
+31140,propertytypes,5-9 Unit Multifamily,"Louisville, KY",2020,0.06
+35380,propertytypes,5-9 Unit Multifamily,"New Orleans, LA",2020,0.0359
+41620,propertytypes,5-9 Unit Multifamily,"Salt Lake City, UT",2020,0.04070000000000001
+25540,propertytypes,5-9 Unit Multifamily,"Hartford, CT",2020,0.061399999999999996
+15380,propertytypes,5-9 Unit Multifamily,"Buffalo, NY",2020,0.0468
+13820,propertytypes,5-9 Unit Multifamily,"Birmingham, AL",2020,0.0481
+35620,propertytypes,10-19 Unit Multifamily,"New York, NY",2020,0.0517
+31080,propertytypes,10-19 Unit Multifamily,"Los Angeles, CA",2020,0.0718
+16980,propertytypes,10-19 Unit Multifamily,"Chicago, IL",2020,0.0437
+19100,propertytypes,10-19 Unit Multifamily,"Dallas, TX",2020,0.0799
+26420,propertytypes,10-19 Unit Multifamily,"Houston, TX",2020,0.0864
+47900,propertytypes,10-19 Unit Multifamily,"Washington, DC",2020,0.09240000000000001
+37980,propertytypes,10-19 Unit Multifamily,"Philadelphia, PA",2020,0.0385
+33100,propertytypes,10-19 Unit Multifamily,"Miami, FL",2020,0.0713
+12060,propertytypes,10-19 Unit Multifamily,"Atlanta, GA",2020,0.0649
+38060,propertytypes,10-19 Unit Multifamily,"Phoenix, AZ",2020,0.0575
+14460,propertytypes,10-19 Unit Multifamily,"Boston, MA",2020,0.049
+41860,propertytypes,10-19 Unit Multifamily,"San Francisco, CA",2020,0.0582
+40140,propertytypes,10-19 Unit Multifamily,"Riverside, CA",2020,0.0338
+19820,propertytypes,10-19 Unit Multifamily,"Detroit, MI",2020,0.0362
+42660,propertytypes,10-19 Unit Multifamily,"Seattle, WA",2020,0.0669
+33460,propertytypes,10-19 Unit Multifamily,"Minneapolis, MN",2020,0.0373
+41740,propertytypes,10-19 Unit Multifamily,"San Diego, CA",2020,0.0669
+45300,propertytypes,10-19 Unit Multifamily,"Tampa, FL",2020,0.0609
+19740,propertytypes,10-19 Unit Multifamily,"Denver, CO",2020,0.0729
+41180,propertytypes,10-19 Unit Multifamily,"St. Louis, MO",2020,0.0357
+12580,propertytypes,10-19 Unit Multifamily,"Baltimore, MD",2020,0.07940000000000001
+16740,propertytypes,10-19 Unit Multifamily,"Charlotte, NC",2020,0.0536
+36740,propertytypes,10-19 Unit Multifamily,"Orlando, FL",2020,0.0786
+41700,propertytypes,10-19 Unit Multifamily,"San Antonio, TX",2020,0.0646
+38900,propertytypes,10-19 Unit Multifamily,"Portland, OR",2020,0.0504
+40900,propertytypes,10-19 Unit Multifamily,"Sacramento, CA",2020,0.041600000000000005
+38300,propertytypes,10-19 Unit Multifamily,"Pittsburgh, PA",2020,0.0276
+12420,propertytypes,10-19 Unit Multifamily,"Austin, TX",2020,0.083
+29820,propertytypes,10-19 Unit Multifamily,"Las Vegas, NV",2020,0.0621
+17140,propertytypes,10-19 Unit Multifamily,"Cincinnati, OH",2020,0.0694
+28140,propertytypes,10-19 Unit Multifamily,"Kansas City, MO",2020,0.0438
+18140,propertytypes,10-19 Unit Multifamily,"Columbus, OH",2020,0.0471
+26900,propertytypes,10-19 Unit Multifamily,"Indianapolis, IN",2020,0.0495
+17460,propertytypes,10-19 Unit Multifamily,"Cleveland, OH",2020,0.045
+34980,propertytypes,10-19 Unit Multifamily,"Nashville, TN",2020,0.0611
+41940,propertytypes,10-19 Unit Multifamily,"San Jose, CA",2020,0.053700000000000005
+47260,propertytypes,10-19 Unit Multifamily,"Virginia Beach, VA",2020,0.0507
+39300,propertytypes,10-19 Unit Multifamily,"Providence, RI",2020,0.0364
+27260,propertytypes,10-19 Unit Multifamily,"Jacksonville, FL",2020,0.0644
+33340,propertytypes,10-19 Unit Multifamily,"Milwaukee, WI",2020,0.0378
+36420,propertytypes,10-19 Unit Multifamily,"Oklahoma City, OK",2020,0.0444
+39580,propertytypes,10-19 Unit Multifamily,"Raleigh, NC",2020,0.06849999999999999
+32820,propertytypes,10-19 Unit Multifamily,"Memphis, TN",2020,0.0453
+40060,propertytypes,10-19 Unit Multifamily,"Richmond, VA",2020,0.0516
+31140,propertytypes,10-19 Unit Multifamily,"Louisville, KY",2020,0.0446
+35380,propertytypes,10-19 Unit Multifamily,"New Orleans, LA",2020,0.039700000000000006
+41620,propertytypes,10-19 Unit Multifamily,"Salt Lake City, UT",2020,0.057699999999999994
+25540,propertytypes,10-19 Unit Multifamily,"Hartford, CT",2020,0.0422
+15380,propertytypes,10-19 Unit Multifamily,"Buffalo, NY",2020,0.0223
+13820,propertytypes,10-19 Unit Multifamily,"Birmingham, AL",2020,0.050199999999999995
+35620,propertytypes,20-49 Unit Multifamily,"New York, NY",2020,0.09519999999999999
+31080,propertytypes,20-49 Unit Multifamily,"Los Angeles, CA",2020,0.0785
+16980,propertytypes,20-49 Unit Multifamily,"Chicago, IL",2020,0.044000000000000004
+19100,propertytypes,20-49 Unit Multifamily,"Dallas, TX",2020,0.04730000000000001
+26420,propertytypes,20-49 Unit Multifamily,"Houston, TX",2020,0.045
+47900,propertytypes,20-49 Unit Multifamily,"Washington, DC",2020,0.031400000000000004
+37980,propertytypes,20-49 Unit Multifamily,"Philadelphia, PA",2020,0.027700000000000002
+33100,propertytypes,20-49 Unit Multifamily,"Miami, FL",2020,0.10039999999999999
+12060,propertytypes,20-49 Unit Multifamily,"Atlanta, GA",2020,0.0382
+38060,propertytypes,20-49 Unit Multifamily,"Phoenix, AZ",2020,0.0282
+14460,propertytypes,20-49 Unit Multifamily,"Boston, MA",2020,0.0547
+41860,propertytypes,20-49 Unit Multifamily,"San Francisco, CA",2020,0.0637
+40140,propertytypes,20-49 Unit Multifamily,"Riverside, CA",2020,0.018600000000000002
+19820,propertytypes,20-49 Unit Multifamily,"Detroit, MI",2020,0.0212
+42660,propertytypes,20-49 Unit Multifamily,"Seattle, WA",2020,0.0608
+33460,propertytypes,20-49 Unit Multifamily,"Minneapolis, MN",2020,0.059699999999999996
+41740,propertytypes,20-49 Unit Multifamily,"San Diego, CA",2020,0.0543
+45300,propertytypes,20-49 Unit Multifamily,"Tampa, FL",2020,0.045700000000000005
+19740,propertytypes,20-49 Unit Multifamily,"Denver, CO",2020,0.0698
+41180,propertytypes,20-49 Unit Multifamily,"St. Louis, MO",2020,0.0188
+12580,propertytypes,20-49 Unit Multifamily,"Baltimore, MD",2020,0.0192
+16740,propertytypes,20-49 Unit Multifamily,"Charlotte, NC",2020,0.0362
+36740,propertytypes,20-49 Unit Multifamily,"Orlando, FL",2020,0.049
+41700,propertytypes,20-49 Unit Multifamily,"San Antonio, TX",2020,0.0378
+38900,propertytypes,20-49 Unit Multifamily,"Portland, OR",2020,0.04070000000000001
+40900,propertytypes,20-49 Unit Multifamily,"Sacramento, CA",2020,0.0255
+38300,propertytypes,20-49 Unit Multifamily,"Pittsburgh, PA",2020,0.0252
+12420,propertytypes,20-49 Unit Multifamily,"Austin, TX",2020,0.059699999999999996
+29820,propertytypes,20-49 Unit Multifamily,"Las Vegas, NV",2020,0.0298
+17140,propertytypes,20-49 Unit Multifamily,"Cincinnati, OH",2020,0.021
+28140,propertytypes,20-49 Unit Multifamily,"Kansas City, MO",2020,0.027400000000000004
+18140,propertytypes,20-49 Unit Multifamily,"Columbus, OH",2020,0.0282
+26900,propertytypes,20-49 Unit Multifamily,"Indianapolis, IN",2020,0.0236
+17460,propertytypes,20-49 Unit Multifamily,"Cleveland, OH",2020,0.0265
+34980,propertytypes,20-49 Unit Multifamily,"Nashville, TN",2020,0.0359
+41940,propertytypes,20-49 Unit Multifamily,"San Jose, CA",2020,0.0501
+47260,propertytypes,20-49 Unit Multifamily,"Virginia Beach, VA",2020,0.0215
+39300,propertytypes,20-49 Unit Multifamily,"Providence, RI",2020,0.026099999999999998
+27260,propertytypes,20-49 Unit Multifamily,"Jacksonville, FL",2020,0.0418
+33340,propertytypes,20-49 Unit Multifamily,"Milwaukee, WI",2020,0.0565
+36420,propertytypes,20-49 Unit Multifamily,"Oklahoma City, OK",2020,0.0199
+39580,propertytypes,20-49 Unit Multifamily,"Raleigh, NC",2020,0.0383
+32820,propertytypes,20-49 Unit Multifamily,"Memphis, TN",2020,0.016399999999999998
+40060,propertytypes,20-49 Unit Multifamily,"Richmond, VA",2020,0.021400000000000002
+31140,propertytypes,20-49 Unit Multifamily,"Louisville, KY",2020,0.0229
+35380,propertytypes,20-49 Unit Multifamily,"New Orleans, LA",2020,0.0317
+41620,propertytypes,20-49 Unit Multifamily,"Salt Lake City, UT",2020,0.0487
+25540,propertytypes,20-49 Unit Multifamily,"Hartford, CT",2020,0.0364
+15380,propertytypes,20-49 Unit Multifamily,"Buffalo, NY",2020,0.0178
+13820,propertytypes,20-49 Unit Multifamily,"Birmingham, AL",2020,0.029900000000000003
+35620,propertytypes,50 or More Unit Multifamily,"New York, NY",2020,0.18309999999999998
+31080,propertytypes,50 or More Unit Multifamily,"Los Angeles, CA",2020,0.09880000000000001
+16980,propertytypes,50 or More Unit Multifamily,"Chicago, IL",2020,0.0874
+19100,propertytypes,50 or More Unit Multifamily,"Dallas, TX",2020,0.065
+26420,propertytypes,50 or More Unit Multifamily,"Houston, TX",2020,0.0764
+47900,propertytypes,50 or More Unit Multifamily,"Washington, DC",2020,0.128
+37980,propertytypes,50 or More Unit Multifamily,"Philadelphia, PA",2020,0.0591
+33100,propertytypes,50 or More Unit Multifamily,"Miami, FL",2020,0.1653
+12060,propertytypes,50 or More Unit Multifamily,"Atlanta, GA",2020,0.053099999999999994
+38060,propertytypes,50 or More Unit Multifamily,"Phoenix, AZ",2020,0.051500000000000004
+14460,propertytypes,50 or More Unit Multifamily,"Boston, MA",2020,0.0791
+41860,propertytypes,50 or More Unit Multifamily,"San Francisco, CA",2020,0.0989
+40140,propertytypes,50 or More Unit Multifamily,"Riverside, CA",2020,0.031200000000000002
+19820,propertytypes,50 or More Unit Multifamily,"Detroit, MI",2020,0.0438
+42660,propertytypes,50 or More Unit Multifamily,"Seattle, WA",2020,0.0908
+33460,propertytypes,50 or More Unit Multifamily,"Minneapolis, MN",2020,0.1023
+41740,propertytypes,50 or More Unit Multifamily,"San Diego, CA",2020,0.0907
+45300,propertytypes,50 or More Unit Multifamily,"Tampa, FL",2020,0.0616
+19740,propertytypes,50 or More Unit Multifamily,"Denver, CO",2020,0.07830000000000001
+41180,propertytypes,50 or More Unit Multifamily,"St. Louis, MO",2020,0.0335
+12580,propertytypes,50 or More Unit Multifamily,"Baltimore, MD",2020,0.054900000000000004
+16740,propertytypes,50 or More Unit Multifamily,"Charlotte, NC",2020,0.0278
+36740,propertytypes,50 or More Unit Multifamily,"Orlando, FL",2020,0.0395
+41700,propertytypes,50 or More Unit Multifamily,"San Antonio, TX",2020,0.0346
+38900,propertytypes,50 or More Unit Multifamily,"Portland, OR",2020,0.07400000000000001
+40900,propertytypes,50 or More Unit Multifamily,"Sacramento, CA",2020,0.04650000000000001
+38300,propertytypes,50 or More Unit Multifamily,"Pittsburgh, PA",2020,0.0412
+12420,propertytypes,50 or More Unit Multifamily,"Austin, TX",2020,0.07940000000000001
+29820,propertytypes,50 or More Unit Multifamily,"Las Vegas, NV",2020,0.0701
+17140,propertytypes,50 or More Unit Multifamily,"Cincinnati, OH",2020,0.0301
+28140,propertytypes,50 or More Unit Multifamily,"Kansas City, MO",2020,0.0348
+18140,propertytypes,50 or More Unit Multifamily,"Columbus, OH",2020,0.0315
+26900,propertytypes,50 or More Unit Multifamily,"Indianapolis, IN",2020,0.03
+17460,propertytypes,50 or More Unit Multifamily,"Cleveland, OH",2020,0.0734
+34980,propertytypes,50 or More Unit Multifamily,"Nashville, TN",2020,0.0396
+41940,propertytypes,50 or More Unit Multifamily,"San Jose, CA",2020,0.1085
+47260,propertytypes,50 or More Unit Multifamily,"Virginia Beach, VA",2020,0.0357
+39300,propertytypes,50 or More Unit Multifamily,"Providence, RI",2020,0.047400000000000005
+27260,propertytypes,50 or More Unit Multifamily,"Jacksonville, FL",2020,0.031200000000000002
+33340,propertytypes,50 or More Unit Multifamily,"Milwaukee, WI",2020,0.064
+36420,propertytypes,50 or More Unit Multifamily,"Oklahoma City, OK",2020,0.028700000000000003
+39580,propertytypes,50 or More Unit Multifamily,"Raleigh, NC",2020,0.0339
+32820,propertytypes,50 or More Unit Multifamily,"Memphis, TN",2020,0.0305
+40060,propertytypes,50 or More Unit Multifamily,"Richmond, VA",2020,0.0401
+31140,propertytypes,50 or More Unit Multifamily,"Louisville, KY",2020,0.027700000000000002
+35380,propertytypes,50 or More Unit Multifamily,"New Orleans, LA",2020,0.0421
+41620,propertytypes,50 or More Unit Multifamily,"Salt Lake City, UT",2020,0.0535
+25540,propertytypes,50 or More Unit Multifamily,"Hartford, CT",2020,0.049100000000000005
+15380,propertytypes,50 or More Unit Multifamily,"Buffalo, NY",2020,0.0368
+13820,propertytypes,50 or More Unit Multifamily,"Birmingham, AL",2020,0.0239
+35620,propertytypes,Mobile Homes,"New York, NY",2020,0.0039000000000000003
+31080,propertytypes,Mobile Homes,"Los Angeles, CA",2020,0.0187
+16980,propertytypes,Mobile Homes,"Chicago, IL",2020,0.0096
+19100,propertytypes,Mobile Homes,"Dallas, TX",2020,0.0348
+26420,propertytypes,Mobile Homes,"Houston, TX",2020,0.0477
+47900,propertytypes,Mobile Homes,"Washington, DC",2020,0.006600000000000001
+37980,propertytypes,Mobile Homes,"Philadelphia, PA",2020,0.0122
+33100,propertytypes,Mobile Homes,"Miami, FL",2020,0.0219
+12060,propertytypes,Mobile Homes,"Atlanta, GA",2020,0.029500000000000002
+38060,propertytypes,Mobile Homes,"Phoenix, AZ",2020,0.0636
+14460,propertytypes,Mobile Homes,"Boston, MA",2020,0.0117
+41860,propertytypes,Mobile Homes,"San Francisco, CA",2020,0.010700000000000001
+40140,propertytypes,Mobile Homes,"Riverside, CA",2020,0.0735
+19820,propertytypes,Mobile Homes,"Detroit, MI",2020,0.0282
+42660,propertytypes,Mobile Homes,"Seattle, WA",2020,0.0334
+33460,propertytypes,Mobile Homes,"Minneapolis, MN",2020,0.016
+41740,propertytypes,Mobile Homes,"San Diego, CA",2020,0.0349
+45300,propertytypes,Mobile Homes,"Tampa, FL",2020,0.1057
+19740,propertytypes,Mobile Homes,"Denver, CO",2020,0.017
+41180,propertytypes,Mobile Homes,"St. Louis, MO",2020,0.0332
+12580,propertytypes,Mobile Homes,"Baltimore, MD",2020,0.010700000000000001
+16740,propertytypes,Mobile Homes,"Charlotte, NC",2020,0.0737
+36740,propertytypes,Mobile Homes,"Orlando, FL",2020,0.06480000000000001
+41700,propertytypes,Mobile Homes,"San Antonio, TX",2020,0.0596
+38900,propertytypes,Mobile Homes,"Portland, OR",2020,0.0391
+40900,propertytypes,Mobile Homes,"Sacramento, CA",2020,0.0288
+38300,propertytypes,Mobile Homes,"Pittsburgh, PA",2020,0.0358
+12420,propertytypes,Mobile Homes,"Austin, TX",2020,0.0487
+29820,propertytypes,Mobile Homes,"Las Vegas, NV",2020,0.0286
+17140,propertytypes,Mobile Homes,"Cincinnati, OH",2020,0.031200000000000002
+28140,propertytypes,Mobile Homes,"Kansas City, MO",2020,0.0176
+18140,propertytypes,Mobile Homes,"Columbus, OH",2020,0.024700000000000003
+26900,propertytypes,Mobile Homes,"Indianapolis, IN",2020,0.0244
+17460,propertytypes,Mobile Homes,"Cleveland, OH",2020,0.010400000000000001
+34980,propertytypes,Mobile Homes,"Nashville, TN",2020,0.0496
+41940,propertytypes,Mobile Homes,"San Jose, CA",2020,0.0291
+47260,propertytypes,Mobile Homes,"Virginia Beach, VA",2020,0.027999999999999997
+39300,propertytypes,Mobile Homes,"Providence, RI",2020,0.010700000000000001
+27260,propertytypes,Mobile Homes,"Jacksonville, FL",2020,0.0746
+33340,propertytypes,Mobile Homes,"Milwaukee, WI",2020,0.005699999999999999
+36420,propertytypes,Mobile Homes,"Oklahoma City, OK",2020,0.055
+39580,propertytypes,Mobile Homes,"Raleigh, NC",2020,0.0643
+32820,propertytypes,Mobile Homes,"Memphis, TN",2020,0.0357
+40060,propertytypes,Mobile Homes,"Richmond, VA",2020,0.0216
+31140,propertytypes,Mobile Homes,"Louisville, KY",2020,0.0338
+35380,propertytypes,Mobile Homes,"New Orleans, LA",2020,0.0392
+41620,propertytypes,Mobile Homes,"Salt Lake City, UT",2020,0.0213
+25540,propertytypes,Mobile Homes,"Hartford, CT",2020,0.006999999999999999
+15380,propertytypes,Mobile Homes,"Buffalo, NY",2020,0.0175
+13820,propertytypes,Mobile Homes,"Birmingham, AL",2020,0.08230000000000001
+35620,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"New York, NY",2020,0.0014000000000000002
+31080,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Los Angeles, CA",2020,0.0043
+16980,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Chicago, IL",2020,0.0028000000000000004
+19100,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Dallas, TX",2020,0.0025
+26420,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Houston, TX",2020,0.0025
+47900,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Washington, DC",2020,0.0031
+37980,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Philadelphia, PA",2020,0.005699999999999999
+33100,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Miami, FL",2020,0.005
+12060,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Atlanta, GA",2020,0.0026000000000000003
+38060,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Phoenix, AZ",2020,0.0048
+14460,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Boston, MA",2020,0.0023
+41860,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"San Francisco, CA",2020,0.0036
+40140,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Riverside, CA",2020,0.011399999999999999
+19820,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Detroit, MI",2020,0.0026000000000000003
+42660,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Seattle, WA",2020,0.005200000000000001
+33460,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Minneapolis, MN",2020,0.0064
+41740,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"San Diego, CA",2020,0.0084
+45300,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Tampa, FL",2020,0.0078000000000000005
+19740,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Denver, CO",2020,0.0040999999999999995
+41180,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"St. Louis, MO",2020,0.0063
+12580,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Baltimore, MD",2020,0.0031
+16740,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Charlotte, NC",2020,0.0051
+36740,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Orlando, FL",2020,0.0043
+41700,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"San Antonio, TX",2020,0.0040999999999999995
+38900,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Portland, OR",2020,0.0126
+40900,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Sacramento, CA",2020,0.011200000000000002
+38300,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Pittsburgh, PA",2020,0.0033000000000000004
+12420,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Austin, TX",2020,0.0033000000000000004
+29820,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Las Vegas, NV",2020,0.0017000000000000001
+17140,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Cincinnati, OH",2020,0.0036
+28140,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Kansas City, MO",2020,0.0067
+18140,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Columbus, OH",2020,0.0048
+26900,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Indianapolis, IN",2020,0.0049
+17460,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Cleveland, OH",2020,0.0034999999999999996
+34980,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Nashville, TN",2020,0.0038
+41940,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"San Jose, CA",2020,0.0069
+47260,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Virginia Beach, VA",2020,0.0047
+39300,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Providence, RI",2020,0.0055000000000000005
+27260,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Jacksonville, FL",2020,0.0025
+33340,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Milwaukee, WI",2020,0.0040999999999999995
+36420,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Oklahoma City, OK",2020,0.0062
+39580,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Raleigh, NC",2020,0.0047
+32820,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Memphis, TN",2020,0.0044
+40060,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Richmond, VA",2020,0.0045000000000000005
+31140,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Louisville, KY",2020,0.0058
+35380,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"New Orleans, LA",2020,0.0053
+41620,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Salt Lake City, UT",2020,0.0028000000000000004
+25540,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Hartford, CT",2020,0.0036
+15380,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Buffalo, NY",2020,0.0034999999999999996
+13820,employmentindustries,Agriculture/Forestry/Fishing/Hunting,"Birmingham, AL",2020,0.003
+35620,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"New York, NY",2020,0.0002
+31080,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Los Angeles, CA",2020,0.0006
+16980,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Chicago, IL",2020,0.0004
+19100,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Dallas, TX",2020,0.0077
+26420,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Houston, TX",2020,0.028900000000000002
+47900,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Washington, DC",2020,0.0005
+37980,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Philadelphia, PA",2020,0.0007000000000000001
+33100,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Miami, FL",2020,0.0003
+12060,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Atlanta, GA",2020,0.0006
+38060,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Phoenix, AZ",2020,0.0017000000000000001
+14460,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Boston, MA",2020,0.0003
+41860,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"San Francisco, CA",2020,0.0008
+40140,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Riverside, CA",2020,0.0009
+19820,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Detroit, MI",2020,0.0004
+42660,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Seattle, WA",2020,0.0006
+33460,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Minneapolis, MN",2020,0.0008
+41740,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"San Diego, CA",2020,0.0004
+45300,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Tampa, FL",2020,0.0007000000000000001
+19740,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Denver, CO",2020,0.0084
+41180,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"St. Louis, MO",2020,0.0015
+12580,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Baltimore, MD",2020,0.0004
+16740,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Charlotte, NC",2020,0.0008
+36740,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Orlando, FL",2020,0.0004
+41700,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"San Antonio, TX",2020,0.0118
+38900,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Portland, OR",2020,0.0005
+40900,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Sacramento, CA",2020,0.0005
+38300,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Pittsburgh, PA",2020,0.0088
+12420,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Austin, TX",2020,0.0051
+29820,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Las Vegas, NV",2020,0.0011
+17140,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Cincinnati, OH",2020,0.0009
+28140,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Kansas City, MO",2020,0.0014000000000000002
+18140,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Columbus, OH",2020,0.001
+26900,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Indianapolis, IN",2020,0.0007000000000000001
+17460,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Cleveland, OH",2020,0.0009
+34980,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Nashville, TN",2020,0.001
+41940,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"San Jose, CA",2020,0.0005
+47260,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Virginia Beach, VA",2020,0.0009
+39300,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Providence, RI",2020,0.0002
+27260,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Jacksonville, FL",2020,0.0007000000000000001
+33340,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Milwaukee, WI",2020,0.0007000000000000001
+36420,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Oklahoma City, OK",2020,0.029900000000000003
+39580,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Raleigh, NC",2020,0.0007000000000000001
+32820,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Memphis, TN",2020,0.0006
+40060,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Richmond, VA",2020,0.0011
+31140,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Louisville, KY",2020,0.001
+35380,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"New Orleans, LA",2020,0.0088
+41620,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Salt Lake City, UT",2020,0.0058
+25540,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Hartford, CT",2020,0.0002
+15380,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Buffalo, NY",2020,0.0007000000000000001
+13820,employmentindustries,Mining/Quarrying/Oil & Gas Extraction,"Birmingham, AL",2020,0.0048
+35620,employmentindustries,Construction,"New York, NY",2020,0.0631
+31080,employmentindustries,Construction,"Los Angeles, CA",2020,0.0695
+16980,employmentindustries,Construction,"Chicago, IL",2020,0.0592
+19100,employmentindustries,Construction,"Dallas, TX",2020,0.08779999999999999
+26420,employmentindustries,Construction,"Houston, TX",2020,0.10640000000000001
+47900,employmentindustries,Construction,"Washington, DC",2020,0.0719
+37980,employmentindustries,Construction,"Philadelphia, PA",2020,0.0621
+33100,employmentindustries,Construction,"Miami, FL",2020,0.08259999999999999
+12060,employmentindustries,Construction,"Atlanta, GA",2020,0.0755
+38060,employmentindustries,Construction,"Phoenix, AZ",2020,0.0734
+14460,employmentindustries,Construction,"Boston, MA",2020,0.0567
+41860,employmentindustries,Construction,"San Francisco, CA",2020,0.0622
+40140,employmentindustries,Construction,"Riverside, CA",2020,0.0956
+19820,employmentindustries,Construction,"Detroit, MI",2020,0.058499999999999996
+42660,employmentindustries,Construction,"Seattle, WA",2020,0.0719
+33460,employmentindustries,Construction,"Minneapolis, MN",2020,0.057999999999999996
+41740,employmentindustries,Construction,"San Diego, CA",2020,0.0693
+45300,employmentindustries,Construction,"Tampa, FL",2020,0.07490000000000001
+19740,employmentindustries,Construction,"Denver, CO",2020,0.0857
+41180,employmentindustries,Construction,"St. Louis, MO",2020,0.0687
+12580,employmentindustries,Construction,"Baltimore, MD",2020,0.06860000000000001
+16740,employmentindustries,Construction,"Charlotte, NC",2020,0.0727
+36740,employmentindustries,Construction,"Orlando, FL",2020,0.0762
+41700,employmentindustries,Construction,"San Antonio, TX",2020,0.0904
+38900,employmentindustries,Construction,"Portland, OR",2020,0.0725
+40900,employmentindustries,Construction,"Sacramento, CA",2020,0.07690000000000001
+38300,employmentindustries,Construction,"Pittsburgh, PA",2020,0.0677
+12420,employmentindustries,Construction,"Austin, TX",2020,0.0867
+29820,employmentindustries,Construction,"Las Vegas, NV",2020,0.0827
+17140,employmentindustries,Construction,"Cincinnati, OH",2020,0.0622
+28140,employmentindustries,Construction,"Kansas City, MO",2020,0.0726
+18140,employmentindustries,Construction,"Columbus, OH",2020,0.0567
+26900,employmentindustries,Construction,"Indianapolis, IN",2020,0.06480000000000001
+17460,employmentindustries,Construction,"Cleveland, OH",2020,0.0559
+34980,employmentindustries,Construction,"Nashville, TN",2020,0.0729
+41940,employmentindustries,Construction,"San Jose, CA",2020,0.061399999999999996
+47260,employmentindustries,Construction,"Virginia Beach, VA",2020,0.0741
+39300,employmentindustries,Construction,"Providence, RI",2020,0.06849999999999999
+27260,employmentindustries,Construction,"Jacksonville, FL",2020,0.0742
+33340,employmentindustries,Construction,"Milwaukee, WI",2020,0.0541
+36420,employmentindustries,Construction,"Oklahoma City, OK",2020,0.07730000000000001
+39580,employmentindustries,Construction,"Raleigh, NC",2020,0.0701
+32820,employmentindustries,Construction,"Memphis, TN",2020,0.0576
+40060,employmentindustries,Construction,"Richmond, VA",2020,0.0734
+31140,employmentindustries,Construction,"Louisville, KY",2020,0.0631
+35380,employmentindustries,Construction,"New Orleans, LA",2020,0.09789999999999999
+41620,employmentindustries,Construction,"Salt Lake City, UT",2020,0.0797
+25540,employmentindustries,Construction,"Hartford, CT",2020,0.057699999999999994
+15380,employmentindustries,Construction,"Buffalo, NY",2020,0.053099999999999994
+13820,employmentindustries,Construction,"Birmingham, AL",2020,0.077
+35620,employmentindustries,Manufacturing,"New York, NY",2020,0.055999999999999994
+31080,employmentindustries,Manufacturing,"Los Angeles, CA",2020,0.1054
+16980,employmentindustries,Manufacturing,"Chicago, IL",2020,0.12060000000000001
+19100,employmentindustries,Manufacturing,"Dallas, TX",2020,0.09240000000000001
+26420,employmentindustries,Manufacturing,"Houston, TX",2020,0.0989
+47900,employmentindustries,Manufacturing,"Washington, DC",2020,0.0304
+37980,employmentindustries,Manufacturing,"Philadelphia, PA",2020,0.09480000000000001
+33100,employmentindustries,Manufacturing,"Miami, FL",2020,0.047599999999999996
+12060,employmentindustries,Manufacturing,"Atlanta, GA",2020,0.0931
+38060,employmentindustries,Manufacturing,"Phoenix, AZ",2020,0.0785
+14460,employmentindustries,Manufacturing,"Boston, MA",2020,0.08900000000000001
+41860,employmentindustries,Manufacturing,"San Francisco, CA",2020,0.0746
+40140,employmentindustries,Manufacturing,"Riverside, CA",2020,0.08779999999999999
+19820,employmentindustries,Manufacturing,"Detroit, MI",2020,0.21309999999999998
+42660,employmentindustries,Manufacturing,"Seattle, WA",2020,0.10960000000000002
+33460,employmentindustries,Manufacturing,"Minneapolis, MN",2020,0.1385
+41740,employmentindustries,Manufacturing,"San Diego, CA",2020,0.09119999999999999
+45300,employmentindustries,Manufacturing,"Tampa, FL",2020,0.058499999999999996
+19740,employmentindustries,Manufacturing,"Denver, CO",2020,0.0639
+41180,employmentindustries,Manufacturing,"St. Louis, MO",2020,0.1152
+12580,employmentindustries,Manufacturing,"Baltimore, MD",2020,0.055
+16740,employmentindustries,Manufacturing,"Charlotte, NC",2020,0.122
+36740,employmentindustries,Manufacturing,"Orlando, FL",2020,0.048600000000000004
+41700,employmentindustries,Manufacturing,"San Antonio, TX",2020,0.061500000000000006
+38900,employmentindustries,Manufacturing,"Portland, OR",2020,0.1278
+40900,employmentindustries,Manufacturing,"Sacramento, CA",2020,0.0579
+38300,employmentindustries,Manufacturing,"Pittsburgh, PA",2020,0.1127
+12420,employmentindustries,Manufacturing,"Austin, TX",2020,0.08109999999999999
+29820,employmentindustries,Manufacturing,"Las Vegas, NV",2020,0.038700000000000005
+17140,employmentindustries,Manufacturing,"Cincinnati, OH",2020,0.1445
+28140,employmentindustries,Manufacturing,"Kansas City, MO",2020,0.0986
+18140,employmentindustries,Manufacturing,"Columbus, OH",2020,0.0965
+26900,employmentindustries,Manufacturing,"Indianapolis, IN",2020,0.1384
+17460,employmentindustries,Manufacturing,"Cleveland, OH",2020,0.1519
+34980,employmentindustries,Manufacturing,"Nashville, TN",2020,0.1099
+41940,employmentindustries,Manufacturing,"San Jose, CA",2020,0.16670000000000001
+47260,employmentindustries,Manufacturing,"Virginia Beach, VA",2020,0.0944
+39300,employmentindustries,Manufacturing,"Providence, RI",2020,0.1207
+27260,employmentindustries,Manufacturing,"Jacksonville, FL",2020,0.0605
+33340,employmentindustries,Manufacturing,"Milwaukee, WI",2020,0.1766
+36420,employmentindustries,Manufacturing,"Oklahoma City, OK",2020,0.0731
+39580,employmentindustries,Manufacturing,"Raleigh, NC",2020,0.0944
+32820,employmentindustries,Manufacturing,"Memphis, TN",2020,0.1041
+40060,employmentindustries,Manufacturing,"Richmond, VA",2020,0.0733
+31140,employmentindustries,Manufacturing,"Louisville, KY",2020,0.1429
+35380,employmentindustries,Manufacturing,"New Orleans, LA",2020,0.0637
+41620,employmentindustries,Manufacturing,"Salt Lake City, UT",2020,0.10300000000000001
+25540,employmentindustries,Manufacturing,"Hartford, CT",2020,0.11480000000000001
+15380,employmentindustries,Manufacturing,"Buffalo, NY",2020,0.1051
+13820,employmentindustries,Manufacturing,"Birmingham, AL",2020,0.1009
+35620,employmentindustries,Wholesale Trade,"New York, NY",2020,0.0276
+31080,employmentindustries,Wholesale Trade,"Los Angeles, CA",2020,0.0345
+16980,employmentindustries,Wholesale Trade,"Chicago, IL",2020,0.029300000000000003
+19100,employmentindustries,Wholesale Trade,"Dallas, TX",2020,0.0288
+26420,employmentindustries,Wholesale Trade,"Houston, TX",2020,0.0317
+47900,employmentindustries,Wholesale Trade,"Washington, DC",2020,0.011200000000000002
+37980,employmentindustries,Wholesale Trade,"Philadelphia, PA",2020,0.0285
+33100,employmentindustries,Wholesale Trade,"Miami, FL",2020,0.0335
+12060,employmentindustries,Wholesale Trade,"Atlanta, GA",2020,0.0288
+38060,employmentindustries,Wholesale Trade,"Phoenix, AZ",2020,0.0242
+14460,employmentindustries,Wholesale Trade,"Boston, MA",2020,0.0219
+41860,employmentindustries,Wholesale Trade,"San Francisco, CA",2020,0.022799999999999997
+40140,employmentindustries,Wholesale Trade,"Riverside, CA",2020,0.0315
+19820,employmentindustries,Wholesale Trade,"Detroit, MI",2020,0.0245
+42660,employmentindustries,Wholesale Trade,"Seattle, WA",2020,0.026099999999999998
+33460,employmentindustries,Wholesale Trade,"Minneapolis, MN",2020,0.029300000000000003
+41740,employmentindustries,Wholesale Trade,"San Diego, CA",2020,0.0246
+45300,employmentindustries,Wholesale Trade,"Tampa, FL",2020,0.026000000000000002
+19740,employmentindustries,Wholesale Trade,"Denver, CO",2020,0.0267
+41180,employmentindustries,Wholesale Trade,"St. Louis, MO",2020,0.027999999999999997
+12580,employmentindustries,Wholesale Trade,"Baltimore, MD",2020,0.0194
+16740,employmentindustries,Wholesale Trade,"Charlotte, NC",2020,0.0301
+36740,employmentindustries,Wholesale Trade,"Orlando, FL",2020,0.0248
+41700,employmentindustries,Wholesale Trade,"San Antonio, TX",2020,0.022400000000000003
+38900,employmentindustries,Wholesale Trade,"Portland, OR",2020,0.0301
+40900,employmentindustries,Wholesale Trade,"Sacramento, CA",2020,0.023700000000000002
+38300,employmentindustries,Wholesale Trade,"Pittsburgh, PA",2020,0.0278
+12420,employmentindustries,Wholesale Trade,"Austin, TX",2020,0.0203
+29820,employmentindustries,Wholesale Trade,"Las Vegas, NV",2020,0.0194
+17140,employmentindustries,Wholesale Trade,"Cincinnati, OH",2020,0.0288
+28140,employmentindustries,Wholesale Trade,"Kansas City, MO",2020,0.0301
+18140,employmentindustries,Wholesale Trade,"Columbus, OH",2020,0.0294
+26900,employmentindustries,Wholesale Trade,"Indianapolis, IN",2020,0.0305
+17460,employmentindustries,Wholesale Trade,"Cleveland, OH",2020,0.0282
+34980,employmentindustries,Wholesale Trade,"Nashville, TN",2020,0.026600000000000002
+41940,employmentindustries,Wholesale Trade,"San Jose, CA",2020,0.0207
+47260,employmentindustries,Wholesale Trade,"Virginia Beach, VA",2020,0.0195
+39300,employmentindustries,Wholesale Trade,"Providence, RI",2020,0.027400000000000004
+27260,employmentindustries,Wholesale Trade,"Jacksonville, FL",2020,0.0255
+33340,employmentindustries,Wholesale Trade,"Milwaukee, WI",2020,0.028300000000000002
+36420,employmentindustries,Wholesale Trade,"Oklahoma City, OK",2020,0.0242
+39580,employmentindustries,Wholesale Trade,"Raleigh, NC",2020,0.024300000000000002
+32820,employmentindustries,Wholesale Trade,"Memphis, TN",2020,0.0336
+40060,employmentindustries,Wholesale Trade,"Richmond, VA",2020,0.0229
+31140,employmentindustries,Wholesale Trade,"Louisville, KY",2020,0.0278
+35380,employmentindustries,Wholesale Trade,"New Orleans, LA",2020,0.0309
+41620,employmentindustries,Wholesale Trade,"Salt Lake City, UT",2020,0.0225
+25540,employmentindustries,Wholesale Trade,"Hartford, CT",2020,0.023700000000000002
+15380,employmentindustries,Wholesale Trade,"Buffalo, NY",2020,0.0239
+13820,employmentindustries,Wholesale Trade,"Birmingham, AL",2020,0.034
+35620,employmentindustries,Retail Trade,"New York, NY",2020,0.0861
+31080,employmentindustries,Retail Trade,"Los Angeles, CA",2020,0.09029999999999999
+16980,employmentindustries,Retail Trade,"Chicago, IL",2020,0.09150000000000001
+19100,employmentindustries,Retail Trade,"Dallas, TX",2020,0.10289999999999999
+26420,employmentindustries,Retail Trade,"Houston, TX",2020,0.09460000000000002
+47900,employmentindustries,Retail Trade,"Washington, DC",2020,0.0696
+37980,employmentindustries,Retail Trade,"Philadelphia, PA",2020,0.0904
+33100,employmentindustries,Retail Trade,"Miami, FL",2020,0.109
+12060,employmentindustries,Retail Trade,"Atlanta, GA",2020,0.09609999999999999
+38060,employmentindustries,Retail Trade,"Phoenix, AZ",2020,0.1041
+14460,employmentindustries,Retail Trade,"Boston, MA",2020,0.07940000000000001
+41860,employmentindustries,Retail Trade,"San Francisco, CA",2020,0.0805
+40140,employmentindustries,Retail Trade,"Riverside, CA",2020,0.1103
+19820,employmentindustries,Retail Trade,"Detroit, MI",2020,0.0867
+42660,employmentindustries,Retail Trade,"Seattle, WA",2020,0.0994
+33460,employmentindustries,Retail Trade,"Minneapolis, MN",2020,0.0931
+41740,employmentindustries,Retail Trade,"San Diego, CA",2020,0.0904
+45300,employmentindustries,Retail Trade,"Tampa, FL",2020,0.1086
+19740,employmentindustries,Retail Trade,"Denver, CO",2020,0.0981
+41180,employmentindustries,Retail Trade,"St. Louis, MO",2020,0.09460000000000002
+12580,employmentindustries,Retail Trade,"Baltimore, MD",2020,0.08720000000000001
+16740,employmentindustries,Retail Trade,"Charlotte, NC",2020,0.10160000000000001
+36740,employmentindustries,Retail Trade,"Orlando, FL",2020,0.1091
+41700,employmentindustries,Retail Trade,"San Antonio, TX",2020,0.10800000000000001
+38900,employmentindustries,Retail Trade,"Portland, OR",2020,0.09300000000000001
+40900,employmentindustries,Retail Trade,"Sacramento, CA",2020,0.0942
+38300,employmentindustries,Retail Trade,"Pittsburgh, PA",2020,0.09519999999999999
+12420,employmentindustries,Retail Trade,"Austin, TX",2020,0.0954
+29820,employmentindustries,Retail Trade,"Las Vegas, NV",2020,0.1058
+17140,employmentindustries,Retail Trade,"Cincinnati, OH",2020,0.09910000000000001
+28140,employmentindustries,Retail Trade,"Kansas City, MO",2020,0.09390000000000001
+18140,employmentindustries,Retail Trade,"Columbus, OH",2020,0.1026
+26900,employmentindustries,Retail Trade,"Indianapolis, IN",2020,0.0989
+17460,employmentindustries,Retail Trade,"Cleveland, OH",2020,0.0898
+34980,employmentindustries,Retail Trade,"Nashville, TN",2020,0.09880000000000001
+41940,employmentindustries,Retail Trade,"San Jose, CA",2020,0.0752
+47260,employmentindustries,Retail Trade,"Virginia Beach, VA",2020,0.1001
+39300,employmentindustries,Retail Trade,"Providence, RI",2020,0.1018
+27260,employmentindustries,Retail Trade,"Jacksonville, FL",2020,0.10439999999999999
+33340,employmentindustries,Retail Trade,"Milwaukee, WI",2020,0.0886
+36420,employmentindustries,Retail Trade,"Oklahoma City, OK",2020,0.1097
+39580,employmentindustries,Retail Trade,"Raleigh, NC",2020,0.0882
+32820,employmentindustries,Retail Trade,"Memphis, TN",2020,0.0987
+40060,employmentindustries,Retail Trade,"Richmond, VA",2020,0.09820000000000001
+31140,employmentindustries,Retail Trade,"Louisville, KY",2020,0.0943
+35380,employmentindustries,Retail Trade,"New Orleans, LA",2020,0.08869999999999999
+41620,employmentindustries,Retail Trade,"Salt Lake City, UT",2020,0.10039999999999999
+25540,employmentindustries,Retail Trade,"Hartford, CT",2020,0.0953
+15380,employmentindustries,Retail Trade,"Buffalo, NY",2020,0.09670000000000001
+13820,employmentindustries,Retail Trade,"Birmingham, AL",2020,0.0884
+35620,employmentindustries,Transportation/Warehousing,"New York, NY",2020,0.055700000000000006
+31080,employmentindustries,Transportation/Warehousing,"Los Angeles, CA",2020,0.050800000000000005
+16980,employmentindustries,Transportation/Warehousing,"Chicago, IL",2020,0.0664
+19100,employmentindustries,Transportation/Warehousing,"Dallas, TX",2020,0.0629
+26420,employmentindustries,Transportation/Warehousing,"Houston, TX",2020,0.058499999999999996
+47900,employmentindustries,Transportation/Warehousing,"Washington, DC",2020,0.0354
+37980,employmentindustries,Transportation/Warehousing,"Philadelphia, PA",2020,0.0392
+33100,employmentindustries,Transportation/Warehousing,"Miami, FL",2020,0.0654
+12060,employmentindustries,Transportation/Warehousing,"Atlanta, GA",2020,0.0631
+38060,employmentindustries,Transportation/Warehousing,"Phoenix, AZ",2020,0.049100000000000005
+14460,employmentindustries,Transportation/Warehousing,"Boston, MA",2020,0.0305
+41860,employmentindustries,Transportation/Warehousing,"San Francisco, CA",2020,0.0449
+40140,employmentindustries,Transportation/Warehousing,"Riverside, CA",2020,0.0743
+19820,employmentindustries,Transportation/Warehousing,"Detroit, MI",2020,0.0369
+42660,employmentindustries,Transportation/Warehousing,"Seattle, WA",2020,0.0472
+33460,employmentindustries,Transportation/Warehousing,"Minneapolis, MN",2020,0.041299999999999996
+41740,employmentindustries,Transportation/Warehousing,"San Diego, CA",2020,0.0353
+45300,employmentindustries,Transportation/Warehousing,"Tampa, FL",2020,0.0442
+19740,employmentindustries,Transportation/Warehousing,"Denver, CO",2020,0.0475
+41180,employmentindustries,Transportation/Warehousing,"St. Louis, MO",2020,0.0464
+12580,employmentindustries,Transportation/Warehousing,"Baltimore, MD",2020,0.0402
+16740,employmentindustries,Transportation/Warehousing,"Charlotte, NC",2020,0.0489
+36740,employmentindustries,Transportation/Warehousing,"Orlando, FL",2020,0.0553
+41700,employmentindustries,Transportation/Warehousing,"San Antonio, TX",2020,0.043899999999999995
+38900,employmentindustries,Transportation/Warehousing,"Portland, OR",2020,0.0447
+40900,employmentindustries,Transportation/Warehousing,"Sacramento, CA",2020,0.0429
+38300,employmentindustries,Transportation/Warehousing,"Pittsburgh, PA",2020,0.0394
+12420,employmentindustries,Transportation/Warehousing,"Austin, TX",2020,0.0319
+29820,employmentindustries,Transportation/Warehousing,"Las Vegas, NV",2020,0.0576
+17140,employmentindustries,Transportation/Warehousing,"Cincinnati, OH",2020,0.0501
+28140,employmentindustries,Transportation/Warehousing,"Kansas City, MO",2020,0.0553
+18140,employmentindustries,Transportation/Warehousing,"Columbus, OH",2020,0.0519
+26900,employmentindustries,Transportation/Warehousing,"Indianapolis, IN",2020,0.057300000000000004
+17460,employmentindustries,Transportation/Warehousing,"Cleveland, OH",2020,0.0412
+34980,employmentindustries,Transportation/Warehousing,"Nashville, TN",2020,0.0526
+41940,employmentindustries,Transportation/Warehousing,"San Jose, CA",2020,0.0263
+47260,employmentindustries,Transportation/Warehousing,"Virginia Beach, VA",2020,0.0424
+39300,employmentindustries,Transportation/Warehousing,"Providence, RI",2020,0.0339
+27260,employmentindustries,Transportation/Warehousing,"Jacksonville, FL",2020,0.0707
+33340,employmentindustries,Transportation/Warehousing,"Milwaukee, WI",2020,0.0384
+36420,employmentindustries,Transportation/Warehousing,"Oklahoma City, OK",2020,0.0409
+39580,employmentindustries,Transportation/Warehousing,"Raleigh, NC",2020,0.0338
+32820,employmentindustries,Transportation/Warehousing,"Memphis, TN",2020,0.13140000000000002
+40060,employmentindustries,Transportation/Warehousing,"Richmond, VA",2020,0.0455
+31140,employmentindustries,Transportation/Warehousing,"Louisville, KY",2020,0.0721
+35380,employmentindustries,Transportation/Warehousing,"New Orleans, LA",2020,0.0512
+41620,employmentindustries,Transportation/Warehousing,"Salt Lake City, UT",2020,0.0489
+25540,employmentindustries,Transportation/Warehousing,"Hartford, CT",2020,0.0385
+15380,employmentindustries,Transportation/Warehousing,"Buffalo, NY",2020,0.0425
+13820,employmentindustries,Transportation/Warehousing,"Birmingham, AL",2020,0.042300000000000004
+35620,employmentindustries,Utilities,"New York, NY",2020,0.0062
+31080,employmentindustries,Utilities,"Los Angeles, CA",2020,0.005600000000000001
+16980,employmentindustries,Utilities,"Chicago, IL",2020,0.0059
+19100,employmentindustries,Utilities,"Dallas, TX",2020,0.006500000000000001
+26420,employmentindustries,Utilities,"Houston, TX",2020,0.0099
+47900,employmentindustries,Utilities,"Washington, DC",2020,0.0054
+37980,employmentindustries,Utilities,"Philadelphia, PA",2020,0.0087
+33100,employmentindustries,Utilities,"Miami, FL",2020,0.0063
+12060,employmentindustries,Utilities,"Atlanta, GA",2020,0.008100000000000001
+38060,employmentindustries,Utilities,"Phoenix, AZ",2020,0.0103
+14460,employmentindustries,Utilities,"Boston, MA",2020,0.0063
+41860,employmentindustries,Utilities,"San Francisco, CA",2020,0.0069
+40140,employmentindustries,Utilities,"Riverside, CA",2020,0.0087
+19820,employmentindustries,Utilities,"Detroit, MI",2020,0.0087
+42660,employmentindustries,Utilities,"Seattle, WA",2020,0.0054
+33460,employmentindustries,Utilities,"Minneapolis, MN",2020,0.006500000000000001
+41740,employmentindustries,Utilities,"San Diego, CA",2020,0.0072
+45300,employmentindustries,Utilities,"Tampa, FL",2020,0.0077
+19740,employmentindustries,Utilities,"Denver, CO",2020,0.0077
+41180,employmentindustries,Utilities,"St. Louis, MO",2020,0.0084
+12580,employmentindustries,Utilities,"Baltimore, MD",2020,0.0059
+16740,employmentindustries,Utilities,"Charlotte, NC",2020,0.0129
+36740,employmentindustries,Utilities,"Orlando, FL",2020,0.0053
+41700,employmentindustries,Utilities,"San Antonio, TX",2020,0.0092
+38900,employmentindustries,Utilities,"Portland, OR",2020,0.0097
+40900,employmentindustries,Utilities,"Sacramento, CA",2020,0.0102
+38300,employmentindustries,Utilities,"Pittsburgh, PA",2020,0.013700000000000002
+12420,employmentindustries,Utilities,"Austin, TX",2020,0.0094
+29820,employmentindustries,Utilities,"Las Vegas, NV",2020,0.0068000000000000005
+17140,employmentindustries,Utilities,"Cincinnati, OH",2020,0.0072
+28140,employmentindustries,Utilities,"Kansas City, MO",2020,0.0074
+18140,employmentindustries,Utilities,"Columbus, OH",2020,0.0087
+26900,employmentindustries,Utilities,"Indianapolis, IN",2020,0.0076
+17460,employmentindustries,Utilities,"Cleveland, OH",2020,0.006600000000000001
+34980,employmentindustries,Utilities,"Nashville, TN",2020,0.006600000000000001
+41940,employmentindustries,Utilities,"San Jose, CA",2020,0.0040999999999999995
+47260,employmentindustries,Utilities,"Virginia Beach, VA",2020,0.0084
+39300,employmentindustries,Utilities,"Providence, RI",2020,0.006600000000000001
+27260,employmentindustries,Utilities,"Jacksonville, FL",2020,0.0067
+33340,employmentindustries,Utilities,"Milwaukee, WI",2020,0.0063
+36420,employmentindustries,Utilities,"Oklahoma City, OK",2020,0.0105
+39580,employmentindustries,Utilities,"Raleigh, NC",2020,0.0070999999999999995
+32820,employmentindustries,Utilities,"Memphis, TN",2020,0.0067
+40060,employmentindustries,Utilities,"Richmond, VA",2020,0.014199999999999999
+31140,employmentindustries,Utilities,"Louisville, KY",2020,0.0089
+35380,employmentindustries,Utilities,"New Orleans, LA",2020,0.011399999999999999
+41620,employmentindustries,Utilities,"Salt Lake City, UT",2020,0.0068000000000000005
+25540,employmentindustries,Utilities,"Hartford, CT",2020,0.0076
+15380,employmentindustries,Utilities,"Buffalo, NY",2020,0.0089
+13820,employmentindustries,Utilities,"Birmingham, AL",2020,0.0215
+35620,employmentindustries,Information (non-tech),"New York, NY",2020,0.0301
+31080,employmentindustries,Information (non-tech),"Los Angeles, CA",2020,0.0359
+16980,employmentindustries,Information (non-tech),"Chicago, IL",2020,0.0188
+19100,employmentindustries,Information (non-tech),"Dallas, TX",2020,0.0206
+26420,employmentindustries,Information (non-tech),"Houston, TX",2020,0.011200000000000002
+47900,employmentindustries,Information (non-tech),"Washington, DC",2020,0.0234
+37980,employmentindustries,Information (non-tech),"Philadelphia, PA",2020,0.0182
+33100,employmentindustries,Information (non-tech),"Miami, FL",2020,0.0181
+12060,employmentindustries,Information (non-tech),"Atlanta, GA",2020,0.029300000000000003
+38060,employmentindustries,Information (non-tech),"Phoenix, AZ",2020,0.0199
+14460,employmentindustries,Information (non-tech),"Boston, MA",2020,0.0227
+41860,employmentindustries,Information (non-tech),"San Francisco, CA",2020,0.0357
+40140,employmentindustries,Information (non-tech),"Riverside, CA",2020,0.0129
+19820,employmentindustries,Information (non-tech),"Detroit, MI",2020,0.013999999999999999
+42660,employmentindustries,Information (non-tech),"Seattle, WA",2020,0.0258
+33460,employmentindustries,Information (non-tech),"Minneapolis, MN",2020,0.0163
+41740,employmentindustries,Information (non-tech),"San Diego, CA",2020,0.0211
+45300,employmentindustries,Information (non-tech),"Tampa, FL",2020,0.018000000000000002
+19740,employmentindustries,Information (non-tech),"Denver, CO",2020,0.0317
+41180,employmentindustries,Information (non-tech),"St. Louis, MO",2020,0.0177
+12580,employmentindustries,Information (non-tech),"Baltimore, MD",2020,0.0172
+16740,employmentindustries,Information (non-tech),"Charlotte, NC",2020,0.0194
+36740,employmentindustries,Information (non-tech),"Orlando, FL",2020,0.0194
+41700,employmentindustries,Information (non-tech),"San Antonio, TX",2020,0.0148
+38900,employmentindustries,Information (non-tech),"Portland, OR",2020,0.0167
+40900,employmentindustries,Information (non-tech),"Sacramento, CA",2020,0.0181
+38300,employmentindustries,Information (non-tech),"Pittsburgh, PA",2020,0.016
+12420,employmentindustries,Information (non-tech),"Austin, TX",2020,0.0233
+29820,employmentindustries,Information (non-tech),"Las Vegas, NV",2020,0.016200000000000003
+17140,employmentindustries,Information (non-tech),"Cincinnati, OH",2020,0.0158
+28140,employmentindustries,Information (non-tech),"Kansas City, MO",2020,0.0213
+18140,employmentindustries,Information (non-tech),"Columbus, OH",2020,0.0193
+26900,employmentindustries,Information (non-tech),"Indianapolis, IN",2020,0.0148
+17460,employmentindustries,Information (non-tech),"Cleveland, OH",2020,0.015600000000000001
+34980,employmentindustries,Information (non-tech),"Nashville, TN",2020,0.0193
+41940,employmentindustries,Information (non-tech),"San Jose, CA",2020,0.0447
+47260,employmentindustries,Information (non-tech),"Virginia Beach, VA",2020,0.0147
+39300,employmentindustries,Information (non-tech),"Providence, RI",2020,0.0144
+27260,employmentindustries,Information (non-tech),"Jacksonville, FL",2020,0.0139
+33340,employmentindustries,Information (non-tech),"Milwaukee, WI",2020,0.016200000000000003
+36420,employmentindustries,Information (non-tech),"Oklahoma City, OK",2020,0.0131
+39580,employmentindustries,Information (non-tech),"Raleigh, NC",2020,0.026099999999999998
+32820,employmentindustries,Information (non-tech),"Memphis, TN",2020,0.011000000000000001
+40060,employmentindustries,Information (non-tech),"Richmond, VA",2020,0.0143
+31140,employmentindustries,Information (non-tech),"Louisville, KY",2020,0.0177
+35380,employmentindustries,Information (non-tech),"New Orleans, LA",2020,0.013999999999999999
+41620,employmentindustries,Information (non-tech),"Salt Lake City, UT",2020,0.0189
+25540,employmentindustries,Information (non-tech),"Hartford, CT",2020,0.0177
+15380,employmentindustries,Information (non-tech),"Buffalo, NY",2020,0.014199999999999999
+13820,employmentindustries,Information (non-tech),"Birmingham, AL",2020,0.0194
+35620,employmentindustries,Finance/Insurance,"New York, NY",2020,0.0696
+31080,employmentindustries,Finance/Insurance,"Los Angeles, CA",2020,0.042699999999999995
+16980,employmentindustries,Finance/Insurance,"Chicago, IL",2020,0.058600000000000006
+19100,employmentindustries,Finance/Insurance,"Dallas, TX",2020,0.0684
+26420,employmentindustries,Finance/Insurance,"Houston, TX",2020,0.039900000000000005
+47900,employmentindustries,Finance/Insurance,"Washington, DC",2020,0.0394
+37980,employmentindustries,Finance/Insurance,"Philadelphia, PA",2020,0.0689
+33100,employmentindustries,Finance/Insurance,"Miami, FL",2020,0.0481
+12060,employmentindustries,Finance/Insurance,"Atlanta, GA",2020,0.052300000000000006
+38060,employmentindustries,Finance/Insurance,"Phoenix, AZ",2020,0.078
+14460,employmentindustries,Finance/Insurance,"Boston, MA",2020,0.0641
+41860,employmentindustries,Finance/Insurance,"San Francisco, CA",2020,0.052000000000000005
+40140,employmentindustries,Finance/Insurance,"Riverside, CA",2020,0.0292
+19820,employmentindustries,Finance/Insurance,"Detroit, MI",2020,0.049
+42660,employmentindustries,Finance/Insurance,"Seattle, WA",2020,0.0369
+33460,employmentindustries,Finance/Insurance,"Minneapolis, MN",2020,0.0738
+41740,employmentindustries,Finance/Insurance,"San Diego, CA",2020,0.0373
+45300,employmentindustries,Finance/Insurance,"Tampa, FL",2020,0.0713
+19740,employmentindustries,Finance/Insurance,"Denver, CO",2020,0.0601
+41180,employmentindustries,Finance/Insurance,"St. Louis, MO",2020,0.0643
+12580,employmentindustries,Finance/Insurance,"Baltimore, MD",2020,0.045899999999999996
+16740,employmentindustries,Finance/Insurance,"Charlotte, NC",2020,0.0837
+36740,employmentindustries,Finance/Insurance,"Orlando, FL",2020,0.0438
+41700,employmentindustries,Finance/Insurance,"San Antonio, TX",2020,0.0689
+38900,employmentindustries,Finance/Insurance,"Portland, OR",2020,0.0431
+40900,employmentindustries,Finance/Insurance,"Sacramento, CA",2020,0.0496
+38300,employmentindustries,Finance/Insurance,"Pittsburgh, PA",2020,0.066
+12420,employmentindustries,Finance/Insurance,"Austin, TX",2020,0.0468
+29820,employmentindustries,Finance/Insurance,"Las Vegas, NV",2020,0.033
+17140,employmentindustries,Finance/Insurance,"Cincinnati, OH",2020,0.063
+28140,employmentindustries,Finance/Insurance,"Kansas City, MO",2020,0.0692
+18140,employmentindustries,Finance/Insurance,"Columbus, OH",2020,0.08199999999999999
+26900,employmentindustries,Finance/Insurance,"Indianapolis, IN",2020,0.0552
+17460,employmentindustries,Finance/Insurance,"Cleveland, OH",2020,0.0581
+34980,employmentindustries,Finance/Insurance,"Nashville, TN",2020,0.056799999999999996
+41940,employmentindustries,Finance/Insurance,"San Jose, CA",2020,0.027999999999999997
+47260,employmentindustries,Finance/Insurance,"Virginia Beach, VA",2020,0.0392
+39300,employmentindustries,Finance/Insurance,"Providence, RI",2020,0.0576
+27260,employmentindustries,Finance/Insurance,"Jacksonville, FL",2020,0.08789999999999999
+33340,employmentindustries,Finance/Insurance,"Milwaukee, WI",2020,0.0582
+36420,employmentindustries,Finance/Insurance,"Oklahoma City, OK",2020,0.04730000000000001
+39580,employmentindustries,Finance/Insurance,"Raleigh, NC",2020,0.055999999999999994
+32820,employmentindustries,Finance/Insurance,"Memphis, TN",2020,0.037200000000000004
+40060,employmentindustries,Finance/Insurance,"Richmond, VA",2020,0.0788
+31140,employmentindustries,Finance/Insurance,"Louisville, KY",2020,0.0635
+35380,employmentindustries,Finance/Insurance,"New Orleans, LA",2020,0.0368
+41620,employmentindustries,Finance/Insurance,"Salt Lake City, UT",2020,0.06910000000000001
+25540,employmentindustries,Finance/Insurance,"Hartford, CT",2020,0.0935
+15380,employmentindustries,Finance/Insurance,"Buffalo, NY",2020,0.0677
+13820,employmentindustries,Finance/Insurance,"Birmingham, AL",2020,0.06910000000000001
+35620,employmentindustries,Real Estate/Rental/Leasing,"New York, NY",2020,0.027700000000000002
+31080,employmentindustries,Real Estate/Rental/Leasing,"Los Angeles, CA",2020,0.027700000000000002
+16980,employmentindustries,Real Estate/Rental/Leasing,"Chicago, IL",2020,0.021
+19100,employmentindustries,Real Estate/Rental/Leasing,"Dallas, TX",2020,0.0229
+26420,employmentindustries,Real Estate/Rental/Leasing,"Houston, TX",2020,0.0222
+47900,employmentindustries,Real Estate/Rental/Leasing,"Washington, DC",2020,0.0233
+37980,employmentindustries,Real Estate/Rental/Leasing,"Philadelphia, PA",2020,0.018500000000000003
+33100,employmentindustries,Real Estate/Rental/Leasing,"Miami, FL",2020,0.0348
+12060,employmentindustries,Real Estate/Rental/Leasing,"Atlanta, GA",2020,0.024700000000000003
+38060,employmentindustries,Real Estate/Rental/Leasing,"Phoenix, AZ",2020,0.0276
+14460,employmentindustries,Real Estate/Rental/Leasing,"Boston, MA",2020,0.021
+41860,employmentindustries,Real Estate/Rental/Leasing,"San Francisco, CA",2020,0.026600000000000002
+40140,employmentindustries,Real Estate/Rental/Leasing,"Riverside, CA",2020,0.0236
+19820,employmentindustries,Real Estate/Rental/Leasing,"Detroit, MI",2020,0.0198
+42660,employmentindustries,Real Estate/Rental/Leasing,"Seattle, WA",2020,0.0253
+33460,employmentindustries,Real Estate/Rental/Leasing,"Minneapolis, MN",2020,0.0176
+41740,employmentindustries,Real Estate/Rental/Leasing,"San Diego, CA",2020,0.027999999999999997
+45300,employmentindustries,Real Estate/Rental/Leasing,"Tampa, FL",2020,0.0279
+19740,employmentindustries,Real Estate/Rental/Leasing,"Denver, CO",2020,0.0259
+41180,employmentindustries,Real Estate/Rental/Leasing,"St. Louis, MO",2020,0.020499999999999997
+12580,employmentindustries,Real Estate/Rental/Leasing,"Baltimore, MD",2020,0.0209
+16740,employmentindustries,Real Estate/Rental/Leasing,"Charlotte, NC",2020,0.0206
+36740,employmentindustries,Real Estate/Rental/Leasing,"Orlando, FL",2020,0.030699999999999998
+41700,employmentindustries,Real Estate/Rental/Leasing,"San Antonio, TX",2020,0.020800000000000003
+38900,employmentindustries,Real Estate/Rental/Leasing,"Portland, OR",2020,0.0226
+40900,employmentindustries,Real Estate/Rental/Leasing,"Sacramento, CA",2020,0.025099999999999997
+38300,employmentindustries,Real Estate/Rental/Leasing,"Pittsburgh, PA",2020,0.0161
+12420,employmentindustries,Real Estate/Rental/Leasing,"Austin, TX",2020,0.0267
+29820,employmentindustries,Real Estate/Rental/Leasing,"Las Vegas, NV",2020,0.0296
+17140,employmentindustries,Real Estate/Rental/Leasing,"Cincinnati, OH",2020,0.0193
+28140,employmentindustries,Real Estate/Rental/Leasing,"Kansas City, MO",2020,0.019
+18140,employmentindustries,Real Estate/Rental/Leasing,"Columbus, OH",2020,0.0189
+26900,employmentindustries,Real Estate/Rental/Leasing,"Indianapolis, IN",2020,0.021800000000000003
+17460,employmentindustries,Real Estate/Rental/Leasing,"Cleveland, OH",2020,0.0211
+34980,employmentindustries,Real Estate/Rental/Leasing,"Nashville, TN",2020,0.0213
+41940,employmentindustries,Real Estate/Rental/Leasing,"San Jose, CA",2020,0.0215
+47260,employmentindustries,Real Estate/Rental/Leasing,"Virginia Beach, VA",2020,0.0201
+39300,employmentindustries,Real Estate/Rental/Leasing,"Providence, RI",2020,0.0147
+27260,employmentindustries,Real Estate/Rental/Leasing,"Jacksonville, FL",2020,0.0242
+33340,employmentindustries,Real Estate/Rental/Leasing,"Milwaukee, WI",2020,0.0163
+36420,employmentindustries,Real Estate/Rental/Leasing,"Oklahoma City, OK",2020,0.0204
+39580,employmentindustries,Real Estate/Rental/Leasing,"Raleigh, NC",2020,0.0215
+32820,employmentindustries,Real Estate/Rental/Leasing,"Memphis, TN",2020,0.0194
+40060,employmentindustries,Real Estate/Rental/Leasing,"Richmond, VA",2020,0.016
+31140,employmentindustries,Real Estate/Rental/Leasing,"Louisville, KY",2020,0.0183
+35380,employmentindustries,Real Estate/Rental/Leasing,"New Orleans, LA",2020,0.0217
+41620,employmentindustries,Real Estate/Rental/Leasing,"Salt Lake City, UT",2020,0.023100000000000002
+25540,employmentindustries,Real Estate/Rental/Leasing,"Hartford, CT",2020,0.0158
+15380,employmentindustries,Real Estate/Rental/Leasing,"Buffalo, NY",2020,0.0166
+13820,employmentindustries,Real Estate/Rental/Leasing,"Birmingham, AL",2020,0.0173
+35620,employmentindustries,Professional/Scientific/Technology,"New York, NY",2020,0.1095
+31080,employmentindustries,Professional/Scientific/Technology,"Los Angeles, CA",2020,0.0966
+16980,employmentindustries,Professional/Scientific/Technology,"Chicago, IL",2020,0.0987
+19100,employmentindustries,Professional/Scientific/Technology,"Dallas, TX",2020,0.08900000000000001
+26420,employmentindustries,Professional/Scientific/Technology,"Houston, TX",2020,0.0883
+47900,employmentindustries,Professional/Scientific/Technology,"Washington, DC",2020,0.18489999999999998
+37980,employmentindustries,Professional/Scientific/Technology,"Philadelphia, PA",2020,0.10130000000000002
+33100,employmentindustries,Professional/Scientific/Technology,"Miami, FL",2020,0.083
+12060,employmentindustries,Professional/Scientific/Technology,"Atlanta, GA",2020,0.10960000000000002
+38060,employmentindustries,Professional/Scientific/Technology,"Phoenix, AZ",2020,0.0776
+14460,employmentindustries,Professional/Scientific/Technology,"Boston, MA",2020,0.13970000000000002
+41860,employmentindustries,Professional/Scientific/Technology,"San Francisco, CA",2020,0.171
+40140,employmentindustries,Professional/Scientific/Technology,"Riverside, CA",2020,0.053200000000000004
+19820,employmentindustries,Professional/Scientific/Technology,"Detroit, MI",2020,0.08410000000000001
+42660,employmentindustries,Professional/Scientific/Technology,"Seattle, WA",2020,0.1393
+33460,employmentindustries,Professional/Scientific/Technology,"Minneapolis, MN",2020,0.09300000000000001
+41740,employmentindustries,Professional/Scientific/Technology,"San Diego, CA",2020,0.12140000000000001
+45300,employmentindustries,Professional/Scientific/Technology,"Tampa, FL",2020,0.0893
+19740,employmentindustries,Professional/Scientific/Technology,"Denver, CO",2020,0.1182
+41180,employmentindustries,Professional/Scientific/Technology,"St. Louis, MO",2020,0.07940000000000001
+12580,employmentindustries,Professional/Scientific/Technology,"Baltimore, MD",2020,0.11480000000000001
+16740,employmentindustries,Professional/Scientific/Technology,"Charlotte, NC",2020,0.07940000000000001
+36740,employmentindustries,Professional/Scientific/Technology,"Orlando, FL",2020,0.0796
+41700,employmentindustries,Professional/Scientific/Technology,"San Antonio, TX",2020,0.0694
+38900,employmentindustries,Professional/Scientific/Technology,"Portland, OR",2020,0.0978
+40900,employmentindustries,Professional/Scientific/Technology,"Sacramento, CA",2020,0.08460000000000001
+38300,employmentindustries,Professional/Scientific/Technology,"Pittsburgh, PA",2020,0.0886
+12420,employmentindustries,Professional/Scientific/Technology,"Austin, TX",2020,0.1285
+29820,employmentindustries,Professional/Scientific/Technology,"Las Vegas, NV",2020,0.064
+17140,employmentindustries,Professional/Scientific/Technology,"Cincinnati, OH",2020,0.08410000000000001
+28140,employmentindustries,Professional/Scientific/Technology,"Kansas City, MO",2020,0.1014
+18140,employmentindustries,Professional/Scientific/Technology,"Columbus, OH",2020,0.078
+26900,employmentindustries,Professional/Scientific/Technology,"Indianapolis, IN",2020,0.0799
+17460,employmentindustries,Professional/Scientific/Technology,"Cleveland, OH",2020,0.07400000000000001
+34980,employmentindustries,Professional/Scientific/Technology,"Nashville, TN",2020,0.0781
+41940,employmentindustries,Professional/Scientific/Technology,"San Jose, CA",2020,0.1826
+47260,employmentindustries,Professional/Scientific/Technology,"Virginia Beach, VA",2020,0.07940000000000001
+39300,employmentindustries,Professional/Scientific/Technology,"Providence, RI",2020,0.0707
+27260,employmentindustries,Professional/Scientific/Technology,"Jacksonville, FL",2020,0.07440000000000001
+33340,employmentindustries,Professional/Scientific/Technology,"Milwaukee, WI",2020,0.0677
+36420,employmentindustries,Professional/Scientific/Technology,"Oklahoma City, OK",2020,0.07
+39580,employmentindustries,Professional/Scientific/Technology,"Raleigh, NC",2020,0.1499
+32820,employmentindustries,Professional/Scientific/Technology,"Memphis, TN",2020,0.0467
+40060,employmentindustries,Professional/Scientific/Technology,"Richmond, VA",2020,0.0853
+31140,employmentindustries,Professional/Scientific/Technology,"Louisville, KY",2020,0.0638
+35380,employmentindustries,Professional/Scientific/Technology,"New Orleans, LA",2020,0.0876
+41620,employmentindustries,Professional/Scientific/Technology,"Salt Lake City, UT",2020,0.0936
+25540,employmentindustries,Professional/Scientific/Technology,"Hartford, CT",2020,0.0782
+15380,employmentindustries,Professional/Scientific/Technology,"Buffalo, NY",2020,0.06570000000000001
+13820,employmentindustries,Professional/Scientific/Technology,"Birmingham, AL",2020,0.0719
+35620,employmentindustries,Management of Companies/Enterprises,"New York, NY",2020,0.0014000000000000002
+31080,employmentindustries,Management of Companies/Enterprises,"Los Angeles, CA",2020,0.0016
+16980,employmentindustries,Management of Companies/Enterprises,"Chicago, IL",2020,0.0022
+19100,employmentindustries,Management of Companies/Enterprises,"Dallas, TX",2020,0.0023
+26420,employmentindustries,Management of Companies/Enterprises,"Houston, TX",2020,0.0021
+47900,employmentindustries,Management of Companies/Enterprises,"Washington, DC",2020,0.0015
+37980,employmentindustries,Management of Companies/Enterprises,"Philadelphia, PA",2020,0.0015
+33100,employmentindustries,Management of Companies/Enterprises,"Miami, FL",2020,0.0013000000000000002
+12060,employmentindustries,Management of Companies/Enterprises,"Atlanta, GA",2020,0.002
+38060,employmentindustries,Management of Companies/Enterprises,"Phoenix, AZ",2020,0.0016
+14460,employmentindustries,Management of Companies/Enterprises,"Boston, MA",2020,0.0018
+41860,employmentindustries,Management of Companies/Enterprises,"San Francisco, CA",2020,0.0021
+40140,employmentindustries,Management of Companies/Enterprises,"Riverside, CA",2020,0.0011
+19820,employmentindustries,Management of Companies/Enterprises,"Detroit, MI",2020,0.0019
+42660,employmentindustries,Management of Companies/Enterprises,"Seattle, WA",2020,0.0022
+33460,employmentindustries,Management of Companies/Enterprises,"Minneapolis, MN",2020,0.0032
+41740,employmentindustries,Management of Companies/Enterprises,"San Diego, CA",2020,0.0016
+45300,employmentindustries,Management of Companies/Enterprises,"Tampa, FL",2020,0.002
+19740,employmentindustries,Management of Companies/Enterprises,"Denver, CO",2020,0.0022
+41180,employmentindustries,Management of Companies/Enterprises,"St. Louis, MO",2020,0.0019
+12580,employmentindustries,Management of Companies/Enterprises,"Baltimore, MD",2020,0.0009
+16740,employmentindustries,Management of Companies/Enterprises,"Charlotte, NC",2020,0.0023
+36740,employmentindustries,Management of Companies/Enterprises,"Orlando, FL",2020,0.0021
+41700,employmentindustries,Management of Companies/Enterprises,"San Antonio, TX",2020,0.0012
+38900,employmentindustries,Management of Companies/Enterprises,"Portland, OR",2020,0.0034000000000000002
+40900,employmentindustries,Management of Companies/Enterprises,"Sacramento, CA",2020,0.0008
+38300,employmentindustries,Management of Companies/Enterprises,"Pittsburgh, PA",2020,0.0021
+12420,employmentindustries,Management of Companies/Enterprises,"Austin, TX",2020,0.0014000000000000002
+29820,employmentindustries,Management of Companies/Enterprises,"Las Vegas, NV",2020,0.0012
+17140,employmentindustries,Management of Companies/Enterprises,"Cincinnati, OH",2020,0.0024
+28140,employmentindustries,Management of Companies/Enterprises,"Kansas City, MO",2020,0.0015
+18140,employmentindustries,Management of Companies/Enterprises,"Columbus, OH",2020,0.0018
+26900,employmentindustries,Management of Companies/Enterprises,"Indianapolis, IN",2020,0.0021
+17460,employmentindustries,Management of Companies/Enterprises,"Cleveland, OH",2020,0.0021
+34980,employmentindustries,Management of Companies/Enterprises,"Nashville, TN",2020,0.0034999999999999996
+41940,employmentindustries,Management of Companies/Enterprises,"San Jose, CA",2020,0.002
+47260,employmentindustries,Management of Companies/Enterprises,"Virginia Beach, VA",2020,0.0012
+39300,employmentindustries,Management of Companies/Enterprises,"Providence, RI",2020,0.0015
+27260,employmentindustries,Management of Companies/Enterprises,"Jacksonville, FL",2020,0.0009
+33340,employmentindustries,Management of Companies/Enterprises,"Milwaukee, WI",2020,0.0027
+36420,employmentindustries,Management of Companies/Enterprises,"Oklahoma City, OK",2020,0.002
+39580,employmentindustries,Management of Companies/Enterprises,"Raleigh, NC",2020,0.0013000000000000002
+32820,employmentindustries,Management of Companies/Enterprises,"Memphis, TN",2020,0.0016
+40060,employmentindustries,Management of Companies/Enterprises,"Richmond, VA",2020,0.0015
+31140,employmentindustries,Management of Companies/Enterprises,"Louisville, KY",2020,0.0022
+35380,employmentindustries,Management of Companies/Enterprises,"New Orleans, LA",2020,0.0006
+41620,employmentindustries,Management of Companies/Enterprises,"Salt Lake City, UT",2020,0.0013000000000000002
+25540,employmentindustries,Management of Companies/Enterprises,"Hartford, CT",2020,0.0008
+15380,employmentindustries,Management of Companies/Enterprises,"Buffalo, NY",2020,0.001
+13820,employmentindustries,Management of Companies/Enterprises,"Birmingham, AL",2020,0.0015
+35620,employmentindustries,Admin/Support/Waste Management Services,"New York, NY",2020,0.0361
+31080,employmentindustries,Admin/Support/Waste Management Services,"Los Angeles, CA",2020,0.0471
+16980,employmentindustries,Admin/Support/Waste Management Services,"Chicago, IL",2020,0.042
+19100,employmentindustries,Admin/Support/Waste Management Services,"Dallas, TX",2020,0.0454
+26420,employmentindustries,Admin/Support/Waste Management Services,"Houston, TX",2020,0.0441
+47900,employmentindustries,Admin/Support/Waste Management Services,"Washington, DC",2020,0.0392
+37980,employmentindustries,Admin/Support/Waste Management Services,"Philadelphia, PA",2020,0.0373
+33100,employmentindustries,Admin/Support/Waste Management Services,"Miami, FL",2020,0.0581
+12060,employmentindustries,Admin/Support/Waste Management Services,"Atlanta, GA",2020,0.0496
+38060,employmentindustries,Admin/Support/Waste Management Services,"Phoenix, AZ",2020,0.057800000000000004
+14460,employmentindustries,Admin/Support/Waste Management Services,"Boston, MA",2020,0.0353
+41860,employmentindustries,Admin/Support/Waste Management Services,"San Francisco, CA",2020,0.0405
+40140,employmentindustries,Admin/Support/Waste Management Services,"Riverside, CA",2020,0.0496
+19820,employmentindustries,Admin/Support/Waste Management Services,"Detroit, MI",2020,0.037000000000000005
+42660,employmentindustries,Admin/Support/Waste Management Services,"Seattle, WA",2020,0.0367
+33460,employmentindustries,Admin/Support/Waste Management Services,"Minneapolis, MN",2020,0.031200000000000002
+41740,employmentindustries,Admin/Support/Waste Management Services,"San Diego, CA",2020,0.0446
+45300,employmentindustries,Admin/Support/Waste Management Services,"Tampa, FL",2020,0.0526
+19740,employmentindustries,Admin/Support/Waste Management Services,"Denver, CO",2020,0.039700000000000006
+41180,employmentindustries,Admin/Support/Waste Management Services,"St. Louis, MO",2020,0.0358
+12580,employmentindustries,Admin/Support/Waste Management Services,"Baltimore, MD",2020,0.0365
+16740,employmentindustries,Admin/Support/Waste Management Services,"Charlotte, NC",2020,0.042699999999999995
+36740,employmentindustries,Admin/Support/Waste Management Services,"Orlando, FL",2020,0.0593
+41700,employmentindustries,Admin/Support/Waste Management Services,"San Antonio, TX",2020,0.044800000000000006
+38900,employmentindustries,Admin/Support/Waste Management Services,"Portland, OR",2020,0.038
+40900,employmentindustries,Admin/Support/Waste Management Services,"Sacramento, CA",2020,0.0435
+38300,employmentindustries,Admin/Support/Waste Management Services,"Pittsburgh, PA",2020,0.0329
+12420,employmentindustries,Admin/Support/Waste Management Services,"Austin, TX",2020,0.0386
+29820,employmentindustries,Admin/Support/Waste Management Services,"Las Vegas, NV",2020,0.0592
+17140,employmentindustries,Admin/Support/Waste Management Services,"Cincinnati, OH",2020,0.0408
+28140,employmentindustries,Admin/Support/Waste Management Services,"Kansas City, MO",2020,0.0375
+18140,employmentindustries,Admin/Support/Waste Management Services,"Columbus, OH",2020,0.0426
+26900,employmentindustries,Admin/Support/Waste Management Services,"Indianapolis, IN",2020,0.037700000000000004
+17460,employmentindustries,Admin/Support/Waste Management Services,"Cleveland, OH",2020,0.037000000000000005
+34980,employmentindustries,Admin/Support/Waste Management Services,"Nashville, TN",2020,0.04360000000000001
+41940,employmentindustries,Admin/Support/Waste Management Services,"San Jose, CA",2020,0.039
+47260,employmentindustries,Admin/Support/Waste Management Services,"Virginia Beach, VA",2020,0.038
+39300,employmentindustries,Admin/Support/Waste Management Services,"Providence, RI",2020,0.0348
+27260,employmentindustries,Admin/Support/Waste Management Services,"Jacksonville, FL",2020,0.05280000000000001
+33340,employmentindustries,Admin/Support/Waste Management Services,"Milwaukee, WI",2020,0.037700000000000004
+36420,employmentindustries,Admin/Support/Waste Management Services,"Oklahoma City, OK",2020,0.0345
+39580,employmentindustries,Admin/Support/Waste Management Services,"Raleigh, NC",2020,0.0394
+32820,employmentindustries,Admin/Support/Waste Management Services,"Memphis, TN",2020,0.0514
+40060,employmentindustries,Admin/Support/Waste Management Services,"Richmond, VA",2020,0.0395
+31140,employmentindustries,Admin/Support/Waste Management Services,"Louisville, KY",2020,0.036000000000000004
+35380,employmentindustries,Admin/Support/Waste Management Services,"New Orleans, LA",2020,0.0442
+41620,employmentindustries,Admin/Support/Waste Management Services,"Salt Lake City, UT",2020,0.047
+25540,employmentindustries,Admin/Support/Waste Management Services,"Hartford, CT",2020,0.031200000000000002
+15380,employmentindustries,Admin/Support/Waste Management Services,"Buffalo, NY",2020,0.0362
+13820,employmentindustries,Admin/Support/Waste Management Services,"Birmingham, AL",2020,0.0383
+35620,employmentindustries,Educational Services,"New York, NY",2020,0.1082
+31080,employmentindustries,Educational Services,"Los Angeles, CA",2020,0.0849
+16980,employmentindustries,Educational Services,"Chicago, IL",2020,0.0959
+19100,employmentindustries,Educational Services,"Dallas, TX",2020,0.0883
+26420,employmentindustries,Educational Services,"Houston, TX",2020,0.0908
+47900,employmentindustries,Educational Services,"Washington, DC",2020,0.0947
+37980,employmentindustries,Educational Services,"Philadelphia, PA",2020,0.1116
+33100,employmentindustries,Educational Services,"Miami, FL",2020,0.0724
+12060,employmentindustries,Educational Services,"Atlanta, GA",2020,0.08869999999999999
+38060,employmentindustries,Educational Services,"Phoenix, AZ",2020,0.0859
+14460,employmentindustries,Educational Services,"Boston, MA",2020,0.1258
+41860,employmentindustries,Educational Services,"San Francisco, CA",2020,0.08630000000000002
+40140,employmentindustries,Educational Services,"Riverside, CA",2020,0.09230000000000001
+19820,employmentindustries,Educational Services,"Detroit, MI",2020,0.07780000000000001
+42660,employmentindustries,Educational Services,"Seattle, WA",2020,0.08259999999999999
+33460,employmentindustries,Educational Services,"Minneapolis, MN",2020,0.09519999999999999
+41740,employmentindustries,Educational Services,"San Diego, CA",2020,0.09330000000000001
+45300,employmentindustries,Educational Services,"Tampa, FL",2020,0.07769999999999999
+19740,employmentindustries,Educational Services,"Denver, CO",2020,0.0824
+41180,employmentindustries,Educational Services,"St. Louis, MO",2020,0.0987
+12580,employmentindustries,Educational Services,"Baltimore, MD",2020,0.10800000000000001
+16740,employmentindustries,Educational Services,"Charlotte, NC",2020,0.078
+36740,employmentindustries,Educational Services,"Orlando, FL",2020,0.0772
+41700,employmentindustries,Educational Services,"San Antonio, TX",2020,0.0974
+38900,employmentindustries,Educational Services,"Portland, OR",2020,0.0806
+40900,employmentindustries,Educational Services,"Sacramento, CA",2020,0.0947
+38300,employmentindustries,Educational Services,"Pittsburgh, PA",2020,0.10220000000000001
+12420,employmentindustries,Educational Services,"Austin, TX",2020,0.1067
+29820,employmentindustries,Educational Services,"Las Vegas, NV",2020,0.06620000000000001
+17140,employmentindustries,Educational Services,"Cincinnati, OH",2020,0.0868
+28140,employmentindustries,Educational Services,"Kansas City, MO",2020,0.0835
+18140,employmentindustries,Educational Services,"Columbus, OH",2020,0.1003
+26900,employmentindustries,Educational Services,"Indianapolis, IN",2020,0.08539999999999999
+17460,employmentindustries,Educational Services,"Cleveland, OH",2020,0.0892
+34980,employmentindustries,Educational Services,"Nashville, TN",2020,0.08289999999999999
+41940,employmentindustries,Educational Services,"San Jose, CA",2020,0.0816
+47260,employmentindustries,Educational Services,"Virginia Beach, VA",2020,0.10470000000000002
+39300,employmentindustries,Educational Services,"Providence, RI",2020,0.11630000000000001
+27260,employmentindustries,Educational Services,"Jacksonville, FL",2020,0.0709
+33340,employmentindustries,Educational Services,"Milwaukee, WI",2020,0.0907
+36420,employmentindustries,Educational Services,"Oklahoma City, OK",2020,0.092
+39580,employmentindustries,Educational Services,"Raleigh, NC",2020,0.0934
+32820,employmentindustries,Educational Services,"Memphis, TN",2020,0.0836
+40060,employmentindustries,Educational Services,"Richmond, VA",2020,0.0981
+31140,employmentindustries,Educational Services,"Louisville, KY",2020,0.08750000000000001
+35380,employmentindustries,Educational Services,"New Orleans, LA",2020,0.098
+41620,employmentindustries,Educational Services,"Salt Lake City, UT",2020,0.1
+25540,employmentindustries,Educational Services,"Hartford, CT",2020,0.1066
+15380,employmentindustries,Educational Services,"Buffalo, NY",2020,0.1159
+13820,employmentindustries,Educational Services,"Birmingham, AL",2020,0.0897
+35620,employmentindustries,Health Care/Social Assistance,"New York, NY",2020,0.1684
+31080,employmentindustries,Health Care/Social Assistance,"Los Angeles, CA",2020,0.1358
+16980,employmentindustries,Health Care/Social Assistance,"Chicago, IL",2020,0.1413
+19100,employmentindustries,Health Care/Social Assistance,"Dallas, TX",2020,0.11599999999999999
+26420,employmentindustries,Health Care/Social Assistance,"Houston, TX",2020,0.1185
+47900,employmentindustries,Health Care/Social Assistance,"Washington, DC",2020,0.1129
+37980,employmentindustries,Health Care/Social Assistance,"Philadelphia, PA",2020,0.18460000000000001
+33100,employmentindustries,Health Care/Social Assistance,"Miami, FL",2020,0.1394
+12060,employmentindustries,Health Care/Social Assistance,"Atlanta, GA",2020,0.1186
+38060,employmentindustries,Health Care/Social Assistance,"Phoenix, AZ",2020,0.1348
+14460,employmentindustries,Health Care/Social Assistance,"Boston, MA",2020,0.1759
+41860,employmentindustries,Health Care/Social Assistance,"San Francisco, CA",2020,0.1377
+40140,employmentindustries,Health Care/Social Assistance,"Riverside, CA",2020,0.1419
+19820,employmentindustries,Health Care/Social Assistance,"Detroit, MI",2020,0.17250000000000001
+42660,employmentindustries,Health Care/Social Assistance,"Seattle, WA",2020,0.1437
+33460,employmentindustries,Health Care/Social Assistance,"Minneapolis, MN",2020,0.16670000000000001
+41740,employmentindustries,Health Care/Social Assistance,"San Diego, CA",2020,0.1368
+45300,employmentindustries,Health Care/Social Assistance,"Tampa, FL",2020,0.15539999999999998
+19740,employmentindustries,Health Care/Social Assistance,"Denver, CO",2020,0.12279999999999999
+41180,employmentindustries,Health Care/Social Assistance,"St. Louis, MO",2020,0.1594
+12580,employmentindustries,Health Care/Social Assistance,"Baltimore, MD",2020,0.1648
+16740,employmentindustries,Health Care/Social Assistance,"Charlotte, NC",2020,0.1278
+36740,employmentindustries,Health Care/Social Assistance,"Orlando, FL",2020,0.12960000000000002
+41700,employmentindustries,Health Care/Social Assistance,"San Antonio, TX",2020,0.14070000000000002
+38900,employmentindustries,Health Care/Social Assistance,"Portland, OR",2020,0.1502
+40900,employmentindustries,Health Care/Social Assistance,"Sacramento, CA",2020,0.1522
+38300,employmentindustries,Health Care/Social Assistance,"Pittsburgh, PA",2020,0.19440000000000002
+12420,employmentindustries,Health Care/Social Assistance,"Austin, TX",2020,0.1081
+29820,employmentindustries,Health Care/Social Assistance,"Las Vegas, NV",2020,0.10470000000000002
+17140,employmentindustries,Health Care/Social Assistance,"Cincinnati, OH",2020,0.1631
+28140,employmentindustries,Health Care/Social Assistance,"Kansas City, MO",2020,0.1504
+18140,employmentindustries,Health Care/Social Assistance,"Columbus, OH",2020,0.1638
+26900,employmentindustries,Health Care/Social Assistance,"Indianapolis, IN",2020,0.1555
+17460,employmentindustries,Health Care/Social Assistance,"Cleveland, OH",2020,0.1898
+34980,employmentindustries,Health Care/Social Assistance,"Nashville, TN",2020,0.1545
+41940,employmentindustries,Health Care/Social Assistance,"San Jose, CA",2020,0.1173
+47260,employmentindustries,Health Care/Social Assistance,"Virginia Beach, VA",2020,0.1434
+39300,employmentindustries,Health Care/Social Assistance,"Providence, RI",2020,0.1912
+27260,employmentindustries,Health Care/Social Assistance,"Jacksonville, FL",2020,0.1441
+33340,employmentindustries,Health Care/Social Assistance,"Milwaukee, WI",2020,0.18309999999999998
+36420,employmentindustries,Health Care/Social Assistance,"Oklahoma City, OK",2020,0.1408
+39580,employmentindustries,Health Care/Social Assistance,"Raleigh, NC",2020,0.1233
+32820,employmentindustries,Health Care/Social Assistance,"Memphis, TN",2020,0.1503
+40060,employmentindustries,Health Care/Social Assistance,"Richmond, VA",2020,0.15130000000000002
+31140,employmentindustries,Health Care/Social Assistance,"Louisville, KY",2020,0.1654
+35380,employmentindustries,Health Care/Social Assistance,"New Orleans, LA",2020,0.1544
+41620,employmentindustries,Health Care/Social Assistance,"Salt Lake City, UT",2020,0.1217
+25540,employmentindustries,Health Care/Social Assistance,"Hartford, CT",2020,0.1637
+15380,employmentindustries,Health Care/Social Assistance,"Buffalo, NY",2020,0.1804
+13820,employmentindustries,Health Care/Social Assistance,"Birmingham, AL",2020,0.1638
+35620,employmentindustries,Arts/Entertainment/Recreation,"New York, NY",2020,0.0181
+31080,employmentindustries,Arts/Entertainment/Recreation,"Los Angeles, CA",2020,0.022799999999999997
+16980,employmentindustries,Arts/Entertainment/Recreation,"Chicago, IL",2020,0.016399999999999998
+19100,employmentindustries,Arts/Entertainment/Recreation,"Dallas, TX",2020,0.0138
+26420,employmentindustries,Arts/Entertainment/Recreation,"Houston, TX",2020,0.0113
+47900,employmentindustries,Arts/Entertainment/Recreation,"Washington, DC",2020,0.016200000000000003
+37980,employmentindustries,Arts/Entertainment/Recreation,"Philadelphia, PA",2020,0.01
+33100,employmentindustries,Arts/Entertainment/Recreation,"Miami, FL",2020,0.0207
+12060,employmentindustries,Arts/Entertainment/Recreation,"Atlanta, GA",2020,0.013200000000000002
+38060,employmentindustries,Arts/Entertainment/Recreation,"Phoenix, AZ",2020,0.018500000000000003
+14460,employmentindustries,Arts/Entertainment/Recreation,"Boston, MA",2020,0.010900000000000002
+41860,employmentindustries,Arts/Entertainment/Recreation,"San Francisco, CA",2020,0.0168
+40140,employmentindustries,Arts/Entertainment/Recreation,"Riverside, CA",2020,0.0183
+19820,employmentindustries,Arts/Entertainment/Recreation,"Detroit, MI",2020,0.008100000000000001
+42660,employmentindustries,Arts/Entertainment/Recreation,"Seattle, WA",2020,0.016399999999999998
+33460,employmentindustries,Arts/Entertainment/Recreation,"Minneapolis, MN",2020,0.013700000000000002
+41740,employmentindustries,Arts/Entertainment/Recreation,"San Diego, CA",2020,0.0226
+45300,employmentindustries,Arts/Entertainment/Recreation,"Tampa, FL",2020,0.0188
+19740,employmentindustries,Arts/Entertainment/Recreation,"Denver, CO",2020,0.02
+41180,employmentindustries,Arts/Entertainment/Recreation,"St. Louis, MO",2020,0.0161
+12580,employmentindustries,Arts/Entertainment/Recreation,"Baltimore, MD",2020,0.0161
+16740,employmentindustries,Arts/Entertainment/Recreation,"Charlotte, NC",2020,0.0158
+36740,employmentindustries,Arts/Entertainment/Recreation,"Orlando, FL",2020,0.0516
+41700,employmentindustries,Arts/Entertainment/Recreation,"San Antonio, TX",2020,0.0148
+38900,employmentindustries,Arts/Entertainment/Recreation,"Portland, OR",2020,0.0158
+40900,employmentindustries,Arts/Entertainment/Recreation,"Sacramento, CA",2020,0.0188
+38300,employmentindustries,Arts/Entertainment/Recreation,"Pittsburgh, PA",2020,0.0085
+12420,employmentindustries,Arts/Entertainment/Recreation,"Austin, TX",2020,0.0174
+29820,employmentindustries,Arts/Entertainment/Recreation,"Las Vegas, NV",2020,0.08199999999999999
+17140,employmentindustries,Arts/Entertainment/Recreation,"Cincinnati, OH",2020,0.0117
+28140,employmentindustries,Arts/Entertainment/Recreation,"Kansas City, MO",2020,0.0143
+18140,employmentindustries,Arts/Entertainment/Recreation,"Columbus, OH",2020,0.0101
+26900,employmentindustries,Arts/Entertainment/Recreation,"Indianapolis, IN",2020,0.010900000000000002
+17460,employmentindustries,Arts/Entertainment/Recreation,"Cleveland, OH",2020,0.0123
+34980,employmentindustries,Arts/Entertainment/Recreation,"Nashville, TN",2020,0.0167
+41940,employmentindustries,Arts/Entertainment/Recreation,"San Jose, CA",2020,0.013200000000000002
+47260,employmentindustries,Arts/Entertainment/Recreation,"Virginia Beach, VA",2020,0.015600000000000001
+39300,employmentindustries,Arts/Entertainment/Recreation,"Providence, RI",2020,0.013600000000000001
+27260,employmentindustries,Arts/Entertainment/Recreation,"Jacksonville, FL",2020,0.016399999999999998
+33340,employmentindustries,Arts/Entertainment/Recreation,"Milwaukee, WI",2020,0.0146
+36420,employmentindustries,Arts/Entertainment/Recreation,"Oklahoma City, OK",2020,0.0166
+39580,employmentindustries,Arts/Entertainment/Recreation,"Raleigh, NC",2020,0.015
+32820,employmentindustries,Arts/Entertainment/Recreation,"Memphis, TN",2020,0.0138
+40060,employmentindustries,Arts/Entertainment/Recreation,"Richmond, VA",2020,0.015
+31140,employmentindustries,Arts/Entertainment/Recreation,"Louisville, KY",2020,0.0106
+35380,employmentindustries,Arts/Entertainment/Recreation,"New Orleans, LA",2020,0.0181
+41620,employmentindustries,Arts/Entertainment/Recreation,"Salt Lake City, UT",2020,0.0181
+25540,employmentindustries,Arts/Entertainment/Recreation,"Hartford, CT",2020,0.0138
+15380,employmentindustries,Arts/Entertainment/Recreation,"Buffalo, NY",2020,0.0176
+13820,employmentindustries,Arts/Entertainment/Recreation,"Birmingham, AL",2020,0.0106
+35620,employmentindustries,Accommodation/Food Services,"New York, NY",2020,0.0487
+31080,employmentindustries,Accommodation/Food Services,"Los Angeles, CA",2020,0.0575
+16980,employmentindustries,Accommodation/Food Services,"Chicago, IL",2020,0.0542
+19100,employmentindustries,Accommodation/Food Services,"Dallas, TX",2020,0.06480000000000001
+26420,employmentindustries,Accommodation/Food Services,"Houston, TX",2020,0.062000000000000006
+47900,employmentindustries,Accommodation/Food Services,"Washington, DC",2020,0.048499999999999995
+37980,employmentindustries,Accommodation/Food Services,"Philadelphia, PA",2020,0.030299999999999997
+33100,employmentindustries,Accommodation/Food Services,"Miami, FL",2020,0.0789
+12060,employmentindustries,Accommodation/Food Services,"Atlanta, GA",2020,0.0553
+38060,employmentindustries,Accommodation/Food Services,"Phoenix, AZ",2020,0.06620000000000001
+14460,employmentindustries,Accommodation/Food Services,"Boston, MA",2020,0.038700000000000005
+41860,employmentindustries,Accommodation/Food Services,"San Francisco, CA",2020,0.0527
+40140,employmentindustries,Accommodation/Food Services,"Riverside, CA",2020,0.0564
+19820,employmentindustries,Accommodation/Food Services,"Detroit, MI",2020,0.031000000000000003
+42660,employmentindustries,Accommodation/Food Services,"Seattle, WA",2020,0.0444
+33460,employmentindustries,Accommodation/Food Services,"Minneapolis, MN",2020,0.0374
+41740,employmentindustries,Accommodation/Food Services,"San Diego, CA",2020,0.0636
+45300,employmentindustries,Accommodation/Food Services,"Tampa, FL",2020,0.0723
+19740,employmentindustries,Accommodation/Food Services,"Denver, CO",2020,0.0655
+41180,employmentindustries,Accommodation/Food Services,"St. Louis, MO",2020,0.055999999999999994
+12580,employmentindustries,Accommodation/Food Services,"Baltimore, MD",2020,0.048600000000000004
+16740,employmentindustries,Accommodation/Food Services,"Charlotte, NC",2020,0.059500000000000004
+36740,employmentindustries,Accommodation/Food Services,"Orlando, FL",2020,0.10220000000000001
+41700,employmentindustries,Accommodation/Food Services,"San Antonio, TX",2020,0.0802
+38900,employmentindustries,Accommodation/Food Services,"Portland, OR",2020,0.058600000000000006
+40900,employmentindustries,Accommodation/Food Services,"Sacramento, CA",2020,0.0516
+38300,employmentindustries,Accommodation/Food Services,"Pittsburgh, PA",2020,0.0273
+12420,employmentindustries,Accommodation/Food Services,"Austin, TX",2020,0.067
+29820,employmentindustries,Accommodation/Food Services,"Las Vegas, NV",2020,0.1478
+17140,employmentindustries,Accommodation/Food Services,"Cincinnati, OH",2020,0.0418
+28140,employmentindustries,Accommodation/Food Services,"Kansas City, MO",2020,0.0489
+18140,employmentindustries,Accommodation/Food Services,"Columbus, OH",2020,0.044500000000000005
+26900,employmentindustries,Accommodation/Food Services,"Indianapolis, IN",2020,0.0471
+17460,employmentindustries,Accommodation/Food Services,"Cleveland, OH",2020,0.043
+34980,employmentindustries,Accommodation/Food Services,"Nashville, TN",2020,0.0631
+41940,employmentindustries,Accommodation/Food Services,"San Jose, CA",2020,0.0451
+47260,employmentindustries,Accommodation/Food Services,"Virginia Beach, VA",2020,0.0618
+39300,employmentindustries,Accommodation/Food Services,"Providence, RI",2020,0.04070000000000001
+27260,employmentindustries,Accommodation/Food Services,"Jacksonville, FL",2020,0.0731
+33340,employmentindustries,Accommodation/Food Services,"Milwaukee, WI",2020,0.04360000000000001
+36420,employmentindustries,Accommodation/Food Services,"Oklahoma City, OK",2020,0.0647
+39580,employmentindustries,Accommodation/Food Services,"Raleigh, NC",2020,0.054000000000000006
+32820,employmentindustries,Accommodation/Food Services,"Memphis, TN",2020,0.0565
+40060,employmentindustries,Accommodation/Food Services,"Richmond, VA",2020,0.0506
+31140,employmentindustries,Accommodation/Food Services,"Louisville, KY",2020,0.040999999999999995
+35380,employmentindustries,Accommodation/Food Services,"New Orleans, LA",2020,0.0633
+41620,employmentindustries,Accommodation/Food Services,"Salt Lake City, UT",2020,0.055
+25540,employmentindustries,Accommodation/Food Services,"Hartford, CT",2020,0.0495
+15380,employmentindustries,Accommodation/Food Services,"Buffalo, NY",2020,0.0625
+13820,employmentindustries,Accommodation/Food Services,"Birmingham, AL",2020,0.0512
+35620,employmentindustries,Other Services,"New York, NY",2020,0.0453
+31080,employmentindustries,Other Services,"Los Angeles, CA",2020,0.053899999999999997
+16980,employmentindustries,Other Services,"Chicago, IL",2020,0.0429
+19100,employmentindustries,Other Services,"Dallas, TX",2020,0.0483
+26420,employmentindustries,Other Services,"Houston, TX",2020,0.050199999999999995
+47900,employmentindustries,Other Services,"Washington, DC",2020,0.06
+37980,employmentindustries,Other Services,"Philadelphia, PA",2020,0.04070000000000001
+33100,employmentindustries,Other Services,"Miami, FL",2020,0.0593
+12060,employmentindustries,Other Services,"Atlanta, GA",2020,0.04730000000000001
+38060,employmentindustries,Other Services,"Phoenix, AZ",2020,0.0454
+14460,employmentindustries,Other Services,"Boston, MA",2020,0.0417
+41860,employmentindustries,Other Services,"San Francisco, CA",2020,0.0452
+40140,employmentindustries,Other Services,"Riverside, CA",2020,0.0472
+19820,employmentindustries,Other Services,"Detroit, MI",2020,0.0393
+42660,employmentindustries,Other Services,"Seattle, WA",2020,0.0406
+33460,employmentindustries,Other Services,"Minneapolis, MN",2020,0.0414
+41740,employmentindustries,Other Services,"San Diego, CA",2020,0.0487
+45300,employmentindustries,Other Services,"Tampa, FL",2020,0.048
+19740,employmentindustries,Other Services,"Denver, CO",2020,0.0454
+41180,employmentindustries,Other Services,"St. Louis, MO",2020,0.0432
+12580,employmentindustries,Other Services,"Baltimore, MD",2020,0.049100000000000005
+16740,employmentindustries,Other Services,"Charlotte, NC",2020,0.048600000000000004
+36740,employmentindustries,Other Services,"Orlando, FL",2020,0.048499999999999995
+41700,employmentindustries,Other Services,"San Antonio, TX",2020,0.0453
+38900,employmentindustries,Other Services,"Portland, OR",2020,0.045599999999999995
+40900,employmentindustries,Other Services,"Sacramento, CA",2020,0.0447
+38300,employmentindustries,Other Services,"Pittsburgh, PA",2020,0.0441
+12420,employmentindustries,Other Services,"Austin, TX",2020,0.045899999999999996
+29820,employmentindustries,Other Services,"Las Vegas, NV",2020,0.044800000000000006
+17140,employmentindustries,Other Services,"Cincinnati, OH",2020,0.0386
+28140,employmentindustries,Other Services,"Kansas City, MO",2020,0.0418
+18140,employmentindustries,Other Services,"Columbus, OH",2020,0.038
+26900,employmentindustries,Other Services,"Indianapolis, IN",2020,0.0446
+17460,employmentindustries,Other Services,"Cleveland, OH",2020,0.0406
+34980,employmentindustries,Other Services,"Nashville, TN",2020,0.0461
+41940,employmentindustries,Other Services,"San Jose, CA",2020,0.0369
+47260,employmentindustries,Other Services,"Virginia Beach, VA",2020,0.0444
+39300,employmentindustries,Other Services,"Providence, RI",2020,0.037700000000000004
+27260,employmentindustries,Other Services,"Jacksonville, FL",2020,0.0488
+33340,employmentindustries,Other Services,"Milwaukee, WI",2020,0.041299999999999996
+36420,employmentindustries,Other Services,"Oklahoma City, OK",2020,0.052000000000000005
+39580,employmentindustries,Other Services,"Raleigh, NC",2020,0.0433
+32820,employmentindustries,Other Services,"Memphis, TN",2020,0.0455
+40060,employmentindustries,Other Services,"Richmond, VA",2020,0.0468
+31140,employmentindustries,Other Services,"Louisville, KY",2020,0.041100000000000005
+35380,employmentindustries,Other Services,"New Orleans, LA",2020,0.0478
+41620,employmentindustries,Other Services,"Salt Lake City, UT",2020,0.0437
+25540,employmentindustries,Other Services,"Hartford, CT",2020,0.0475
+15380,employmentindustries,Other Services,"Buffalo, NY",2020,0.0395
+13820,employmentindustries,Other Services,"Birmingham, AL",2020,0.054400000000000004
+35620,employmentindustries,Public Administration,"New York, NY",2020,0.0405
+31080,employmentindustries,Public Administration,"Los Angeles, CA",2020,0.0325
+16980,employmentindustries,Public Administration,"Chicago, IL",2020,0.0317
+19100,employmentindustries,Public Administration,"Dallas, TX",2020,0.0286
+26420,employmentindustries,Public Administration,"Houston, TX",2020,0.0279
+47900,employmentindustries,Public Administration,"Washington, DC",2020,0.1286
+37980,employmentindustries,Public Administration,"Philadelphia, PA",2020,0.0471
+33100,employmentindustries,Public Administration,"Miami, FL",2020,0.0362
+12060,employmentindustries,Public Administration,"Atlanta, GA",2020,0.0415
+38060,employmentindustries,Public Administration,"Phoenix, AZ",2020,0.0406
+14460,employmentindustries,Public Administration,"Boston, MA",2020,0.036000000000000004
+41860,employmentindustries,Public Administration,"San Francisco, CA",2020,0.0368
+40140,employmentindustries,Public Administration,"Riverside, CA",2020,0.053899999999999997
+19820,employmentindustries,Public Administration,"Detroit, MI",2020,0.034100000000000005
+42660,employmentindustries,Public Administration,"Seattle, WA",2020,0.0406
+33460,employmentindustries,Public Administration,"Minneapolis, MN",2020,0.0368
+41740,employmentindustries,Public Administration,"San Diego, CA",2020,0.0541
+45300,employmentindustries,Public Administration,"Tampa, FL",2020,0.0384
+19740,employmentindustries,Public Administration,"Denver, CO",2020,0.043899999999999995
+41180,employmentindustries,Public Administration,"St. Louis, MO",2020,0.0379
+12580,employmentindustries,Public Administration,"Baltimore, MD",2020,0.09730000000000001
+16740,employmentindustries,Public Administration,"Charlotte, NC",2020,0.027999999999999997
+36740,employmentindustries,Public Administration,"Orlando, FL",2020,0.0322
+41700,employmentindustries,Public Administration,"San Antonio, TX",2020,0.050499999999999996
+38900,employmentindustries,Public Administration,"Portland, OR",2020,0.0369
+40900,employmentindustries,Public Administration,"Sacramento, CA",2020,0.0986
+38300,employmentindustries,Public Administration,"Pittsburgh, PA",2020,0.0333
+12420,employmentindustries,Public Administration,"Austin, TX",2020,0.0565
+29820,employmentindustries,Public Administration,"Las Vegas, NV",2020,0.0375
+17140,employmentindustries,Public Administration,"Cincinnati, OH",2020,0.0363
+28140,employmentindustries,Public Administration,"Kansas City, MO",2020,0.0453
+18140,employmentindustries,Public Administration,"Columbus, OH",2020,0.0492
+26900,employmentindustries,Public Administration,"Indianapolis, IN",2020,0.04190000000000001
+17460,employmentindustries,Public Administration,"Cleveland, OH",2020,0.0392
+34980,employmentindustries,Public Administration,"Nashville, TN",2020,0.042
+41940,employmentindustries,Public Administration,"San Jose, CA",2020,0.0265
+47260,employmentindustries,Public Administration,"Virginia Beach, VA",2020,0.0932
+39300,employmentindustries,Public Administration,"Providence, RI",2020,0.042300000000000004
+27260,employmentindustries,Public Administration,"Jacksonville, FL",2020,0.047400000000000005
+33340,employmentindustries,Public Administration,"Milwaukee, WI",2020,0.030699999999999998
+36420,employmentindustries,Public Administration,"Oklahoma City, OK",2020,0.0746
+39580,employmentindustries,Public Administration,"Raleigh, NC",2020,0.0535
+32820,employmentindustries,Public Administration,"Memphis, TN",2020,0.046
+40060,employmentindustries,Public Administration,"Richmond, VA",2020,0.0697
+31140,employmentindustries,Public Administration,"Louisville, KY",2020,0.0371
+35380,employmentindustries,Public Administration,"New Orleans, LA",2020,0.0555
+41620,employmentindustries,Public Administration,"Salt Lake City, UT",2020,0.0386
+25540,employmentindustries,Public Administration,"Hartford, CT",2020,0.0402
+15380,employmentindustries,Public Administration,"Buffalo, NY",2020,0.0484
+13820,employmentindustries,Public Administration,"Birmingham, AL",2020,0.0409
