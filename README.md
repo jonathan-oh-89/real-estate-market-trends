@@ -13,7 +13,7 @@ https://public.tableau.com/profile/jonathan.oh2482#!/vizhome/Top50Metros-MacroTr
 - Download the most recent data for Metros from https://www.redfin.com/news/data-center. Make sure you download using
 all columns. Update the med_sale_price_Full_Data_data.csv file.
 - Run redfin.py
-- Run unemploment.py (will take a couple minutes)
+- Run unemployment.py (will take a couple minutes)
 - Run import_esri.py
 - Run monthlytrends.py
 - The result will be stored in metrostats.csv and monthlytrends.csv
