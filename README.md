@@ -1,7 +1,7 @@
 # Real Estate Market Trends
 
 This repo pulls together important market trends real estate investors look for. The data is aggregated for the top 50
-metropolitan statistal areas.
+metropolitan statistical areas.
 
 
 # Motivation
